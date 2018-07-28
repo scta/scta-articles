@@ -9,7 +9,7 @@
     <isArticleOf>http://scta.info/resource/plaoulreportatioA</isArticleOf>
     <type>about</type>
     <url>pp-about.xml</url>
-    <title>About the Peter Plaoul's Sentences Commentaries</title>
+    <title>About the Sentences Commentaries</title>
   </article>
   <article>
     <hash>head</hash>
@@ -17,8 +17,7 @@
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>timeline</type>
     <url>PlaoulTimeLineTEI.xml</url>
-    <title>About the Peter Plaoul's Sentences Commentaries</title>
-    <title>Peter Plaoul Life Timeline</title>
+    <title>Timeline</title>
   </article>
   <article>
     <hash>head</hash>
@@ -26,7 +25,7 @@
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>manuscriptlist</type>
     <url>PlaoulTexts.xml</url>
-    <title>Peter Plaoul Manuscripts</title>
+    <title>Manuscripts List</title>
   </article>
   <article>
     <hash>head</hash>
@@ -34,7 +33,7 @@
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>biography</type>
     <url>PlaoulBiograpy.xml</url>
-    <title>Peter Plaoul Biography</title>
+    <title>Biography</title>
   </article>
   <article>
     <hash>head</hash>
@@ -42,7 +41,7 @@
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>bibliography</type>
     <url>bibliography.xml</url>
-    <title>Peter Plaoul Bibliography</title>
+    <title>Bibliography</title>
   </article>
   <article>
     <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
@@ -50,7 +49,7 @@
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>bibliography</type>
     <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
-    <title>Peter Plaoul Bibliography</title>
+    <title>Bibliography (Old)</title>
     <hasSuccessor>http://scta.info/resource/pp-bibliography</hasSuccessor>
   </article>
 </articles>
