@@ -44,4 +44,13 @@
     <url>bibliography.xml</url>
     <title>Peter Plaoul Bibliography</title>
   </article>
+  <article>
+    <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
+    <name>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</name>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <type>bibliography</type>
+    <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
+    <title>Peter Plaoul Bibliography</title>
+    <hasSuccessor>http://scta.info/resource/pp-bibliography</hasSuccessor>
+  </article>
 </articles>
