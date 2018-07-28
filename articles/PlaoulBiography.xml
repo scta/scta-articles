@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+      <title>Biography of Peter Plaoul</title>
+        <author>Jeffrey C. Witt</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2013.1">
+          <title>Biography of Peter Plaoul</title>
+          <date when="2013-01-14">January 14, 2013</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+        <pubPlace>Boston, MA</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref></p>
+        </availability>
+         <date when="2011-03-25">March 23rd, 2011</date>  
+      </publicationStmt>
+      
+      <sourceDesc>
+        <p>No source, born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head subtype="title">Biography of Peter Plaoul</head>
+      <div>
+        <head>Early Life and Education</head>
+        <p>Peter Plaoul was born in either 1352 or 1353. That we know this is really little more than an accident,
+          a fortunate slip of the tongue that found its way into the preserved records of the
+          University of Paris. In a trial of sorts at the University of Paris related to the
+          Blanchard Affair,<note><bibl><author>Bernstein, A.</author>, <title>Pierre D'Ailly and the Blanchard
+              Affair</title></bibl></note> Plaoul was called as witness on August 16th, 1385 and
+          there he identified himself as being 32 years old.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_born"/></note>
+          Therefore, he was born in either 1352 or 1353. The location of his birth is another happy fact gleaned
+          from the documents that record his activity in Church politics. From a speech given in
+          1406, we learn that he is a man of Liege.<note>cf. <bibl corresp="PlaoulBib.xml#Millet2009" type="secondary"><author>Millet</author>, <title type="journal">"Pierre Paoul,"</title> p. 180</bibl>, " 'Je
+            ne suis pas natif de cette obéissance; je suis liégeois' a déclaré
+            Pierre Plaoul dans un discours prononcé le 16 décembre 1406"; cf. <bibl corresp="PlaoulBibPrimary.xml#deChastenet1718"><author>Bourgeois de Chastenet</author>, <title>Nouvelle Histoire de Concile de Constance</title> p. 189</bibl>
+          </note> 
+          We do not know much more than this regarding his early life, though Hélène Millet
+          offers some plausible conjectures. She identifies reasons to think that Plaoul came from
+          modest means, and that Plaoul was brought to the  as a young boy. From here she suggests that Plaoul likely came into
+          contact with Jean Blanchard, who was dean of the cathedral in Liege in 1363 and "was well
+          positioned to identify young talents of the school chapter."<note>Cf. <bibl corresp="PlaoulBibPrimary.xml#Denifle1894" type="primary"><editor>Denifle</editor>, CUP, III, p. ?, #59</bibl>; cf.
+            <bibl corresp="PlaoulBib.xml#Millet2009" type="secondary"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 181</bibl>, ". . . cela expliquerait pourquoi il se trouva dans
+            l'orbite du chancelier Blanchard, l'homme du procès. Ce dernier en effet était
+            un clerc tournaisien qui avait obtenu son premier bénéfice à Liège
+            et il était devenu doyen de la cathédrale de cette ville en 1363; à ce
+            poste, il était bien placé pour déceler les jeunes talents de
+            l'école capitualiare.</note>
+          
+          Sometime after 1371 but before 1378 Plaoul was licensed as a Master in the Arts Faculty. Plaoul mentions that he
+          was licensed in the arts faculty under the chancellor John of Calore, who began his term in 1371.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_artsLicense"/></note> 
+          
+          But the earliest document that identifies Plaoul
+          as a Master of the Arts is a provision from November, 17, 1378.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_masterArts"/></note> 
+          
+          Presumably, then, sometime between 1371 and 1378 Plaoul
+          was licensed in the Arts Faculty. Three more documents from 1385 continue to list Plaoul as
+          a Master of Arts: one from May<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_MAlistedMay"/></note>, one from July<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_MAlistedJuly"/></note>, 
+          and one from August.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_MAlistedAug"/></note> 
+          However, another document also dated to August 1385 begins to list
+          Plaoul as bachelor of theology, suggesting a <hi rend="italic">terminus ad quem</hi> to
+          his career in the arts faculty, and the beginning of his career as a theologian.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_BTHlisted"/></note></p>
+        
+        <p>Alongside these notes about Plaoul's academic status is the title which explains why he appears in <title>Chartularium</title> so often and becomes embroiled in what today is called the "Blanchard Affair." As early as 1381<note>
+        Eric includes this date, but not source</note> 
+          Plaoul is identified as the sub-chancellor of the University of Paris. And on four different occasions in 1385, Plaoul is referred to as sub-chancellor.<note> 
+            April 15th, <ptr type="event" target="PlaoulTimeLineTEI.xml#events_subChanApril"/>; 
+            May <ptr type="event" target="PlaoulTimeLineTEI.xml#events_subChanMay1"/>; 
+            July, <ptr type="event" target="PlaoulTimeLineTEI.xml#events_subChanJuly85"/>; 
+            August, <ptr type="event" target="PlaoulTimeLineTEI.xml#events_subChanAug85"/></note> 
+
+          The nature of the position of sub-chancellor further explains Plaoul's client-patron
+          connection to Jean Blanchard and the Blanchard Affair. It is also an important part of
+          understanding the political allegiances and oppositions that will characterize much of
+          Plaoul's later ecclesiastical career. While it is common to refer to a chancellor of the University of Paris (who in 1385 would have been
+          Jean Blanchard) this is actually a misnomer. Blanchard was actually the chancellor of the Church of Paris, an
+          ecclesiastical position within the cathedral chapter. The rector of the university, on the other hand, was elected to his position,  represented the University faculty, and served at their pleasure. Rather than represent the University, the chancellor held the responsibility of overseeing the graduation and licensing of students within the university.<note>cf. <bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>,
+            <title type="journal">"Pierre Plaoul"</title>, p. 181</bibl>; She directs our attention further to <bibl>Lewry, O. "Corporate Life in
+            the University of Paris, 1249-14188, and the Ending of the Schism", <title>Journal of
+              Ecclesiastical History</title>, 40 (1989), pp. 511-523</bibl></note> This administrative task was often
+              delegated to his sub-chancellor, who, in 1385, was Peter Plaoul.</p>
+        
+        <p>This, in turn, leads us to the explanation for why Plaoul appears within the records of
+          the University as a witness in an on-going trial. At the heart of the Blanchard Affair was
+          the accusation that Blanchard, and Plaoul with him, were extorting money from students in
+          return for letters of recommendation and licensing for degrees.<note>cf. <bibl corresp="PlaoulBib.xml#Bernstein1978"><author>Bernstein, A.</author>,
+            <title>Pierre D'Ailly and the Blanchard Affair</title>, p. ?</bibl>; <bibl corresp="PlaoulBib.xml#Guenée1991"><author>Guenèe, B.</author>, <title>Entre
+            l'Église et l'État</title>, 185-189</bibl>; <bibl corresp="PlaoulBib.xml#Millet2009"><author>Millet, H.</author> <title>"Pierre Plaoul,"</title>, 182</bibl></note> In particular,
+          both Blanchard and Plaoul were accused of acting unfavorably especially toward those who
+          were sympathizers with Pope Urban VI (1378-1389), the first Roman Pope of the Western
+          Schism.<note><bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 182</bibl></note> As is the case in universities today,
+          there was often tension between the administration and the faculty and/or students. The
+          Blanchard Affair is an instance in which this tension grew to the point of breaking.
+          Because Plaoul was most likely responsible for the nitty gritty of administrative
+          activities, it was natural that he would be caught up in the affair. Whether their
+          favoritism is true or unfounded, it is also clear that Plaoul, through his patron, was
+          originally aligned with the Avignon Pope. But this would change as Plaoul began actively
+          looking for a way to end the schism.</p>
+      </div>
+      <div>
+        <p>Despite Blanchard's good standing in the eyes of the Avignon Pope, Clement VII
+          (1378-1394) was forced to examine the accusations made against him and Plaoul.
+          Importantly, the Pope appointed Pierre D'Ailly to try the case. D'Ailly was a rising
+          superstar at Paris and this first opposition to Plaoul would not be his last. Moreover,
+          D'Ailly was a teacher at the College of Navarre and was recently appointed its rector. It
+          was here that D'Ailly formed a close bond with his student Jean Gerson.<note>Cf. <bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 183</bibl></note></p>
+        
+        <p>D'Ailly was successful in his prosecution, and Blanchard was forced to leave his post.
+          Millet suggests that not only did Plaoul lose his post, but he also felt that it was best
+          to leave Paris for awhile.<note><bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 183</bibl></note> For this reason,
+          she surmises, we next find him in Avignon from 1386-1387 under the auspices of Cardinal
+          Pierre Ameih. Millet further tells us that Plaoul is most likely still benefiting from the
+          protection of Blanchard, who was an acquaintance of Cardinal Ameih in his youth.<note>Cf.
+            <bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 183</bibl></note></p>
+      </div>
+      <div>
+        <head>Plaoul's Commentary on the Sentences</head>
+        <p>After this brief time away, we find Plaoul active once again at Paris in the 1390's. In
+          the academic year of 92/93 he gave his inaugural lectures on the <hi rend="italic">Sentences</hi> of Peter Lombard: a pinnacle achievement for a bachelor in theology,
+          similar to the completion of a dissertation in today's universities. In the following year
+          of 1394, Plaoul is found in the records of the University again, this time listed as a
+          Master of Theology.<note>CUP, III: 605</note> While Plaoul's name only infrequently
+          appears in 20th and 21st century scholarship, where it does, it is often associated with a
+          1939 article by P. Glorieux, which pertains to these inaugural lectures.<note><bibl type="secondary" corresp="PlaoulBib.xml#Glorieux1939"><author>Glorieux, P.</author>
+            <title type="journal">"L'année universitaire 1392–1393 à la Sorbonne à travers les notes d'un étudiant,"</title>, 429–482.</bibl></note> Glorieux's
+          article is a survey of the historical data that can be gleaned from a unique historical
+          document; BNF lat. 3074 (Ms. P) represents the survival of student's notes, who faithfully
+          attended Plaoul's lecture from the fall of 1392 to the spring of 1393. The student in
+          question is named <name>Richard of Basoches</name>, who provides us with a unique view into the lecture
+          cycle at Paris in the early to mid 1390's. Despite Glorieux's close attention to this
+          document, his interest is only historical. When compared to the other surviving
+          manuscripts, we can see that <name>Richard of Basoches's</name> notes are both the work of a meticulous
+          student and also substantially abbreviated from the more expanded and polished drafts we
+          have.</p>
+        
+        <p>To this record of Plaoul's lectures, we can identify the existence of six other witnesses.
+          Two manuscripts in the National Library of France exist along with the notes of <name>Richard
+            Bosoches</name>.<note>
+              Mss. S and SV
+            </note> 
+          A fourth very nice manuscript, dated to 1412, can be
+          found at Reims, which shows a continued interest in Plaoul's work nearly 20 years after it
+          was originally presented in the classroom.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_reimsMay"/>
+            Ms. R; the inscription on an inside flap
+            of the codex reads: "Difficultates[?] theologicas[?] Philippi Padua[?] et Petri Plaoul
+            Episcopi Silvanectensis Super fide catholica. / Datur [?] hic liber ab Aegidio de
+            Aspivomoul - die May 18 anno domini 1412"
+          </note> 
+          Mss. S, SV, and R clearly belong to the same branch of stemma tree. A fifth complete manuscript is
+          contained in the Vatican Latin manuscript collection. What version of Plaoul's commentary this manuscript represents is still unknown. Unlike mss. S, SV, and R, it preserves a collatio. From lectio 1 to 31 it tracks 
+          fairly close with S, SV, and R, enough so that its variants can be compiled in apparatus. 
+          But beginning at lectio 32, when text turns to consider the notions of 'use' and 'enjoyment', it makes a surprising divergence. 
+          It diverges from text it was previously tracking with to the point that its variants cannot be tracked in a simple apparatus. 
+          However, the variation is not as great as in the case of ms. P or E. It remains close enough in content to identify identical paragraph units. 
+          But the paragraphs appear to be either a first draft or a rewrite. Whether ms. V represents an earlier draft and S, SV, and R represent a rewrite 
+          or whether the relationship is the reverse still remains to be decided. 
+          A sixth manuscript also exists at the Universitätsbibliothek
+            Erlangen-Nürnberg.<note>
+              Ms. E
+            </note> 
+          This manuscript is also currently something of a
+          mystery. It appears to be carefully constructed (its handwriting is careful and the pages
+          are artfully highlighted with red ink). Likewise, it contains clearer lectio divisions than those found in any of the other manuscripts; 
+          sometimes these lectio divisions even include helpful subtitles about the content of the lectio. 
+          However, while tracking the order of discussion in the other manuscripts, it is also heavily abbreviated. 
+          Despite it divergence from S. SV, R, it also diverges significantly from the report of Richard of Basoches (ms. P) and the witness of ms. V. 
+          Finally, a seventh manuscript (ms. VP) was identified by A. Maier in 1958, which was not mentioned in Stegmueller's report. 
+          Maier states that this manuscript is another Reportatio, however it is distinct from the report given by Richard of Basoches.<note>
+            Maier 1958; At this time I cannot confirm whether or not this manuscript is related to any of other manuscripts, as I have not yet been able to acquire a reproduction.
+          </note> 
+        </p>
+        
+      </div>
+      <div>
+        
+        <head>Church and Politics</head>
+        <p>In an effort to end the Great Schism, King Charles VI called three meetings of the French
+          clergy in the 1390's. The reports from these meetings constitute our primary knowledge of
+          Plaoul's from 1394 to 1398.</p>
+        
+        <p>However, prior to the first clerical meeting, in February of 1394 the University had endeavored to end an
+          internal controversy over where to place the University's allegiance.<note>cf. <bibl type="secondary"><author>Lewry, O.</author>
+            <title type="journal">"Corporate Life at Paris University,"</title> 521</bibl></note> Records indicate that Plaoul, as a
+          newly minted Master of Theology, was a participant in this discussion.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_attendMeetFeb"/> cf. <bibl type="secondary"><author>Lewry, O.</author>, <title type="journal">"Corporate Life at Paris University,"</title>
+            521-22</bibl></note> A year later, in February of 1395, Charles VI called the first meeting of the French clergy
+          and Plaoul was present as a representative of the University.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_firstAssemFeb"/></note> Following this first meeting, in June of the same year, Plaoul
+          was sent on a propaganda mission to the north (primarily Boehemia and Hungary).<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_sentBohHunJune"/></note> Upon his return, on August 28th, he petitioned to speak 
+          at the second clergy council already under way.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_petitionsAug"/></note> Permission was granted, and the next day, August 29th, he gave a speech defending the need to
+          force the Avignon Pope (now Benedict XIII) to surrender.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_speaksAug"/></note> 
+          
+          This stands in contrast to the position taken by D'Ailly and
+          Gerson, who as chancellors of the University more closely represented the positions of
+          their bishop than the University. Millet notes that both received some nice ecclesiastical
+          promotions in the mid-90's from their continued allegiance to Benedict XIII. D'Ailly
+          became bishop of Le Puy in 1395 and passed his chancellery to Gerson. (Gerson and D'Ailly
+          only became champions of conciliarism at a later date.)<note><bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>,
+            198</bibl></note> Thus, Plaoul, in 1396, acting as a representative of the University, found
+          himself not only politically opposed to D'Ailly for a second time, but now also opposed to
+          the newly appointed chancellor of the University.</p>
+        
+        <p>On November 11th, 1936 an event is recorded that still remains puzzling to scholars. 
+          Plaoul is asked to attend a Royal council and defend a position proscribed by the University. 
+          Whether the university wanted him to argue for subtraction of obedience or against remains unclear. 
+          It would be odd that Plaoul would argue against subtraction, since this inconsistent with the position he argued for earlier in the same year and with the position he will argue for later in 1398. 
+          However, the report from the council in February of 1397 lists Plaoul as someone who argued against subtraction.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_royalCouncilFeb"/></note> 
+          This inconsistency of this position, however, might explain why Plaoul had to be threatened by the university to argue for 
+          the proscribed position or face the penalty of losing his University status. 
+          Millet, however, suggests that record noting that Plaoul argued against subtraction might be plausible attributed to a scribal error.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_orderedNov"/></note>. 
+          In any event, after being ordered by the University, Plaoul did attend the Royal Council in February 1397.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_royalCouncilFeb"/></note></p>
+          
+          <p>In 1398 the King called the third and
+          more famous council of French clergy. At this meeting, Plaoul was one of twelve
+          people appointed to speak.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_speaksMay"/></note> 
+            He also gave a closing speech on June 7, 1398, in which he again
+            advocated for a withdrawal of obedience from the Avignon Pope.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_speaksJune"/></note> 
+            This also turned out to be the will of the assembly, which called
+            for a withdrawal of obedience at the conclusion of the meeting.</p> 
+            
+        <p>Between 1398 and 1407, Plaoul’s political prominence rose and fell with the policy of subtraction. 
+          In December 1398, a few months after subtraction took effect in France, he was slated to join an embassy to Benedict XIII led by Louis,
+          duke of Orléans, which was later cancelled.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_joinEmbDec"/></note>  
+          In 1399 he participated in an embassy to the Low Countries which convinced the bourgeois and clergy of Liège 
+          to remove their obedience from the Roman pontiff, Boniface IX<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_LiegeSent"/></note> 
+          He was still absent from Paris in January 1400, when his request to participate in the conferral of benefices in absentia through a proctor was denied.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_deniedBeneJan"/></note> 
+          However, as France moved first toward a restoration of obedience to Benedict (May 1403) and then enjoyed a brief period of friendly relations, Plaoul disappears from the written record – not even submitting a supplication in the University’s massive rotulus of 1403, in which even many of Benedict’s die-hard opponents secured inclusion.<note>
+            <bibl type="primary" corresp="PlaoulBibPrimary.xml#Denifle1897"><editor>Denifle</editor>, CUP IV, #1792-1796<ref target="http://books.google.com/books?id=Vl2AcADKfw4C&amp;pg=PA73%23v=onepage&amp;q&amp;f=false">GL</ref></bibl>. Prominent opponents of the pope who nonetheless petitioned on this occasion included Jean de Courtecuisse, Guillaume Euverie, Gilles des Champs, Jean Petit, and Pierre le Roy. 
+          </note></p>
+        
+        <p>Nevertheless, when disillusion with Benedict began to set in once more, Plaoul rose to prominence again. 
+          In 1405 he headed a secret university embassy to Innocent VII, 
+          the newly elected Roman pontiff, with the goal of establishing friendly contacts.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_embassy1405"/></note>
+          By 1406 the University openly advocated a policy of renewed subtraction from Benedict, 
+          and Plaoul emerged (along with Jean Petit) as an official spokesman for this policy. 
+          The two scholars first appeared before the Parliament of Paris in a successful effort to secure 
+          first condemnation of an anti-subtractionist letter published by the University of Toulouse (May-June)<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_seeksCondemMay"/></note> 
+          and then support from the Parliament for a renewed policy of subtraction (September).<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_seeksSubtracJune"/></note>
+          When the University pressed for a Fourth Assembly of the French clergy to consider renewal of the subtraction policy (November 1406), 
+          Plaoul was one of three spokesmen for the University’s policy, but his argument was different from the others.<note>
+            For a summary of proceedings at the Council, see <bibl corresp="PlaoulBib.xml#Valois1901"><author>Valois</author>, <title>La France</title>, III, pp. 459-472 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA459%23v=onepage&amp;q&amp;f=false">GL</ref></bibl>.  
+          </note>
+          While Jean Petit and Simon de Cramaud advanced the dubious contention that France’s restoration of 
+          obedience to Benedict in 1403 had been conditional (and was voided by his bad faith),<note><bibl type="primary" corresp="PlaoulBibPrimary.xml#deChastenet1718"><author>Bourgeois de Chastenet</author>, <title>Nouvelle Histoire de Concile de Constance</title>, 
+            pp. 105-124. <ref target="http://books.google.com/books?id=auxGAAAAcAAJ&amp;dq=Chastenet&amp;pg=RA1-PA105%23v=onepage&amp;q&amp;f=false">GL</ref></bibl>
+          </note>
+          Plaoul simply argued that the Schism was a ‘violent thing’ which required going beyond the ‘order of law,’ 
+          a move justified by Benedict’s own schismatic, or even heretical, nature.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_speaks4thAssDec"/></note>      
+          However, rather than providing the immediate and total subtraction of obedience that the University sought, 
+          the decision of the Fourth Clerical Assembly established the principle of royal control over beneficial affairs in France 
+          while maintaining a renewed subtraction as a future threat rather than present policy.<note>
+            <bibl type="primary" corresp="PlaoulBibPrimary.xml#Martene1717"><editor>E. Martène</editor> and <editor>U. Durand</editor> (eds.), <title>Thesaurus Novus Anecdotorum</title> II, cols. 1307-1310 <ref target="http://books.google.com/books?id=4qI-AAAAcAAJ&amp;pg=PT634%23v=onepage&amp;q&amp;f=false%20">GL</ref></bibl>; <bibl type="secondary">Valois, France III, pp. 475 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA475%23v=onepage&amp;q&amp;f=false">GL</ref></bibl>
+          </note>
+          This helps to explain Plaoul’s awkward position in a large embassy sent to meet with Benedict in May 1407,<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_embassyMayJul"/></note>
+          during which he did not serve as spokesman and was forced to show elaborate respect to the pontiff whom he had attacked so violently a few months before.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_embassyMay"/></note>
+          However, as the embassy moved on to the court of the Roman Pope Gregory XII with the goal of arranging a colloquy between the two pontiffs, 
+          Plaoul returned to his familiar role as University spokesman, offering a sermon before the new pontiff in favor of the <hi rend="italic">via cessionis</hi>.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_embassyJul"/></note>
+          Nevertheless, hopes for the <hi rend="italic">via cessionis</hi> dimmed in late 1407 when a planned meeting between the rival pontiffs failed to take place, 
+          leading many to the conclusion that a workable solution to the Schism would have to circumvent the papal rivals themselves.</p>
+          
+        <p>Beginning in 1408, therefore, widespread international support mobilized behind a conciliar solution to the Schism, and Plaoul played an important role in this development. Having remained in Italy along with Simon de Cramaud into 1408,
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_italy"/></note> 
+          both masters were probably present at the defection of the majority of the Roman college of cardinals from Gregory in May 1408 and definitely served as facilitators and witnesses for the merger of the two colleges of cardinals in June of that year.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_italyJune"/></note>
+          Nevertheless, according to Monstrelet, Cramaud and Plaoul were able to return to Paris by September 1408 when they appeared in the Fifth Assembly of the French Clergy which dealt with the aftermath of France’s own declaration of neutrality with regard to both popes in May 1408, a move that laid the groundwork for the French support of the Council of Pisa.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_returnParisAug"/></note>
+          Plaoul’s own crowning performance came some months later in May 1409 at a meeting of the council, where he delivered a sermon before an audience of more than 100 theologians. We only have scattered
+          reports of the sermon, but his basic message appears to be that both Popes were heretics
+          and schismatics, and therefore they must be removed from their offices.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_preachesPisa"/></note>
+          The Council’s choice of Alexander V as a new pope at first seemed to offer some hope of achieving a resolution to Schism, and the new pontiff appointed Pierre Plaoul bishop of Senlis in June of that year.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_bishop"/></note></p>
+        
+        <p>It also important to mention that throughout this time, Plaoul appears to be furthering his intellectual life. 
+          While at present, we do not know of any other literary works besides his Sentences Commentary and his political speeches, 
+          we do know that he was an active patron of the University Library. On June 21, 1405 Plaoul returned 30 books to the library.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_booksJune"/></note> 
+          A month later, July 25, 1405, he returned some books, while keeping others and the library key.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_booksJul"/></note>
+          On October 5th of the same year he returned all his books as well as the library key.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_booksOct"/></note> 
+          But once more in April of 1406, he was once again present in Paris to borrow more books and the library key.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_booksApril"/></note></p>  
+           
+      </div>
+      <div>
+        <head>Final Years</head>
+        <p>Plaoul remained politically prominent until his death in 1415, even as the Pisan solution fell apart.  
+          In May 1410, he delivered to the University of Paris the disappointing news that the new pontiff had died before signing the 
+          University's rotulus of beneficial supplications.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_letterAug"/></note>
+          He returned to France as part of a delegation led by Cardinal Adimari, and in December 1410 he entered into his new see.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_entersSee"/></note>  
+          He was present at an ecclesiastical assembly in February 1412 where representatives of the University of Paris re-vindicated their access to papal provision.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_AssemblyFeb"/></note>
+          He also participated in an embassy aimed at bringing peace between the increasingly violent factions of Bourguignons and Armagnacs.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_sentAuxAug"/></note> Plaoul had been slated to join the university delegation to the Council of Constance, but illness likely prevented his attendance, and he died early in 1415.<note>
+              <ptr type="event" target="PlaoulTimeLineTEI.xml#events_dies"/></note>
+          Through these final years, Plaoul continued to be active intellectually and remained in close connection with the University. In 1411 he borrowed 18 books fromt he College of Chollets.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_books1411"/></note>
+          In August of 1412 the University asked Plaoul to accept the office of protect of the privileges of the University.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_protectorAug"/></note> And in 1415, the year of his death, Plaoul bequeathed to the Sorbonne a bible with concordances, and a copy of Albert the Great's Commentary on the Sentences. These gifts earned Plaoul a commemorative portrait in one of the windows of the library of the Sorbonne. Unfortunately, this building no longer exists and Plaoul's physical portrait remains a secret lost to history.<note>
+              <ptr type="event" target="PlaoulTimeLineTEI.xml#events_gifts"/></note></p>
+      </div>
+      <div>
+        <head>Plaoul's Legacy</head>
+        <p>Through close attention to the registry of the library at the College of
+          Sorbonne,<note>
+            ms. Mazarine 3323; cf. Vielliard, J., <title>Le Registre de prêt de la
+            bibliothèque du Collège de Sorbonne (1402-1536)</title>, Paris, 2000
+            (Documents, études et épertoires publiés par l'IRHT), 786; cf. Millet,
+            H., "Pierre Plaoul," 196; cf. "Les débuts de l'Albertisme tardif (Paris et Cologne)" in
+            <title>Albertus Magnus und der Albertismus</title>, (Leiden: Brill, 1995),
+            246).</note> 
+          we can see a continued interest in Plaoul's work well into the late 15th century. 
+          In his 1423 Commentary on the Sentences, <name>Lambertus de Monte</name> includes citations from Peter Plaoul 
+          in the margin alongside his text in at least 5 places. 
+          Close analysis of the passages cited suggest that Lambertus was using mansucript E, 
+          now held in the Library at Erlangen-Nuremburg.<note>
+            <bibl type="primary">Biblioteque Royale de Belgique, 760, 1715, C (or Bruxelles, KB 760), f. 8r, f. 12r, f. 25r, f. 26r, f. 71v</bibl>; 
+            cf. <bibl type="secondary">Mario Meliadò and Silvia Negri, "Neues zum Pariser Albertismus des frühen 15. Jahrhunderts. 
+            Der Magister Lambertus de Monte und die Handschrift Bruxelles, KB 760" Bulletin de philosophie médiévale 53/2011</bibl>
+          </note> 
+          We also know that one version of Plaoul's text (ms. VP), once in the possession of <name>Henricus de Gouda</name> was bequeathed to the Library at 
+          the University of Heidelberg on November 11, 1428.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_msGiftedNov"/></note> 
+          Much later, on September 10th, 1464, library records at the college of the Sorbonne show that Plaoul's Commentary on the Sentences was in the possession of <name>Henricus de Quesnayo</name>.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_henricusCheckout"/> [db check - in timeline list this is October 9th]</note> 
+          Henricus appears to either have renewed or returned the book nearly two years later on December 28, 1466.<note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_henricusRenew"/>
+          </note> 
+          Approximately 10 years later, <name>Johannes Cordier</name>, who obtained his doctorate in theology in 1480, was a defender of <name>Pico della Mirandola</name>, and was probably arrested with him in 1488, is recorded in the library record has having borrowed the <title>Sentences Commentary</title> of Plaoul on the sixth of January, 1476.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_CordierCheckout"/></note> 
+          
+          Likewise, <name>Fabianus Cadrigarii</name>, who appears in the record from 1474 to 1477, is identified as having borrowed and read the commentary of Plaoul.<note>
+            <bibl type="secondary">Kaluza, Z., "Les débuts de l'Albertisme tardif (Paris et Cologne),"
+          289</bibl>
+          </note>Sometime in 1479, the same text was checked out by <name>Cornelius Audendick</name>.
+          <note><ptr type="event" target="PlaoulTimeLineTEI.xml#events_AudendickCheckout"/></note>
+          <name>Johannes Lalier</name>, who was received into the College of the Sorbonne in 1478, checked out Plaoul's text June 9th, 1481.<note>
+            <ptr type="event" target="PlaoulTimeLineTEI.xml#events_LalierCheckout"/></note> 
+          Millet has also looked at this
+          registry and observes that between 1464 and 1479<note>
+          why 1479 - since registry suggest Lalier checkout the text in 1481 -- double check Millet
+          </note>Plaoul's commentary had at least five
+          readers. She notes that this puts him on the short list of the most frequently checked out
+          works. It ranks higher than that of Pierre D'Ailly's consideration of the <title>Treatise
+            on the Sphere</title> of Jean de Sacrobosco, which was checked out three times during
+          the same period.<note>
+            Cf. Vielliard, J., <title>Le Registre de prêt de la
+            bibliothèque du Collège de Sorbonne (1402-1536)</title>, 786; cf. Millet, p.
+            196).</note> 
+          While 5 readers in 15 years may not seem like a lot, Millet describes this
+          as a kind of resurgence, the cause of which remains a relative mystery as long as the
+          contents of his commentary remain unknown. As a further point of comparison, she notes
+          that Gerson's work does not even appear to be listed in the library's collection.<note>
+            <bibl type="secondary" corresp="PlaoulBib.xml#Millet2009"><author>Millet</author>, <title type="journal">"Pierre Plaoul"</title>, 196</bibl>, "Quantà Gerson, il était purement et
+            simplement absent des rayonnages. Faute de connaître le contenu du Commentaire de
+            Pierre Plaoul, on ne saurait expliquer ce regain de faveur par la coloration
+            philosophique de son enseignement."</note></p>
+      </div>
+    </body>
+  </text>
+</TEI>

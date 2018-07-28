@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography of Manuscript Witness of the Plaoul's Commentary on the Sentences</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Generated from Zotero database</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listBibl>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoula">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Erlangen, Universitätsbibliothek Erlangen-Nürnberg, ms. 511 (Ms. E)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoulb">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Città del Vaticano, Biblioteca Apostolica Vaticana, ms. Cod. pal. lat. 373 (Ms. PV)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoulc">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Paris, Bibliothèque Nationale de France, ms. lat. 14534 (Ms. SV)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaould">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Città del Vaticano, Biblioteca Apostolica Vaticana, ms. Cod. Vat. lat. 4284 (Ms. V)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoule">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Paris, Bibliothèque Nationale de France, ms. lat. 15897 (Ms. S)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoulf">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Paris, Bibliothèque Nationale de France, ms. lat. 3074 (Ms. P)</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="Petrus_Plaoul1412">
+          <monogr>
+            <title>Commentarius in libris Sententiarum</title>
+            <author>
+              <name>Petrus Plaoul</name>
+            </author>
+            <imprint>
+              <pubPlace>Reims, Bibliothèque Municipale, ms. 506 (Ms. R)</pubPlace>
+              <date>1412</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </listBibl>
+    </body>
+  </text>
+</TEI>

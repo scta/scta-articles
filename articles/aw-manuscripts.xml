@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wodeham Manuscripts</title>
+           
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication information</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+           <head>Manuscripts</head>
+           <div>
+             <head>Lectura Secunda: </head>
+             <p>Cambridge, Gonville and Caius, Ms 281 (674), ff. 105-250.</p>
+           </div>
+           <div>
+             <head>Reportatio Oxoniensis</head>
+             <p>Vatican Library, Vat. Lat., MS 1110 (books II-IV)</p>
+           </div>
+           <div>
+             <head>Collectio Brevis</head>
+             <p>Bruges, Bibl. de la Ville, Ms. 172, ff. 27r-110v (books I-IV)</p>
+             <p>Florence, Bibl. Naz. Conv. Soppr. A III 508, ff. 147va-154vb (lect. Ox. I, d. 1, q. 6)</p>
+             <p>Florence, Bibl. Naz. Conf. Soppr. B. VII 1249, ff. 1ra-174rb (books I-IV)</p>
+             <p>Klosterneuburg, Stiftsbibliothek, CCI 291, ff. 1ra-106vb (books I, III)</p>
+             <p>Paris, Bibl. Nat., Cod. Lat 15892, ff. 1ra-174ra (books I-IV)</p>
+             <p>Vatican Library, Vat. Lat., MS 955 (book I), marginalia</p>
+           </div>
+           <div>
+             <head>Ordinatio Oxoniensis</head>
+             <p>Bruges, Bibl. de la Ville, Ms. 172 (book IV)</p>
+             <p>Paris, Bibl. Mazarine, Ms 915 (books I-IV)</p>
+             <p>Paris, Bibl. de la Sorbonne, MS 193 (books I-IV)</p>
+             <p>Tarazona, Bibl. de la Catedral, MS cod. 7 (books I-IV)</p>
+             <p>Vatican Library, Vat. Lat., MS 955 (book I)</p>
+           </div>
+           <div>
+             <head>Fragmenta et Abbreviationes sive Extractiones</head>
+             <p>Vatican Library, Cod. Vat. lat. 869, ff. 214vb-217va</p>
+             <p>Hanover, Stadtbibliothek, HS. 1, ff. 1ra-47vb, 69va-75ra, 76v (I, d. 17, qq. I-IV)</p>
+             <p>Naples, Bibl. Naz., Cod. VII C 53, ff. 1ra-108ra (books I-IV)</p>
+           </div>
+           <div>
+             <head>Abbreviatio</head>
+             <p>Barcelona, Bibl. Cat., Ms. 38 (books I-IV)</p>
+             <p>Berlin, Staatsbibl., hs. Theol. Lat. 2&#186; 534 (books I-IV)</p>
+             <p>Klosterneuburg, Stiftsbibl., Hs. 296 (books I-IV)</p>
+             <p>Krakow, Bibl. Jagiellonska, Ms. 1176 (books I-IV)</p>
+             <p>Krakow, Bibl. Jagiellonska, Ms. 1195 (books I-IV)</p>
+             <p>Krakow, Bibl. Jagiellonska, Ms. 1197 (books I-IV)</p>
+             <p>Mainz, Stadtbibl., Hs. I 53 A (book IV)</p>
+             <p>Pamplona, Bibl. Cat., Ms. 1, (books I-IV)</p>
+             <p>Paris, Bibl. Nat., Ms. lat. 15893 (books I-IV)</p>
+             <p>Paris, Bibl. Nat., Ms. lat. 15894 (books I-IV)</p>
+             <p>Paris, Bibl. Mazarine, Ms. 916 (books I-IV)</p>
+             <p>Paris, Bibl. Mazarine, Ms. 917 (books I-IV)</p>
+             <p>Reims, Bibl. de la Ville, Ms. 504 (books I-IV)</p>
+             <p>Rouen, Bibl. de la Ville, Ms. 581 (A 285) (books I-IV)</p>
+             <p>Toulouse, Bibl. de la Univ., Ms. 246 (books I-IV)</p>
+             <p>Toulouse, Bibl. de la Univ., Ms 247 (books I-IV)</p>
+             <p>Vienna, Bibl. Nat., Hs. 4371 (book I)</p>
+           </div>
+           <div>
+             <head>Notes</head>
+             <p>&#8224; This list of manuscripts was compiled using the following sources:</p>
+             
+             <p>Courtenay, William J.  <title>Adam Wodeham: An Introduction to His Life and Writings</title> (Leiden: Brill, 1978)</p>
+             
+             <p>Stegm&#252;ller, Friedrich. <title>Repertorium Commentariorum in Sententias Petri Lombardi,</title> 2 vols. (W&#252;rzburg, 1947)</p>
+             
+             <p>&#8225; This manuscript was only recently found by Chris Schabel. See Schabel, Chris. "The Sentences Commentary of Gerardus Odonis, OFM," in <title>Bulletin de philosophie m&#233;di&#233;vale</title> 46, (2004), 115-161. (The reference is on pages 128-129).</p>
+             
+           </div>
+         </div>
+      </body>
+  </text>
+</TEI>

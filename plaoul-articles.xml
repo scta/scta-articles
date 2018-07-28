@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <!-- Plaoul related articles -->
+  <article>
+    <hash>head</hash>
+    <name>pp-about</name>
+    <isArticleOf>http://scta.info/resource/plaoulcommentary</isArticleOf>
+    <isArticleOf>http://scta.info/resource/plaoulreportatio</isArticleOf>
+    <isArticleOf>http://scta.info/resource/plaoulreportatioA</isArticleOf>
+    <type>about</type>
+    <url>pp-about.xml</url>
+    <title>About the Peter Plaoul's Sentences Commentaries</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>pp-timeline</name>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <type>timeline</type>
+    <url>PlaoulTimeLineTEI.xml</url>
+    <title>About the Peter Plaoul's Sentences Commentaries</title>
+    <title>Peter Plaoul Life Timeline</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>pp-manuscripts</name>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <type>manuscriptlist</type>
+    <url>PlaoulTexts.xml</url>
+    <title>Peter Plaoul Manuscripts</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>pp-biography</name>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <type>biography</type>
+    <url>PlaoulBiograpy.xml</url>
+    <title>Peter Plaoul Biography</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>pp-bibliography</name>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <type>bibliography</type>
+    <url>bibliography.xml</url>
+    <title>Peter Plaoul Bibliography</title>
+  </article>
+</articles>

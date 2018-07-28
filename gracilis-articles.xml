@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article
+    <hash>head</hash>
+    <name>gracilis-bibliography</name>
+    <isArticleOf>http://scta.info/resource/PetrusGracilis</isArticleOf>
+    <type>bibliography</type>
+    <url>https://api.zotero.org/groups/555244/collections/GE4AB4QB/items?format=tei</url>
+    <title>Gracilis Bibliography</title>
+  </article>
+</articles>

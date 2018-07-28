@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>About Document</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born Digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body xml:lang="en">
+         <div type="aboutsection" xml:id="theproject">
+            <head>The Project</head>
+             <p>The present project is built on the LombardPress framework and attempts to instantiate the publishing principles and aims that motivate LombardPress. For more on these principles and aims please visit the <ref target="http://jeffreycwitt.com/lombardpress/">LombardPress Project Home Page</ref>.</p>
+            
+         </div>
+          <div type="aboutsection" xml:id="editorialteam">
+              <head>The Editorial Team</head>
+              <p>Olli Hallamma</p>
+              <p>Jeffrey Witt</p>
+              <p>John Slotemaker</p>
+              <p>Severin Kitanov</p>
+             
+              
+          </div>
+         <div type="aboutsection" xml:id="reviews">
+            <head>Reviews and Mentions</head>
+               <p>Do you know of other reviews, mentions, or listings? Please let us know at jcwitt [at] loyola [dot] edu</p>
+         </div>
+         <div type="aboutsection" xml:id="citation">
+            <head>Progressive Publication and Stable Citation Practices</head>
+         
+         <p>Progressive publication works in the following way:</p>
+               
+               <p>The Adam Wodeham Ordinatio Critical Edition attempts to make the transcriptions of the text available as early as possible, even before the transcription is complete and polished.</p>
+               
+               <p>This means that the text itself can change overtime. Section divisions can change. Paragraphs may be joined or separated. Footnotes and cross references will be added. And transcriptions will be corrected and amended as errors are noticed.</p>
+               
+               <p>Despite the dynamic nature of the text, stable citations are still possible with the help of source control. As a text is prepared, published, corrected, and re-published, the various versions of the text are versioned and given a corresponding version number. When a user cites the text and provides the version or edition number of the text they are using, this ensures that future users will be able to find the version that was cited. When a user navigates to a particular "lectio", where previous version exists, a drop down menu will appear. Users can select the desired version from that list and view the version of the text that was cited.</p>
+               
+               <p>For example, if a users cites paragraph no. 5 from version 2011.2 and paragraph 5 becomes paragraph no. 6 in version 2012.12, the person looking for this citation can simply select version 2011.2 from the drop down list and see the text as it was when it was originally cited.</p>
+               
+               <p>For more information on progressive publication, see <ref target="http://jeffreycwitt.com/lombardpress/progressivepublication">LombardPress's statement on progressive publication</ref></p>
+            
+            
+         </div>
+         <div type="aboutsection" xml:id="peerReview">
+            <head>Peer Review</head>
+            
+               <p>For the principles and procedures of Peer Review used by LombardPress, please see <ref target="http://jeffreycwitt.com/lombardpress/peerreview/">LombardPress's Statement on Peer Review</ref></p> 
+               <p><ref target="../preeditors/preditorslist.php">Click here for a list of current peer review editors</ref></p>   
+            
+         </div>
+         <div type="aboutsection" xml:id="support">
+            <head>How Can I Support This Project?</head>
+               <p>You can support this project in number of ways.</p>
+               <p>First: use, comment, and cite the text. By commenting on this text, noting mistakes or suggesting changes, you help make this text better. By citing this text, you help establish the credibility and the reputation of text. In this way, the legitimacy of this form of publication will be able to recognized by non-specialists and administrators.</p>
+               <p>Second: you can share the text with others. If you find a paragraph or section of the text that you know other scholars will be interested in, please share the text with them. The researchers who know about the availability of this data, the faster scholarship of the late middle ages will advance.</p>
+               <p>Third: if you like the project, considering leaving a review (or blurb) to be published on the website for new visitors to see. Reviews and blurbs of this kind will help new users and non-specialists to understand the quality and benefit of this form of publication. In turn, new users will feel comfortable and encouraged to read and cite text in their own research. You can leave a review or blurb by <ref target="mailto:jcwitt@loyola.edu?subject=Review/Blurb of the Peter Plaoul Electronic Critical Edition">emailing Jeffrey C. Witt at jcwitt [at] loyola [dot] edu</ref></p>
+               <p>Fourth: if you have an expertise in Latin or Medieval Philosophy/Theology considering signing up to be a "peer review editor" of a particular lectio. See the "peer review" section to learn more about what it means to be a peer review editor and how to sign up.</p>
+            
+         </div>
+         <div type="aboutsection" xml:id="acknowledgments">
+            <head>Acknowledgments</head>
+            
+               <p>Thanks are due to:</p>
+               <p>University of Helsinki, Faculty of Theology</p>
+               <p>Boston College Theology Department</p>
+               <p>Boston College Philosophy Department</p>
+               <p>The Boston College Institute for Medieval Philosophy and Theology</p>
+               <p>Ted Witt for donating the domain name of our site</p>
+            
+            
+         </div>
+      </body>
+  </text>
+</TEI>

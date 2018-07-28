@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <!-- Wodeham related articles -->
+  <article>
+    <hash>head</hash>
+    <name>aw-about</name>
+    <isArticleOf>http://scta.info/resource/wodehamordinatio</isArticleOf>
+    <type>about</type>
+    <url>aw-about.xml</url>
+    <title>About the Wodeham Ordinatio Edition</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>aw-manuscripts</name>
+    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
+    <type>manuscriptlist</type>
+    <url>aw-about.xml</url>
+    <title>List of Wodeham Manuscripts</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>aw-biography</name>
+    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
+    <type>biography</type>
+    <url>aw-biography.xml</url>
+    <title>Wodeham Biography</title>
+  </article>
+  <article>
+    <hash>head</hash>
+    <name>aw-bibliography</name>
+    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
+    <type>bibliography</type>
+    <url>https://api.zotero.org/groups/555244/collections/P7EEKAK7/items?format=tei</url>
+    <title>Wodeham Bibliography</title>
+  </article>
+</articles>

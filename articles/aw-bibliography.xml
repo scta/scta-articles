@@ -1,0 +1,1031 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Adam Wodeham Bibliography</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born Digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <listBibl>
+        <head>Bibliography</head>
+        <biblStruct type="journalArticle" xml:id="Perler2005">
+          <analytic>
+            <title level="a">Emotions and Cognitions: Fourteenth-Century Discussions on the Passions
+              of the Soul</title>
+            <author><forename>Dominik</forename><surname>Perler</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Vivarium</title>
+            <imprint>
+              <biblScope type="vol">43</biblScope>
+              <biblScope type="issue">2</biblScope>
+              <biblScope type="pp">250-274</biblScope>
+              <date>2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Schabel2002">
+          <analytic>
+            <title level="a">Oxford Franciscans After Ockham: Walter Chatton and Adam
+              Wodeham</title>
+            <author><forename>Christopher</forename><surname>Schabel</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Mediaeval Commentaries on the Sentences of Peter Lombard</title>
+            <editor><forename>Gillian Rosemary</forename><surname>Evans</surname></editor>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope type="pp">359-393</biblScope>
+              <publisher>Brill</publisher>
+              <date>2002</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Karger1995">
+          <analytic>
+            <title level="a">William of Ockham, Walter Chatton and Adam Wodeham on the Objects of
+              Knowledge and Belief</title>
+            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Vivarium</title>
+            <imprint>
+              <biblScope type="vol">33</biblScope>
+              <biblScope type="issue">2</biblScope>
+              <biblScope type="pp">171-196</biblScope>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Wood1990">
+          <analytic>
+            <title level="a">Calculating Grace: the Debate About Latitude of Forms According to Adam
+              De Wodeham</title>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Knowledge and the Sciences in Medieval Philosophy, 2. Proceedings of
+              the Eighth International Congress of Medieval Philosophy, Helsinki, 24-29 August
+              1987.</title>
+            <editor><forename>Simo</forename><surname>Knuuttila</surname></editor>
+            <editor><forename>Reijo</forename><surname>Työrinoja</surname></editor>
+            <editor><forename>Sten</forename><surname>Ebbesen</surname></editor>
+            <imprint>
+              <pubPlace>Helsinki</pubPlace>
+              <biblScope type="pp">373-391</biblScope>
+              <publisher>Luther-Agricola Society</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Publications of Luther-Agricola Society</title><biblScope
+              type="vol">B19</biblScope></series>
+          <note>article explains three theories of qualitative change succession theory addition
+            theory admixture theory   She attempts to explain Wodeham's position on three questions:
+            1) Do forms undergo intension and remission? 2) How are qualities intensified? 3) Are
+            maximal degrees in the intensity of forms possible?   1) For Wodeham, an addition
+            theorists, it is not actually the form that is intensified, but the subject. new parts
+            are added the subject and combined with the old parts and new - more intense - form is
+            created. This differs from the succession theorists, who thinks that the old forms is
+            destroyed and replaced by a new more intense form, rather than being taken in as a part
+            of the new form. 2)</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Little1892">
+          <monogr>
+            <title level="m">The Grey Friars in Oxford</title>
+            <author><forename>A. G.</forename><surname>Little</surname></author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Reina1986a">
+          <analytic>
+            <title level="a">Un abbozzo di polemica sulla psicologia animale: Gregorio da Rimini
+              contro Adamo Wodeham</title>
+            <author><forename>Maria Elena</forename><surname>Reina</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">L'Homme et son univers au Moyen Age. Actes du septième congrès
+              international de philosophie médiévale (30 août - 4 septembre 1982)</title>
+            <editor><forename>Christian</forename><surname>Wenin</surname></editor>
+            <imprint>
+              <pubPlace>Louvain-La-Neuve</pubPlace>
+              <biblScope type="vol">2</biblScope>
+              <biblScope type="pp">598-609</biblScope>
+              <publisher>Éditions de l'Institut supérieur de philosophie</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Philosophes Médiévaux</title><biblScope type="vol"
+              >26-27</biblScope></series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Schabel2000">
+          <monogr>
+            <title level="m">Theology at Paris, 1316-1345: Peter Auriol and the problem of divine
+              foreknowledge and future contingents</title>
+            <author><forename>Christopher</forename><surname>Schabel</surname></author>
+            <imprint>
+              <pubPlace>Aldershot</pubPlace>
+              <publisher>Ashgate</publisher>
+              <date>2000</date>
+            </imprint>
+          </monogr>
+          <idno type="ISBN">9780754602040</idno>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Spade1988">
+          <analytic>
+            <title level="a">Anselm and the background to Adam Wodeham's theory of abstract and
+              concrete terms</title>
+            <author><forename>Paul V.</forename><surname>Spade</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Rivista di Storia della Filiosofia</title>
+            <imprint>
+              <biblScope type="vol">2</biblScope>
+              <biblScope type="pp">261-271</biblScope>
+              <date>1988</date>
+            </imprint>
+          </monogr>
+          <note>especially important for understanding Wodeham's distinction 6</note>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Wood1982">
+          <analytic>
+            <title level="a">Adam Wodeham on Sensory Illusions with an Edition of Lectura Secunda,
+              Prologus, Quaestio 3</title>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Traditio</title>
+            <imprint>
+              <biblScope type="vol">38</biblScope>
+              <biblScope type="pp">213–252</biblScope>
+              <date>1982</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Murdoch1966">
+          <analytic>
+            <title level="a">Two Questions of the Continuum: Walter Chatton, OFM and Adam Wodeham,
+              OFM</title>
+            <author><forename>John E.</forename><surname>Murdoch</surname></author>
+            <author><forename>E.</forename><surname>Synan</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">26</biblScope>
+              <biblScope type="pp">212-288</biblScope>
+              <date>1966</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Wood1991">
+          <analytic>
+            <title level="a">The Wodeham Edition: Adam Wodeham's Lectura Secunda</title>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">51</biblScope>
+              <biblScope type="pp">103-115</biblScope>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Brower-Toland2007">
+          <analytic>
+            <title level="a">Fact vs. Things: Adam Wodeham and the Later Medieval Debate about
+              Objects of Judgment</title>
+            <author><forename>Susan</forename><surname>Brower-Toland</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Review of Metaphysics</title>
+            <imprint>
+              <biblScope type="vol">60</biblScope>
+              <biblScope type="issue">3</biblScope>
+              <biblScope type="pp">597-642</biblScope>
+              <date>2007</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Gal1977">
+          <analytic>
+            <title level="a">Adam of Wodeham's Question on the 'Complexe Significabile' as the
+              Immediate Object of Scientific Knowledge</title>
+            <author><forename>Gedeon</forename><surname>Gal</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">37</biblScope>
+              <biblScope type="pp">66-102</biblScope>
+              <date>1977</date>
+              <note type="url"
+                >http://search.ebscohost.com/login.aspx?direct=true&amp;db=phl&amp;AN=PHL1080617&amp;site=ehost-live</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Nuchelmans1980">
+          <analytic>
+            <title level="a">Adam Wodeham on the meaning of declarative sentences</title>
+            <author><forename>Gabriel</forename><surname>Nuchelmans</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Historiographia Linguistica</title>
+            <imprint>
+              <biblScope type="vol">7</biblScope>
+              <biblScope type="pp">177-186</biblScope>
+              <date>1980</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Lenz2001">
+          <analytic>
+            <title level="a">Adam de Wodeham und die Entdeckung des Sachverhalts</title>
+            <author><forename>Martin</forename><surname>Lenz</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Umbrüche: Historische Wendepunkte der Philosophie von der Antike bis
+              Antike bis zur Gegenwart. Festschrift für Kurt Flasch zu seinem 70. Geburtstag</title>
+            <editor><forename>Klaus</forename><surname>Kahnert</surname></editor>
+            <editor><forename>Burkhard</forename><surname>Mojsisch</surname></editor>
+            <imprint>
+              <pubPlace>Amsterdam</pubPlace>
+              <biblScope type="pp">99-116</biblScope>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Zupko1994">
+          <analytic>
+            <title level="a">How It Played in the rue de Fouarre: The Reception of Adam Wodeham's
+              Theory of the Complexe Significabile in the Arts Faculty at Paris in the
+              Mid-Fourteenth Century</title>
+            <author><forename>Jack</forename><surname>Zupko</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">54</biblScope>
+              <biblScope type="pp">211-225</biblScope>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Courtenay2008">
+          <monogr>
+            <title level="m">Ockham and Ockhamism: studies in the dissemination and impact of his
+              thought</title>
+            <author><forename>William J.</forename><surname>Courtenay</surname></author>
+            <imprint>
+              <biblScope type="vol">99</biblScope>
+              <publisher>Brill Academic Pub</publisher>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="Lagerlund2011">
+          <monogr>
+            <title level="m">Adam Wodeham</title>
+            <editor><forename>Henrik</forename><surname>Lagerlund</surname></editor>
+            <author><forename>Stephen</forename><surname>Lahey</surname></author>
+            <imprint>
+              <pubPlace>Dordrecht</pubPlace>
+              <biblScope type="pp">20-24</biblScope>
+              <publisher>Springer Netherlands</publisher>
+              <date>2011</date>
+              <note type="accessed">2011-04-10 12:16:22</note>
+              <note type="url">http://www.springerlink.com/content/gl262470n5ql3n27/</note>
+            </imprint>
+          </monogr>
+          <idno type="ISBN">978-1-4020-9728-7</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Tachau1995a">
+          <monogr>
+            <title level="m">Vision and Certitude in the Age of Ockham</title>
+            <author><forename>Katherine</forename><surname>Tachau</surname></author>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <publisher>Brill</publisher>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Karger2001">
+          <analytic>
+            <title level="a">Adam Wodeham on the Intentionality of Cognitions</title>
+            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Ancient and medieval theories of intentionality</title>
+            <editor><forename>Dominik</forename><surname>Perler</surname></editor>
+            <imprint>
+              <biblScope type="pp">283-300</biblScope>
+              <publisher>Brill Academic Publishers</publisher>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Kennedy1990">
+          <analytic>
+            <title level="a">Early Fourteenth-Century Franciscans and Divine Absolute Power</title>
+            <author><forename>Leonard A.</forename><surname>Kennedy</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">50</biblScope>
+              <biblScope type="pp">197-233</biblScope>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Courtenay1975">
+          <analytic>
+            <title level="a">Ockhamism among the Augustinians: the case of Adam Wodeham</title>
+            <author><forename>William J.</forename><surname>Courtenay</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Cassiciacum</title>
+            <imprint>
+              <biblScope type="vol">30</biblScope>
+              <biblScope type="pp">267-275</biblScope>
+              <date>1975</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Little1934">
+          <monogr>
+            <title level="m">Oxford theology and theologians</title>
+            <author><forename>A. G.</forename><surname>Little</surname></author>
+            <author><forename>F.</forename><surname>Pelster</surname></author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <date>1934</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="Wood2003">
+          <monogr>
+            <title level="m">Adam of Wodeham</title>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+            <editor><forename>Jorge J. E.</forename><surname>Gracia</surname></editor>
+            <editor><forename>Timothy B.</forename><surname>Noone</surname></editor>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <biblScope type="pp">77-85</biblScope>
+              <publisher>Blackwell Publishers</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Blackwell Companions to Philosophy</title><biblScope type="vol"
+              >24</biblScope></series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Courtenay1978">
+          <monogr>
+            <title level="m">Adam Wodeham: an introduction to his life and writings</title>
+            <author><forename>William J.</forename><surname>Courtenay</surname></author>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <publisher>Brill</publisher>
+              <date>1978</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Gelber1974">
+          <monogr>
+            <title level="m">Logic and the Trinity: a clash of values in scholastic thought,
+              1300-1335</title>
+            <author><forename>Hester Goodenough</forename><surname>Gelber</surname></author>
+            <imprint>
+              <pubPlace>University of Wisconsin</pubPlace>
+              <publisher>Ph.D. Dissertation</publisher>
+              <date>1974</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Perler2002">
+          <monogr>
+            <title level="m">Theorien der Intentionalität im Mittelalter</title>
+            <author><forename>Dominik</forename><surname>Perler</surname></author>
+            <imprint>
+              <pubPlace>Frankfurt-am-Main</pubPlace>
+              <publisher>Klostermann</publisher>
+              <date>2002</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Biard2004">
+          <analytic>
+            <title level="a">Les controverses sur l'objet du savoir et les "complexe significabilia"
+              à Paris au XIVe siècle</title>
+            <author><forename>Joël</forename><surname>Biard</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Quia inter doctores est magna dissensio. Les débats de philosophie
+              naturelle à Paris au XIVe siècle</title>
+            <editor><forename>Stefano</forename><surname>Caroti</surname></editor>
+            <editor><forename>Jean</forename><surname>Celeyrett</surname></editor>
+            <imprint>
+              <pubPlace>Firenze</pubPlace>
+              <biblScope type="pp">1-31</biblScope>
+              <publisher>Olschki</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Biblioteca di Nuncius -- Studi e Testi</title></series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="White1993">
+          <analytic>
+            <title level="a">William of Ockham and Adam Wodeham</title>
+            <author><forename>Graham</forename><surname>White</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Heythrop Journal</title>
+            <imprint>
+              <biblScope type="vol">34</biblScope>
+              <biblScope type="issue">3</biblScope>
+              <biblScope type="pp">296-301</biblScope>
+              <date>1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Sylla1973">
+          <analytic>
+            <title level="a">Medieval Concepts of the Latitude of Forms: The Oxford
+              Calculators</title>
+            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Archives d'histoire doctrinale et littéraire du moyen âge</title>
+            <imprint>
+              <biblScope type="vol">40</biblScope>
+              <biblScope type="pp">223–283</biblScope>
+              <date>1973</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Knuuttila2004a">
+          <monogr>
+            <title level="m">Emotions in Ancient and Medieval Philosophy</title>
+            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford Univeristy Press</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+          <note>see pages 275-286 for information on Wodeham</note>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Grassi1982">
+          <analytic>
+            <title level="a">Il problema della conoscenza di Dio nel commento alle Sentenze di Adam
+              Wodeham (Prologo e q. 1)</title>
+            <author><forename>Onorato</forename><surname>Grassi</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Medioevo</title>
+            <imprint>
+              <biblScope type="vol">8</biblScope>
+              <biblScope type="pp">43-136</biblScope>
+              <date>1982</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Sylla1998a">
+          <analytic>
+            <title level="a">God and the Continuum in the Later Middle Ages: the Relations of
+              Philosophy to Theology, Logic, and Mathematics</title>
+            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Was ist Philosophie im Mittelalter? Akten des X. Internationalen
+              Kongresses für mittelalterliche Philosophie der Société Internationale pour l'Etude de
+              la Philosophie Médiévale, 25. bis 30. August 1997 in Erfurt.</title>
+            <editor><forename>Jan A.</forename><surname>Aertsen</surname></editor>
+            <editor><forename>Andreas</forename><surname>Speer</surname></editor>
+            <imprint>
+              <pubPlace>Berlin</pubPlace>
+              <biblScope type="pp">791-797</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>1998</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Miscellanea Medievalia</title><biblScope type="vol"
+              >26</biblScope></series>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Knuuttila2004b">
+          <analytic>
+            <title level="a">Wodeham Cognitive Theory of the Passions</title>
+            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Medieval Theories on Assertive and Non-Assertive Language: Acts of the
+              14th European Symposium on Medieval Logic and Semantics, Rome, June 11-15,
+              2002</title>
+            <editor><forename>Alfonso</forename><surname>Maierú</surname></editor>
+            <editor><forename>Luisa</forename><surname>Valente</surname></editor>
+            <imprint>
+              <pubPlace>Firenze</pubPlace>
+              <biblScope type="pp">207-218</biblScope>
+              <publisher>Olschki</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Lessico Intellectuale Europeo</title><biblScope type="vol"
+              >97</biblScope></series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bottin1982">
+          <monogr>
+            <title level="m">La scienza degli occamisti</title>
+            <author><forename>F.</forename><surname>Bottin</surname></author>
+            <imprint>
+              <pubPlace>Rimini</pubPlace>
+              <date>1982</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bermon2007">
+          <monogr>
+            <title level="m">L'assentiment et son objet chez Gregoire de Rimini</title>
+            <author><forename>Pascale</forename><surname>Bermon</surname></author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Vrin</publisher>
+              <date>2007</date>
+            </imprint>
+          </monogr>
+          <note>Only sections of book contained in Scan and Hard Copy</note>
+          <idno type="ISBN">9782711618934</idno>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Adams1981">
+          <analytic>
+            <title level="a">Is to will it as bad as to do it? The Fourteenth Century Debate</title>
+            <author><forename>Marilyn McCord</forename><surname>Adams</surname></author>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">41</biblScope>
+              <biblScope type="pp">5–60</biblScope>
+              <date>1981</date>
+            </imprint>
+          </monogr>
+          <note>Includes text text transcription from Book IV of the Ordinatio</note>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Karger2004">
+          <analytic>
+            <title level="a">Ockham and Wodeham on Divine Deception as a skeptical
+              hypothesis</title>
+            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Vivarium</title>
+            <imprint>
+              <biblScope type="vol">42</biblScope>
+              <biblScope type="issue">2</biblScope>
+              <biblScope type="pp">225–236</biblScope>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Zupko1993">
+          <analytic>
+            <title level="a">Nominalism Meets Indivisibilism</title>
+            <author><forename>Jack</forename><surname>Zupko</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Medieval Philosophy and Theology</title>
+            <imprint>
+              <biblScope type="vol">3</biblScope>
+              <biblScope type="pp">158-185</biblScope>
+              <date>1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Wood1989">
+          <analytic>
+            <title level="a">Epistemology and omnipotence: Ockham in Fourteenth-Century
+              Philosophical Perspective</title>
+            <author><forename>Rega</forename><surname>Wood</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Popes, Teachers and Canon Law in the Middle Ages</title>
+            <editor><forename>S.</forename><surname>Chodorow</surname></editor>
+            <editor><forename>J.</forename><surname>Sweeney</surname></editor>
+            <imprint>
+              <pubPlace>Ithaca</pubPlace>
+              <biblScope type="pp">19-89?</biblScope>
+              <publisher>Cornell University Press</publisher>
+              <date>1989</date>
+            </imprint>
+          </monogr>
+          <note>includes sections on: Scotus, Peter Aureol, Godfrey of Fontaines, Ockham, John
+            Reading, Walter Chatton, Adam Wodeham, John Mirecourt,</note>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Perler2006">
+          <analytic>
+            <title level="a">Intentionality and Action. Medieval Discussion on the Cognitive
+              Capacities of Animals</title>
+            <author><forename>Dominik</forename><surname>Perler</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Intellect and Imagination in Medieval Philosophy: Actes du XIe congrès
+              international de philosophie médiévale de la Société Internationale pour l'Etude de la
+              Philosophie Médiévale (S.I.E.P.M.), Porto, du 26 au 31 août 2002</title>
+            <editor><forename>Maria Cândida</forename><surname>Pacheco</surname></editor>
+            <editor><forename>José F.</forename><surname>Meirinhos</surname></editor>
+            <imprint>
+              <pubPlace>Turnhout</pubPlace>
+              <biblScope type="vol">1</biblScope>
+              <biblScope type="pp">73-98</biblScope>
+              <publisher>Brepols</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Société Internationale pour l'Etude de la Philosophie Médiévale:
+              Rencontres de Philosophie Médiévale</title><biblScope type="vol"
+            >11</biblScope></series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Keele2003">
+          <analytic>
+            <title level="a">The So-Called 'Res' Theory of Walter Chatton</title>
+            <author><forename>Rondo</forename><surname>Keele</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">61</biblScope>
+              <biblScope type="pp">37-53</biblScope>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Kretzmann1984">
+          <analytic>
+            <title level="a">Adam Wodeham's anti-Aristotelian anti-atomism</title>
+            <author><forename>Norman</forename><surname>Kretzmann</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">History of Philosophy Quarterly</title>
+            <imprint>
+              <biblScope type="vol">4</biblScope>
+              <biblScope type="pp">381-398</biblScope>
+              <date>1984</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Friedman1997">
+          <monogr>
+            <title level="m">In Principio Erat Verbum: The Incorporation of Philosophical Psychology
+              into Trinitarian Theology, 1250-1325</title>
+            <author><forename>Russell L.</forename><surname>Friedman</surname></author>
+            <imprint>
+              <pubPlace>University of Iowa</pubPlace>
+              <publisher>Ph.D. Dissertation</publisher>
+              <date>1997</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Beckmann1998">
+          <analytic>
+            <title level="a">Ockham, Ockhamismus, und Nominalismus: Spuren der Wirkungsgeschichte
+              des Venerabilis Inceptors</title>
+            <author><forename>Jan P.</forename><surname>Beckmann</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Franciscan Studies</title>
+            <imprint>
+              <biblScope type="vol">56</biblScope>
+              <biblScope type="pp">77-95</biblScope>
+              <date>1998</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Weidemann1991">
+          <analytic>
+            <title level="a">Sache, Satz und Sachverhalt: Zur Diskussion über das Objekt des Wissens
+              im Spätmittelalter</title>
+            <author><forename>Hermann</forename><surname>Weidemann</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Vivarium</title>
+            <imprint>
+              <biblScope type="vol">29</biblScope>
+              <biblScope type="pp">129-146</biblScope>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Kitanov2003">
+          <analytic>
+            <title level="a">Displeasure in Heaven, Pleasure in Hell: Four Franciscan Masters on the
+              Relationship Between Love and Pleasure, and Hatred and Displeasure</title>
+            <author><forename>Severin Valentinov</forename><surname>Kitanov</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Traditio</title>
+            <imprint>
+              <biblScope type="vol">58</biblScope>
+              <biblScope type="pp">284-340</biblScope>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Genest2003">
+          <analytic>
+            <title level="a">Aux origines d'une casuistique. La révélation des futurs contingents
+              d'après la lecture de Richard FitzRalph sur les Sentences (II)</title>
+            <author><forename>Jean-François</forename><surname>Genest</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Archives d'histoire doctrinale et littéraire du moyen âge</title>
+            <imprint>
+              <biblScope type="vol">70</biblScope>
+              <biblScope type="pp">317-346</biblScope>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Perler2008">
+          <analytic>
+            <title level="a">Seeing and Judging: Ockham and Wodeham on Sensory Cognition</title>
+            <author><forename>Dominik</forename><surname>Perler</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Theories of Perception in Medieval and Early Modern Philosophy</title>
+            <editor><forename>Simo</forename><surname>Knuuttila</surname></editor>
+            <editor><forename>Pekka</forename><surname>Kärkkäinen</surname></editor>
+            <imprint>
+              <biblScope type="pp">151–169</biblScope>
+              <publisher>Springer</publisher>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+          <note>Notes/Abstract of Text Excellent account of how and why Ockham and Wodeham disagree
+            about  a 'real' distinction between the intellective and the sensitive soul. Ockham --
+            sees 3 distinct steps resulting in judgment (see p. 163), a) sensitive intuition, b) the
+            formation of a mental term (intuitive intellective apprehension), c) finally
+            intellective judgment. Wodeham does not see the need for the step B -- but thinks the
+            sensitive intuition is "in some sense an act of the intellect" (see Perler p. 164) and
+            therefore can provide the kind of apprehension necessary for judgment. As a consequence,
+            Perler claims that Wodeham shows himself to be rejecting any notion of "Pre-conceptual
+            cognition". "According to him [Wodeham], ever sensory cognition is conceptualized."
+            (Perler, p. 264) According to Perler, Wodeham's critique of Ockham on this point raises
+            the following question: "Should we assume that there is, as it were, a gap between
+            sensory and intellectual acts so that we need a special act to fill this gap, an act
+            that conceptualizes the pre-conceptual content of a sensory act? Or should we accept the
+            claim that sensory and intellectual acts are tightly linked to each other in a single
+            soul so that no gap needs to be filled" (p. 164)" The article then goes on to explain,
+            how Ockham deals with instances that look like deceptive sense experiences -- he points
+            out that, for Ockham, the sense do not really error here -- but actually the intellect.
+            He also discuss Ockham as employing a "reliabilist strategy" rather than
+            "foundationalist strategy" to adjudicate between false and true appearances. But he
+            doesn't return to Wodeham and discuss any differences that might follow from Wodeham's
+            critique of Ockham's separate intellectual apprehension (see above). (see p. 167-168)
+            Includes by noting how Ockham differs from Descartes who wants to "lead the intellect
+            away from the senses" (p. 168) For Ockham, the senses are not the problem and actually
+            provide reliable information. Rather it is only by understanding the "normal behavior"
+            of the senses that we can distinguish NON-NORMAL situations/behavior and thereby be
+            alert to deception when our intellect performs its subsequent apprehension and
+            judgment.</note>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Knuuttila1997">
+          <analytic>
+            <title level="a">Positio impossibilis in Medieval Discussions of the Trinity</title>
+            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Vestigia, Imagines, Verba: Semiotics and Logic in Medieval Theological
+              Texts (XIIth-XIVth Century). Acts of the XIth Symposium on Medieval Logic and
+              Semantics, San Marino, 24-28 May 1994</title>
+            <editor><forename>Costantino</forename><surname>Marmo</surname></editor>
+            <imprint>
+              <pubPlace>Trunhout</pubPlace>
+              <publisher>Brepols</publisher>
+              <date>1997</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Semiotic and Cognitive Studies</title><biblScope type="vol"
+              >4</biblScope></series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Adams1993">
+          <analytic>
+            <title level="a">Review: Lectura Secunda of Adam Wodeham</title>
+            <author><forename>Marilyn McCord</forename><surname>Adams</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">The Philosophical Review</title>
+            <imprint>
+              <biblScope type="vol">102</biblScope>
+              <biblScope type="issue">4</biblScope>
+              <biblScope type="pp">588-594</biblScope>
+              <date>1993</date>
+              <note type="accessed">2011-06-09 18:19:08</note>
+              <note type="url">http://www.jstor.org/stable/2185687</note>
+            </imprint>
+          </monogr>
+          <idno type="ISSN">0031-8108</idno>
+          <idno type="DOI">10.2307/2185687</idno>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="Beckmann1993">
+          <monogr>
+            <title level="m">Adam Wodeham</title>
+            <author><forename>Jan P.</forename><surname>Beckmann</surname></author>
+            <imprint>
+              <pubPlace>Freiburg</pubPlace>
+              <biblScope type="vol">1</biblScope>
+              <date>1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bakker1999">
+          <monogr>
+            <title level="m">La raison et le miracle. Les doctrines eucharistiques (c. 1250-c.
+              1400). Contributions à l'étude des rapports entre philosophie et théologie</title>
+            <author><forename>Paul</forename><surname>Bakker</surname></author>
+            <imprint>
+              <pubPlace>Nijmegen</pubPlace>
+              <biblScope type="vol">2</biblScope>
+              <publisher>Ph.D. Dissertation</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Grassi1986">
+          <monogr>
+            <title level="m">Intuizione e significato: Adam Wodeham ed il problema della conoscenza
+              nel XIV secolo</title>
+            <author><forename>Onorato</forename><surname>Grassi</surname></author>
+            <imprint>
+              <pubPlace>Milan</pubPlace>
+              <publisher>Editoriale Jaca</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Sylla1998b">
+          <analytic>
+            <title level="a">God, Indivisibles, and Logic in the Later Middle Ages: Adam Wodeham's
+              Response to Henry of Harclay</title>
+            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Medieval Philosophy and Theology</title>
+            <imprint>
+              <biblScope type="vol">7</biblScope>
+              <biblScope type="issue">1</biblScope>
+              <biblScope type="pp">69-87</biblScope>
+              <date>1998</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Lagerlund2004">
+          <analytic>
+            <title level="a">John Buridan and the Problems of Dualism in the Early Fourteenth
+              Century</title>
+            <author><forename>Henrik</forename><surname>Lagerlund</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Journal of the History of Philosophy</title>
+            <imprint>
+              <biblScope type="vol">42</biblScope>
+              <biblScope type="issue">4</biblScope>
+              <biblScope type="pp">369-387</biblScope>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Tachau1980">
+          <analytic>
+            <title level="a">Adam Wodeham On First and Second Intentions</title>
+            <author><forename>Katherine</forename><surname>Tachau</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Cahiers de l'Institut du Moyen-Age grec et latin (Kobenhavns
+              Universitet)</title>
+            <imprint>
+              <biblScope type="vol">35</biblScope>
+              <biblScope type="pp">29-55</biblScope>
+              <date>1980</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Tachau1987">
+          <analytic>
+            <title level="a">Wodeham, Crathorn, and Holcot: The Development of the complexe
+              significabile</title>
+            <author><forename>Katherine</forename><surname>Tachau</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m"/>
+            <editor><forename>L. M</forename><surname>de Riijk</surname></editor>
+            <editor><forename>H. A. G</forename><surname>Braakhuis</surname></editor>
+            <imprint>
+              <pubPlace>Nijmegen</pubPlace>
+              <biblScope type="pp">161-187</biblScope>
+              <date>1987</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Logos and Pragma: Essays on the Philosophy of Language in Honor
+              of Professor Gabriel Nuchelmans</title></series>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="Courtenay2004">
+          <monogr>
+            <title level="m">Wodeham, Adam (c. 1295-1358)</title>
+            <author><forename>William J.</forename><surname>Courtenay</surname></author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford Univeristy Press</publisher>
+              <date>2004</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Gelber1983">
+          <monogr>
+            <title level="m">Exploring the Boundaries of Reason: Three Questions on the Nature of
+              God by Robert Holcot OP</title>
+            <author><forename>Hester Goodenough</forename><surname>Gelber</surname></author>
+            <imprint>
+              <pubPlace>Toronto</pubPlace>
+              <publisher>Pontifical Institute of Mediaeval Studies</publisher>
+              <date>1983</date>
+            </imprint>
+          </monogr>
+          <note>Includes important re-datings of Wodeham's biography, which is why it should be
+            included in the Adam Wodeham Bibliography</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Kitanov2006">
+          <monogr>
+            <title level="m">Beatific Enjoyment in Scholastic Theology and Philosophy:
+              1240-1335</title>
+            <author><forename>Severin Valentinov</forename><surname>Kitanov</surname></author>
+            <imprint>
+              <pubPlace>University of Helsinki</pubPlace>
+              <publisher>Ph.D. Dissertation</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Tachau1995b">
+          <monogr>
+            <title level="m">Robert Holcot, Seeing the Future Clearly: Questions on Future
+              Contingents</title>
+            <editor><forename>Katherine</forename><surname>Tachau</surname></editor>
+            <editor><forename>Paul</forename><surname>Streveller</surname></editor>
+            <author><forename>Robert</forename><surname>Holcot</surname></author>
+            <imprint>
+              <pubPlace>Toronto</pubPlace>
+              <publisher>Pontifical Institute of Mediaeval Studies</publisher>
+              <date>1995</date>
+            </imprint>
+          </monogr>
+          <series><title level="s">Studies and Texts</title><biblScope type="vol"
+            >119</biblScope></series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Reina1986b">
+          <analytic>
+            <title level="a">Cognizione intuitive ed esperienza interior in Adamo Wodeham</title>
+            <author><forename>Maria Elena</forename><surname>Reina</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Rivista di Storia della Filiosofia</title>
+            <imprint>
+              <biblScope type="vol">41</biblScope>
+              <biblScope type="pp">19-42, 211-244</biblScope>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Magnus1891">
+          <monogr>
+            <title level="m">B. Alberti Magni Opera omnia</title>
+            <author><forename>Saint Albertus</forename><surname>(Magnus)</surname></author>
+            <author><forename>Auguste</forename><surname>Borgnet</surname></author>
+            <author><forename>Jacques</forename><surname>Quétif</surname></author>
+            <author><forename>Êmile</forename><surname>Borgnet</surname></author>
+            <imprint>
+              <biblScope type="vol">10</biblScope>
+              <publisher>Apud Ludovicum Vivès</publisher>
+              <date>1891</date>
+            </imprint>
+          </monogr>
+          <note>Includes his commentary on the Book of Causis or Liber de Causis  </note>
+        </biblStruct>
+      </listBibl>
+    </body>
+  </text>
+</TEI>

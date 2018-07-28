@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+      <title>Biography of Adam Wodeham</title>
+        <author>Jeffrey C. Witt</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2013.1">
+          <title>Biography of Adam Wodeham</title>
+          <date when="2013-01-14">January 14, 2013</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+        <pubPlace>Boston, MA</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref></p>
+        </availability>
+         <date when="2011-03-25">March 23rd, 2011</date>  
+      </publicationStmt>
+      
+      <sourceDesc>
+        <p>No source, born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head subtype="title">Biography of Adam Wodeham</head>
+      <div>
+        <p><ref target="http://plato.stanford.edu/entries/wodeham/">Please the Adam Wodeham Article in the Stanford Encyclopedia of Philosophy</ref></p>
+      </div>
+    </body>
+  </text>
+</TEI>

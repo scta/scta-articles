@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Timeline of life and influence of Peter Plaoul</title>
+        <author>Jeffrey C. Witt</author>
+        <author>Eric Goddard</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2013.1">
+          <title>Biography of Peter Plaoul</title>
+          <date when="2013-01-14">January 14, 2013</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Petrus Plaoul Editio Critica Electronica (PPECE)</publisher>
+        <pubPlace>Baltimore, MD</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution ShareAlike 3.0 License</ref></p>
+        </availability>
+        <date when="2012-07-29">July 29th, 2012</date>  
+      </publicationStmt>
+      <sourceDesc>
+        <p>No source, born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="CUPIII_418_1521_xij" ulx="114" uly="928" lrx="762" lry="994">
+      <graphic url="CUPIII_418.jpg"/>      
+    </surface>
+    <surface xml:id="CUPIII_347_1509" ulx="463" uly="530" lrx="799" lry="628">
+      <graphic url="CUPIII_347.jpg"/>
+    </surface>
+    <surface xml:id="CUPIII_349_1511" ulx="148" uly="476" lrx="810" lry="572">
+      <graphic url="CUPIII_349.jpg"/>
+    </surface>
+    <surface xml:id="CUPIII_394_1516" ulx="97" uly="870" lrx="742" lry="971">
+      <graphic url="CUPIII_394.jpg"/>
+      
+    </surface>
+    <surface xml:id="CUPIII_397_1518" ulx="423" uly="211" lrx="719" lry="323">
+      <graphic url="CUPIII_397.jpg"/>
+    </surface>
+    <surface xml:id="CUPIII_501_1563" ulx="168" uly="995" lrx="1172" lry="1111">
+      <graphic url="CUPIII_501.jpg"/>
+    </surface>
+    <surface xml:id="CUPIII_482_1552" ulx="141" uly="1105" lrx="1112" lry="1187">
+      <graphic url="CUPIII_482.jpg"/>
+    </surface>
+      <surface xml:id="CUPIII_419_1521_itemxv" ulx="137" uly="335" lrx="779" lry="420">
+      <graphic url="CUPIII_419.jpg"/>
+      </surface>
+    <surface xml:id="CUPIII_301_1461" ulx="130" uly="357" lrx="814" lry="489">
+      <graphic url="CUPIII_301.jpg"/>
+    </surface>
+    <surface xml:id="CUPIII_605_1679" ulx="460" uly="451" lrx="750" lry="513">
+      <graphic url="CUPIII_605.jpg"/>
+    </surface>
+    <surface xml:id="CUPIV_42_1760" ulx="113" uly="660" lrx="765" lry="760">
+      <graphic url="CUPIV_42.jpg"/>
+    </surface>
+    <surface xml:id="CUPIV_178_1881" ulx="132" uly="225" lrx="800" lry="471">
+      <graphic url="CUPIV_178.jpg"/>
+    </surface>
+    <surface xml:id="ChronDeLaBelgI_135-138">
+      <graphic url="ChronDeLaBelgI_135-138.jpg"/>
+    </surface>
+    <surface xml:id="CUPIV_241_1956" ulx="290" uly="740" lrx="670" lry="842">
+      <graphic url="CUPIV_241.jpg"/>
+    </surface>
+    <surface xml:id="CUPIV_245-256_1958">
+      <graphic url="CUPIV_245-246.jpg"/>
+    </surface>
+    
+    <surface xml:id="CUPIV_256-257_1956" ulx="148" uly="474" lrx="824" lry="564">
+      <graphic url="CUPIV_256-257.jpg"/>
+    </surface>
+    <surface xml:id="CUPIV_227_1943" ulx="152" uly="190" lrx="810" lry="275">
+      <graphic url="CUPIV_227.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_208_n2" ulx="190" uly="931" lrx="869" lry="1147">
+      <graphic url="ValoisIII_208.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_208-209">
+      <graphic url="ValoisIII_208-209.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_283" ulx="44" uly="480" lrx="709" lry="557">
+      <graphic url="ValoisIII_283.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_284_n2" ulx="266" uly="560" lrx="899" lry="683">
+      <graphic url="ValoisIII_284.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_510" ulx="170" uly="652" lrx="849" lry="841">
+      <graphic url="ValoisIII_510.jpg"/>
+    </surface>
+    <surface xml:id="Reims0v">
+      <graphic url="Reims0v.jpg"/>
+    </surface>
+    <surface xml:id="RSDIV_440-441" ulx="182" uly="572" lrx="758" lry="664">
+      <graphic url="RSDIV_440-441.jpg"/>
+    </surface>
+    <surface xml:id="CEMI_349" ulx="72" uly="587" lrx="730" lry="710">
+      <graphic url="CEMI_349.jpg"/>
+    </surface>
+    <surface xml:id="RSDIII_650" ulx="188" uly="740" lrx="783" lry="966">
+      <graphic url="RSDIII_650.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_499_6" ulx="46" uly="844" lrx="731" lry="963">
+      <graphic url="ValoisIII_499.jpg"/>
+    </surface>
+    <surface xml:id="RSDIII_514" ulx="172" uly="150" lrx="773" lry="194">
+      <graphic url="RSDIII_514.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_432-433_1" ulx="169" uly="470" lrx="854" lry="550">
+      <graphic url="ValoisIII_432-433.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_432-433_2" ulx="162" uly="692" lrx="866" lry="760">
+      <graphic url="ValoisIII_432-433.jpg"/>
+    </surface>
+    <surface xml:id="RSDIII_376-377" ulx="168" uly="610" lrx="781" lry="1409">
+      <graphic url="RSDIII_376-377.jpg"/>
+    </surface>
+    <surface xml:id="RSDIII_377" ulx="129" uly="539" lrx="753" lry="646">
+      <graphic url="RSDIII_377.jpg"/>
+    </surface>
+    <surface xml:id="NdBI_159" ulx="53" uly="1031" lrx="673" lry="1182">
+      <graphic url="NdbI_159.jpg"/>
+    </surface>
+    <surface xml:id="RSDII_222" ulx="177" uly="381" lrx="825" lry="449">
+      <graphic url="RSDII_222.jpg"/>
+    </surface>
+    <surface xml:id="RSDII_416" ulx="206" uly="814" lrx="830" lry="917">
+      <graphic url="RSDII_416.jpg"/>
+    </surface>
+    
+    <surface xml:id="ValoisIII_80" ulx="163" uly="502" lrx="848" lry="682">
+        <graphic url="ValoisIII_80.jpg"/>
+      </surface>
+    <surface xml:id="EhrleVI_220" ulx="120" uly="843" lrx="875" lry="1060">
+      <graphic url="EhrleVI_220.jpg"/>
+    </surface>
+    <surface xml:id="EhrleVI_221" ulx="33" uly="317" lrx="786" lry="525">
+      <graphic url="EhrleVI_221.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIII_139_n1" ulx="31" uly="661" lrx="703" lry="794">
+      <graphic url="ValoisIII_139.jpg"/>
+    </surface>
+    <surface xml:id="RSDII_526" ulx="204" uly="552" lrx="837" lry="651">
+      <graphic url="RSDII_526.jpg"/>
+    </surface>
+    <surface xml:id="EhrleVI_281" ulx="42" uly="835" lrx="811" lry="948">
+      <graphic url="EhrleVI_281.jpg"/>
+    </surface>
+    <surface xml:id="BdC_177">
+      <graphic url="BdC_177.jpg"/>
+    </surface>
+    <surface xml:id="BdC_61" ulx="91" uly="281" lrx="398" lry="370">
+      <graphic url="BdC_61.jpg"/>
+    </surface>
+    <surface xml:id="ToepkeI_693_n2" ulx="11" uly="1212" lrx="809" lry="1320">
+      <graphic url="ToepkeI_693.jpg"/>
+    </surface>
+    <surface xml:id="ValoisIV_44" ulx="192" uly="660" lrx="852" lry="731">
+      <graphic url="ValoisIV_44.jpg"/>
+    </surface>
+    <surface xml:id="MarteneVII_771-775">
+      <graphic url="MarteneVII_771-775.jpg"/>
+    </surface>
+    <surface xml:id="MarteneVII_1094" ulx="412" uly="359" lrx="794" lry="440">
+      <graphic url="MarteneVII_1094.jpg"/>
+    </surface>
+    <surface xml:id="MarteneVII_798-800" ulx="455" uly="2537" lrx="810" lry="2603">
+      <graphic url="MarteneVII_798-800.jpg"/>
+    </surface>
+    
+    <surface xml:id="GCX_1431-1432_1385" ulx="436" uly="509" lrx="780" lry="560">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_87-93ProvisorCannon" ulx="439" uly="516" lrx="780" lry="599">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1398" ulx="440" uly="569" lrx="774" lry="616">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1399" ulx="452" uly="590" lrx="779" lry="639">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1406" ulx="125" uly="1640" lrx="465" lry="1725">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1407Popes" ulx="438" uly="608" lrx="772" lry="670">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1409Pisa" ulx="432" uly="612" lrx="779" lry="746">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1409" ulx="439" uly="421" lrx="786" lry="485">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1410" ulx="441" uly="973" lrx="788" lry="1073">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1410See" ulx="437" uly="1045" lrx="777" lry="1105">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="GCX_1431-1432_1415" ulx="440" uly="1175" lrx="775" lry="1256">
+      <graphic url="GCX_1431-1432.jpg"/>
+    </surface>
+    <surface xml:id="Reims213vb_obiit">
+      <graphic url="Reims213vb_obiit.jpg"/>
+    </surface>
+    <surface xml:id="ASV_RegSuppl_v70_f056r" ulx="200" uly="270" lrx="930" lry="564">
+      <graphic url="ASV_RegSuppl_v70_f056r.jpg"></graphic>
+    </surface>
+    <surface xml:id="ASV_RegSuppl_v74_f158r-159v" ulx="210" uly="238" lrx="890" lry="523">
+      <graphic url="ASV_RegSuppl_v74_f158r-159v.jpg"></graphic>
+    </surface>
+    <surface xml:id="ASV_RegSuppl_v75_f089v" ulx="240" uly="911" lrx="983" lry="1219">
+      <graphic url="ASV_RegSuppl_v75_f089v.jpg"></graphic>
+    </surface>
+    
+    
+  </facsimile>
+  <text>
+    <body>
+        
+<listEvent xml:lang="en">
+  
+  <event xml:id="events_born" when="1353" type="Life">
+<label>Born</label>
+<desc>Peter Plaoul is born in Liege</desc>
+    <bibl xml:id="events_bornA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_418_1521_xij">CUP III, p. 418 #1521, xij.<ptr target="google.com/books"/><note>In this document from August 16th, 1385, Plaoul is identified as being 32 years old.</note></bibl>
+    <bibl xml:id="events_bornB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, 180-181</bibl>
+    <bibl xml:id="events_bornC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+    
+  </event>
+
+  <event xml:id="events_stlambert" when="1360" type="Life">
+  <label>Trained in the cathedral school of St. Lambert</label>
+  <desc>Trained in the cathedral school of St. Lambert</desc>
+   <bibl type="secondary" facs="#GCX_1431-1432_1360" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 180-181</bibl>
+</event>
+
+  <event xml:id="events_artsLicense" notBefore="1370-10-20" notAfter="1378-11-17" type="Education">  
+      <label>Earliest point to be Licensed in arts</label>
+      <desc>October 20th, 1370 is the earliest point Plaoul could have been licensed in the arts faculty, since the source documents indicate that Plaoul was licensed in the arts faculty under chancellorship of John Caloris. Caloris was confirmed as chancellor sometime between Oct 20, 1370 and Jan 5th 1370 (CUP, p. 193 #1362), making Oct 20, 1370 the terminus a quo. It's currently unclear why Millet and Sullivan cite 1371 with such confidence since they both refer only to CUP, p. 419, #1521 which merely indicates that Plaoul was licensed under the chancellorship of Caloris. The terminus ad quem is November 17th, 1378 because Plaoul is noted as master of the arts faculty by this date. <ref type="timelineCrossReference" target="#events_masterArts">See below</ref></desc>
+    <bibl xml:id="events_artsLicenseA" type="primary" facs="#CUPIII_419_1521_itemxv" corresp="bibliography.xml#Denifle1894">CUP III, p. 419 #1521</bibl>
+    <bibl xml:id="events_artsLicenseD" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein (1978), Pierre d'Ailly and the Blanchard Affair, p. 91</bibl>
+    <bibl xml:id="events_artsLicenseC" type="secondary" corresp="bibliography.xml#Millet2009">Millet (2009), p. 181</bibl>
+    <bibl xml:id="events_artsLicenseB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan (2011), p. 433</bibl>
+    
+</event>
+ 
+ 
+ 
+  <event xml:id="events_masterArts" when="1378-11-17" type="Education" subtype="doubtful">
+<label>Noted as Master in the Arts Faculty in provision</label>
+    <desc>Plaoul is indeed noted as a Master of the Arts faculty in a provision granting him the expectation of a prebend in the church of St. Pierre. However, this date actually represents a nominal date indicating Plaoul's place in line to receive the prebend rather when the expectation was actually granted. <ref type="timelineCrossReference" target="#events_prebendStPierre">See below</ref>. Thus, despite the fact that Sullivan takes this as evidence that Plaoul was a Master in the Arts faculty at this time, it more like that ms. 219, f. 210v is evidence that Plaoul was a Master in the Arts sometime between 1385 and 1387. (Again, <ref type="timelineCrossReference" target="#events_prebendExpectationStPierre">see below</ref>)</desc>
+    <bibl type="manuscript" xml:id="events_masterArtsA" corresp="bibliography.xml#ASV_RA219">ASV, Reg. Aven., 219, f. 210v</bibl>
+    <bibl type="secondary" xml:id="events_masterArtsB" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+</event>
+  
+  
+<!-- moved up to 1785 since 
+    
+    <event xml:id="events_prebend" when="1378-11-17" type="Benefices">
+    <label>Receives expectation of prebend</label>    
+    <desc>Receives expectation of prebend in St-Pierre in Lille</desc>
+  <bibl type="manuscript" corresp="bibliography.xml#ASV_RA219">ASV, Reg. Aven., 219, f. 210v</bibl>
+</event>-->
+  
+  <event xml:id="events_subChanJuly" when="1381-07-15" type="BlanchardAffair">
+    <label>Becomes sub-chancellor</label>
+    <desc>We surmise that Plaoul became sub-chancellor on this date because this is the data that Blanchard was given the chancellorship by Clement VII.</desc>
+  <bibl xml:id="events_subChanJulyA" type="primary" facs="#CUPIII_301_1461" corresp="bibliography.xml#Denifle1894">CUP III, p. 301, #1461<note>This document, as the title indicates, is a letter from Clement VII to John Blanchard, in which Clement VII gives the chancellorship of the church of Paris (and therefore of the University of Paris) to John Blanchard "on account of his devotion" to the Avignon Pope.</note></bibl>
+  <bibl xml:id="events_subChanJulyB" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, p. 45</bibl>
+</event>
+  
+  <event xml:id="events_summoned" when="1385-04-15" type="BlanchardAffair">
+<label>Summoned to give testimony</label>
+<desc>Plaoul is summoned by the Cardina of Laon, Peter of Montagu, acting at bequest of Clement VII, to give testimony regarding the Blanchard Affair.</desc>
+    <bibl xml:id="events_summonedA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_347_1509">CUP III, p. 347, #1509</bibl>
+    <bibl xml:id="events_summonedB" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, p. 72</bibl>
+  </event>
+  
+  <event xml:id="events_subChanApril" when="1385-04-15" type="BlanchardAffair">
+    <label>Listed as sub-chancellor</label>
+    <desc>Plaoul is listed as a sub-chancellor of the University of Paris</desc>
+    <bibl xml:id="events_subChanAprilA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_347_1509">CUP III, p. 347, #1509</bibl>
+  </event>
+
+  <event xml:id="events_accused" when="1385-05-01" type="BlanchardAffair">
+    <label>Accused by the University of Paris</label>
+    <desc>Plaoul's, as sub-chancellor is accused of wrongdoing alongside John Blanchard</desc>
+    <bibl xml:id="events_accusedA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_349_1511">CUP III, p. 349 #1511<note>This document lists articles of accusations against the chancellor of Paris (John Blanchard) on behalf of the University. In identifying the offending party, Plaoul is listed alongside Blanchard on account of being the sub-chancellor.</note></bibl>
+  </event>
+  
+  <event xml:id="events_MAlistedMay" when="1385-05-01" type="Education">
+    <label>Listed as a MA</label>
+    <desc>Plaoul's name is listed again as a Master of the Arts Faculty</desc>
+  <bibl xml:id="events_MAlistedMayA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_349_1511">CUP III, p. 349 #1511<note>Plaoul is listed as a Master in the Arts faculty</note></bibl>
+  <bibl xml:id="events_MAlistedMayB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+  
+</event>
+  
+  <event xml:id="events_subChanMay1" when="1385-05-01" type="BlanchardAffair">
+    <label>Listed as sub-chancellor</label>
+    <desc>Plaoul is listed as a sub-chancellor of the University of Paris</desc>
+    <bibl xml:id="events_subChanMay1A" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_349_1511">CUP III, p. 349 #1511<note>Plaoul is listed for a second time in 1385 as sub-chancellor</note></bibl>
+    <bibl xml:id="events_subChanMay1B" type="secondary" corresp="bibliography.xml#Sainte-Marthe1751" facs="#GCX_1431-1432_1385">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+  </event>
+  
+  
+  <event xml:id="events_MAlistedJuly" when="1385-07-01" type="Education">
+    <label>Plaoul's name is listed as a Master of the Arts Faculty</label>
+    <desc>In the same document in which Plaoul is "excluded from the consortium and university congregation," he is also listed as a Master in the Art's faculty.</desc>
+    <bibl xml:id="events_MAlistedJulyA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_394_1516">CUP III, p. 394 #1516</bibl>
+    <bibl xml:id="events_MAlistedJulyB" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, p. 75</bibl>
+  </event>
+  
+  <event xml:id="events_excluded" when="1385-07-01" type="BlanchardAffair">
+<label>Plaoul is excluded from university congregation</label>
+<desc>Plaoul is "excluded from the consortium and university congregation."</desc>
+    <bibl xml:id="events_excludedA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_394_1516">CUP III, p. 394 #1516<note>As Bernstein explains, this document is evidence of disciplinary action taken by the masters of the university against everyone close to Blanchard. Bernstein translates: "In contempt of the chancellor and his office, and under the pretest of pretended abuses" runs Blanchard's complaint "the masters consider all these men excluded from the consortium and community of the university congregation"</note></bibl>
+    <bibl xml:id="events_excludedB" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, p. 75</bibl>
+  </event>
+  
+  <event xml:id="events_subChanJuly85" when="1385-07-01" type="BlanchardAffair">
+    <label>Listed as sub-chancellor</label>
+    <desc>Plaoul is listed as a sub-chancellor of the University of Paris</desc>
+    <bibl xml:id="events_subChanJuly85A" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_394_1516">CUP III, p. 394 #1516<note>Here again for a third time in 1385 Plaoul is listed as sub-chancellor</note></bibl>
+  </event>
+
+  <event xml:id="events_MAlistedAug" when="1385-08-01" type="Education">
+<label>Plaoul listed as a Master in the Arts Faculty</label>
+<desc>Plaoul continues to be listed as a Master of the Arts Faculty</desc>
+    <bibl xml:id="events_MAlistedAugA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_397_1518">CUP III, p. 397 #1518</bibl>
+    <bibl xml:id="events_MAlistedAugB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+  </event>
+  
+  <event xml:id="events_BTHlisted" when="1385-08-16" type="Education">
+<label>Becomes bachelor of theology</label>
+<desc>Plaoul becomes bachelor of theology; probably serves as cursor</desc>
+    <bibl xml:id="events_BTHlistedA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_418_1521_xij" sameAs="#events_born">CUP III, p. 418 #1521, xij.<note>This is the same document that calls Plaoul to testify regarding the Blanchard Affair from which are able to determine Plaoul's birth year. Important here is the fact that Plaoul is listed for the first time as a "bac. in theol.,"</note></bibl>
+    <bibl xml:id="events_BTHlistedB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+</event>
+ 
+  <event xml:id="events_summonedAug" when="1385-08-16" type="BlanchardAffair">
+<label>Plaoul summoned to testify</label>
+<desc>Plaoul summoned a second time to testify about quarrel in which he extorted money on behalf of the chancellor</desc>
+    <bibl xml:id="events_summonedAugA" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_418_1521_xij" sameAs="#events_born">CUP III, p. 418 #1521, xij</bibl>
+    <bibl xml:id="events_summonedAugB" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, p. 88</bibl>
+    <bibl xml:id="events_summonedAugC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+  </event>
+  
+  <event xml:id="events_subChanAug85" when="1385-08-16" type="BlanchardAffair">
+    <label>Listed as sub-chancellor</label>
+    <desc>Plaoul is listed as a sub-chancellor of the University of Paris</desc>
+    <bibl xml:id="events_subChanAug85A" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_418_1521_xij" sameAs="#events_born">CUP III, p. 418 #1521, xij<note>Here one can see that Plaoul is identified as "subcancellarius eccl. Paris"</note></bibl>
+  </event>
+  
+  <event xml:id="events_prebendExpectationStPierre" notBefore="1385-12-10" notAfter="1387-03-02" type="Benefices">
+    <label>Received an expectation of a prebend in the church of St. Pierre in Lille</label>
+    <desc>Received an expectation of a prebend in the church of St. Pierre in Lille, which was given a nominal date of November 11, 1378, which while establishing a firm terminus a quo is less suggestive of when the expectation was given and was rather used as a way of indicating Plaoul's degree priority against other claimants to the prebend. <ref type="timelineCrossReference" target="#events_provParishChurch">See below</ref> for another example of this nominal dating system. For complicated reasons regarding where the supplication  exists within the volume, Goddard suggests that it was most likely approved after December 10, 1385, nearly 7 years after its nominal dating. March 2nd 1387 represents a terminus ad quem since in a supplication request from this date (<ref target="#events_PrebendStOmer">see below</ref>) he lists the benefices that he already holds and there includes the expectation of a prebend in the church of st. Pierre. Since he list holding the expectation on March 3rd it is almost certain that the expectation was granted prior to this date.</desc>
+    <bibl type="manuscript" corresp="bibliography.xml#ASV_RA219">ASV, Reg. Aven., 219, f. 210v</bibl>
+  </event>
+  
+  <event xml:id="events_provSorb1387" when="1387" type="Benefices" subtype="Doubtful">
+    <label>Provisor of the Sorbonne</label>
+    <desc>Listed in the <title>Gallia Christiana</title> as Provisor of the Sorbonne in 1387. But this is corroborated by no other sources and thus is very doubtful</desc>
+    <bibl xml:id="events_provSorb1387A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl> 
+  </event>
+  
+  <event xml:id="events_canonSenlis1387" when="1387" type="Benefices" subtype="Doubtful">
+    <label>Canon of the cathedral chapter of Senlis</label>
+    <desc>Listed in the <title>Gallia Christiana</title> as being a cannon in the cathedral chapter of Senlis in 1387. But this is corroborated by no other sources and thus is very doubtful.</desc>
+    <bibl xml:id="events_canonSenlis1387A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl> 
+  </event>
+  
+  <event xml:id="events_canonParis1387" when="1387" type="Benefices" subtype="Doubtful">
+    <label>Canon of the cathedral chapter of Paris</label>
+    <desc>Listed in the <title>Gallia Christiana</title> as being a cannon in the cathedral chapter of Paris in 1387. But this is corroborated by no other sources and thus is very doubtful.</desc>
+    <bibl xml:id="events_canonParis1387A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_canonParis1387B" type="secondar" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>"Plaoul, Petrus"</title> <note>Sullivan cites only <title>Gallia Christiana</title> here</note></bibl>
+  </event>
+  
+  <event xml:id="events_prebendStOmer" when="1387-03-02" type="Benefices">
+<label>Requests Vacant Prebend for the College at St. Omer</label>
+    <desc>Requests Vacant Prebend for the College at St. Omer; this request also confirms that he holds the expectation of a prebend at the church of St. Pierre in Lille (<ref type="timelineCrossReference" target="#events_prebendExpectationStPierre">see above</ref>). Millet notes that a prebend at the College of St. Omer was left vacant on March 2nd, 1387 (Millet, p. 183)  </desc>
+    <bibl xml:id="events_prebendStOmerA" facs="#ASV_RegSuppl_v70_f056r" type="manuscript" corresp="bibliography.xml#RegSupVol70">ASV, Reg. Suppl. 70, f. 56r</bibl>
+    <bibl xml:id="events_prebendStOmerB" type="manuscript" corresp="bibliography.xml#ASV_RA250">ASV, Reg. Aven. 250, f. 12r</bibl>
+    <bibl xml:id="events_prebendStOmerC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+    
+  </event>
+  <event xml:id="events_envoyToAvignon" when="1388" type="Political">
+    <label>Participates in University Envoy to Avignon</label>
+    <desc>In 1388, a University envoy was sent to Avignon to defend the position of the immaculate conception. Pierre d'Ailly, Gilles de Dchamps, Jean Gerson were three members of the college of Navarre that were accompanied by "Peter Plaoul, and ten doctors, a Cistersian, and a Benedictine" (Gorochov, p. 538).</desc>
+    <bibl xml:id="events_envoytoAvignonA" corresp="bibliography.xml#Gorochov1997"><author>Gorochov</author>, <title>Le collège de Navarre</title>, <date>1997</date>, p. 538</bibl>
+    <!-- reference to french edition of Guenee here, p. 196 -->
+  </event>
+  <event xml:id="events_patronOfSansonnet" when="1388" type="Benefices">
+    <label>Plaoul requests benefices on behalf of Gilles Sansonnet</label>
+    <desc>Plaoul included the name of Gilles Sansonnet on a rotolus written by Plaoul</desc>
+    <bibl xml:id="events_patronOfSansonnetA" type="secondary" corresp="bibliography.xml#Gorochov1997"><author>Gorochov</author>, <title>Le collège de Navarre</title>, <date>1997</date>, p. 699</bibl>
+    <!-- Gorochov cites a number of sources for his bio Sansonnet; relevant source for rotolus is problably Arch. Vat., Reg. Suppl, n. 68, fol. 32v. -->  
+  </event>
+  
+  <event xml:id="events_requestBenJul" when="1388-07-11" type="Benefices">
+<label>Requests unspecified benefice</label>
+<desc>Requests unspecified benefice; this requests confirms that he holds the previously requested prebend in St-Omer (<ref type="timelineCrossReference" target="#events_prebendStOmer">see above</ref>). Plaoul is serving as a papal nuntius at this time, and thus is actually present at Avignon. His justification for requesting this other benefice is partly because he complains that it will be awhile before he begins to receive revenues.</desc>
+    <bibl xml:id="events_requestBenJulA" type="manuscript" facs="#ASV_RegSuppl_v74_f158r-159v" corresp="bibliography.xml#RegSupVol74">ASV Reg. Suppl. 74, f. 158r.</bibl>
+    <bibl xml:id="events_requestBenJulB" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_501_1563">CUP III, p. 501, #1563</bibl>
+    <bibl xml:id="events_requestBenJulD" type="secondary" corresp="bibliography.xml#Millet2009"><name>Millet</name>, <title>"Pierre Plaoul"</title> 183 and 183n14</bibl>
+    <bibl xml:id="events_requestBenJulC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+</event>
+  
+  
+  <event xml:id="events_prebendStPierre" when="1389-03-17" type="Benefices" subtype="Uncertain">
+<label>Requests confirmation of accession to prebend</label>
+    <desc>Requests confirmation of accession to prebend in St-Pierre. <ref type="timelineCrossReference" target="#events_prebendExpectationStPierre">See above for earlier expectation of this benefice.</ref></desc>
+    <bibl xml:id="events_prebendStPierreA" type="manuscript" facs="#ASV_RegSuppl_v75_f089v" corresp="bibliography.xml#RegSupVol75">ASV Reg. Suppl. 75, f. 89v.</bibl>
+    
+</event>
+  
+  <event xml:id="events_proctorOct" when="1389-10-07" type="Political">
+<label>Acts as proctor</label>
+    <desc>Acted as proctor for exchange of benefices between Pierre d'Ailly and Jean de Guignicourt; holds prend of St-Omer. Millet points out that he was criticized for wearing rich clothes although he had no outside source of income.</desc>
+<bibl xml:id="events_proctorOctA" type="manuscript" corresp="bibliography.xml#ASV_RA257">ASV, Reg. Aven. 257, f. 171v</bibl>
+<bibl xml:id="events_proctorOctB" type="primary" corresp="bibliography.xml#Denifle1894" facs="#CUPIII_482_1552">CUP III, p. 482, #1552</bibl>
+    <bibl xml:id="events_proctorOctD" type="secondary" corresp="bibliography.xml#Bernstein1978">Bernstein, <title>Pierre d'Ailly</title>, p. 80 <note>Though no mention is made of Plaoul, Bernstein identifies this event and explains why the event occurred. In short, the masters of the university were still unhappy with Guignicourt as chancellor of the university. Clement, therefore, permitted Guignicourt to exchange benefices with Pierre d'Ailly. Bernstein writes: "D'Ailly gave up his canonries at Amiens and Meaux in return for the chancellorshiop." (Bernstein cites CUP III, #1552 and #1553 as his source.)</note></bibl>
+    <bibl xml:id="events_proctorOctC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>Plaoul, Petrus</title>, p. 434</bibl>
+  </event>
+  
+  <event xml:id="events_provParishChurch" notBefore="1389-12-11" notAfter="1391-06-30" type="Benefices">
+<label>Provision to parish church</label>
+    <desc>Provision to parish church of Thiberville (dioc. of Lisieux; cancelled earlier provision for church of Salmaise (Autun dioc). The Registra Avenionensia lists multiple dates making a precise dating difficult. December 11th, 1389 is the "nominal" date indicating Plaoul's level of priority with respect to other claimants to the same benefice and thus it is the terminus a quo. (<ref type="timelineCrossReference" target="#events_prebendExpectationStPierre">See above for another example of this use of the "nominal date"</ref>). June 30th, 1391 indicates the date the benefice was actually handed over to Plaoul, making it the latest possible date that it could have been granted and the terminus ad quem.</desc>
+    <bibl xml:id="events_provParishChurchA" type="manuscript" corresp="bibliography.xml#ASV_RA260">ASV, Reg. Aven. 260, f. 195r</bibl>
+    <bibl xml:id="events_provParishChurchB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+</event>
+  
+  <event xml:id="events_lecturerSent" from="1392-10-11" to="1393" type="Education">
+<label>Reads Sentences</label>
+    <desc>Plaoul serves lecturer on the Sentences (baccalaureus sententiarius)</desc>
+    <bibl xml:id="events_lecturerSentA" type="manuscript">BnF ms lat 3074 (MS P)</bibl>
+    <bibl xml:id="events_lecturerSentB" type="secondary">Glorieux passim</bibl>
+    <bibl xml:id="events_lecturerSentC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 433</bibl>
+  </event>
+  <!-- reads sentences 
+  <event xml:id="events_prollecture1" when="1392-10-11" type="Sentences">
+    <label>Lectio 1</label>
+    <desc>Plaoul reads lectio 1</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 435, n. 12</bibl>   
+  </event>
+
+  <event xml:id="events_prollecture2" when="1392-10-12" type="Sentences">
+    <label>Lectio 2</label>
+    <desc>Plaoul reads lectio 2</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 435, n. 13</bibl>   
+  </event>
+  <event xml:id="events_prollecture3" when="1392-10-14" type="Sentences">
+    <label>Lectio 3</label>
+    <desc>Plaoul reads lectio 3</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 435, n. 14</bibl>   
+  </event>
+  <event xml:id="events_prollecture4" when="1392-10-15" type="Sentences">
+    <label>Lectio 4</label>
+    <desc>Plaoul reads lectio 4</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 435, n. 15</bibl>   
+  </event>
+  <event xml:id="events_prollecture5" when="1392-10-16" type="Sentences">
+    <label>Lectio 5</label>
+    <desc>Plaoul reads lectio 5</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 16</bibl>   
+  </event>
+  <event xml:id="events_prollecture6" when="1392-10-17" type="Sentences">
+    <label>Lectio 6</label>
+    <desc>Plaoul reads lectio 6</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 17</bibl>   
+  </event>
+  <event xml:id="events_prollecture7" when="1392-10-19" type="Sentences">
+    <label>Lectio 7</label>
+    <desc>Plaoul reads lectio 7</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 18</bibl>   
+  </event>
+  <event xml:id="events_prollecture8" when="1392-10-21" type="Sentences">
+    <label>Lectio 8</label>
+    <desc>Plaoul reads lectio 8</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 19</bibl>   
+  </event>
+  <event xml:id="events_prollecture9" when="1392-10-22" type="Sentences">
+    <label>Lectio 9</label>
+    <desc>Plaoul reads lectio 9</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 20</bibl>   
+  </event>
+  <event xml:id="events_prollecture10" when="1392-10-23" type="Sentences">
+    <label>Lectio 10</label>
+    <desc>Plaoul reads lectio 10</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 21</bibl>   
+  </event>
+  <event xml:id="events_prollecture11" when="1392-10-24" type="Sentences">
+    <label>Lectio 11</label>
+    <desc>Plaoul reads lectio 11</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 22</bibl>   
+  </event>
+  <event xml:id="events_prollecture12" when="1392-10-25" type="Sentences">
+    <label>Lectio 12</label>
+    <desc>Plaoul reads lectio 12</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 23</bibl>   
+  </event>
+  <event xml:id="events_prollecture13" when="1392-10-26" type="Sentences">
+    <label>Lectio 13</label>
+    <desc>Plaoul reads lectio 13</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436, n. 24</bibl>   
+  </event>
+  <event xml:id="events_prollecture14" when="1392-10-29" type="Sentences">
+    <label>Lectio 14</label>
+    <desc>Plaoul reads lectio 14</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 436-437, n. 25</bibl>   
+  </event>
+  <event xml:id="events_prollecture15" when="1392-10-30" type="Sentences">
+    <label>Lectio 15</label>
+    <desc>Plaoul reads lectio 15</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 26</bibl>   
+  </event>
+  <event xml:id="events_prollecture16" when="1392-10-31" type="Sentences">
+    <label>Lectio 16</label>
+    <desc>Plaoul reads lectio 16</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 27</bibl>   
+  </event>
+  <event xml:id="events_prollecture17" when="1392-11-04" type="Sentences">
+    <label>Lectio 17</label>
+    <desc>Plaoul reads lectio 17</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 28</bibl>   
+  </event>
+  <event xml:id="events_prollecture18" when="1392-11-05" type="Sentences">
+    <label>Lectio 18</label>
+    <desc>Plaoul reads lectio 18</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 29</bibl>   
+  </event>
+  <event xml:id="events_dthreelecture19" when="1392-11-06" type="Sentences">
+    <label>Lectio 19</label>
+    <desc>Plaoul reads lectio 19</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 30</bibl>   
+  </event>
+  <event xml:id="events_dthreeaonelecture20" when="1392-11-07" type="Sentences">
+    <label>Lectio 20</label>
+    <desc>Plaoul reads lectio 20</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437, n. 31</bibl>   
+  </event>
+  <event xml:id="events_dthreeaonelecture21" when="1392-11-08" type="Sentences">
+    <label>Lectio 21</label>
+    <desc>Plaoul reads lectio 21</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 437-438, n. 32</bibl>   
+  </event>
+  <event xml:id="events_dthreeaonelecture22" when="1392-11-09" type="Sentences">
+    <label>Lectio 22</label>
+    <desc>Plaoul reads lectio 22</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 33</bibl>   
+  </event>
+  <event xml:id="events_dthreeaonelecture23" when="1392-11-12" type="Sentences">
+    <label>Lectio 23</label>
+    <desc>Plaoul reads lectio 23</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary">Glorieux, p. 438, n. 34</bibl>   
+  </event>
+  <event xml:id="events_dthreeaonelecture24" when="1392-11-13" type="Sentences">
+    <label>Lectio 24</label>
+    <desc>Plaoul reads lectio 24</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 35</bibl>   
+  </event>
+  <event xml:id="events_dthreeatwolecture25" when="1392-11-14" type="Sentences">
+    <label>Lectio 25</label>
+    <desc>Plaoul reads lectio 25</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 36</bibl>   
+  </event>
+  <event xml:id="events_dthreeathreelecture26" when="1392-11-15" type="Sentences">
+    <label>Lectio 26</label>
+    <desc>Plaoul reads lectio 26</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 37</bibl>   
+  </event>
+  <event xml:id="events_dthreeafourlecture27" when="1392-11-16" type="Sentences">
+    <label>Lectio 27</label>
+    <desc>Plaoul reads lectio 27</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 38</bibl>   
+  </event>
+  <event xml:id="events_dthreeafivelecture28" when="1392-11-18" type="Sentences">
+    <label>Lectio 28</label>
+    <desc>Plaoul reads lectio 28</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 39</bibl>   
+  </event>
+  <event xml:id="events_dthreeafivelecture29" when="1392-11-19" type="Sentences">
+    <label>Lectio 29</label>
+    <desc>Plaoul reads lectio 29</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 40</bibl>   
+  </event>
+  <event xml:id="events_dthreeasixlecture30" when="1392-11-21" type="Sentences">
+    <label>Lectio 30</label>
+    <desc>Plaoul reads lectio 30</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 438, n. 41</bibl>   
+  </event>
+  <event xml:id="events_dthreeasixlecture31" when="1392-11-21" type="Sentences">
+    <label>Lectio 31</label>
+    <desc>Plaoul reads lectio 31</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 42</bibl>   
+  </event>
+  
+  <event xml:id="events_donelecture32" when="1392-11-25" type="Sentences">
+    <label>Lectio 32</label>
+    <desc>Plaoul reads lectio 32</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 45</bibl>   
+  </event>
+  <event xml:id="events_donelecture33" when="1392-11-26" type="Sentences">
+    <label>Lectio 33</label>
+    <desc>Plaoul reads lectio 33</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 46</bibl>   
+  </event>
+  <event xml:id="events_donelecture34" when="1392-11-29" type="Sentences">
+    <label>Lectio 34</label>
+    <desc>Plaoul reads lectio 34</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 47</bibl>   
+  </event>
+  <event xml:id="events_donelecture35" when="1392-12-02" type="Sentences">
+    <label>Lectio 35</label>
+    <desc>Plaoul reads lectio 35</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 48</bibl>   
+  </event>
+  <event xml:id="events_donelecture36" when="1392-12-03" type="Sentences">
+    <label>Lectio 36</label>
+    <desc>Plaoul reads lectio 36</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 49</bibl>   
+  </event>
+  <event xml:id="events_donelecture37" when="1392-12-04" type="Sentences">
+    <label>Lectio 37</label>
+    <desc>Plaoul reads lectio 37</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 439, n. 50</bibl>   
+  </event>
+  <event xml:id="events_donelecture38" when="1392-12-05" type="Sentences">
+    <label>Lectio 38</label>
+    <desc>Plaoul reads lectio 38</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 51</bibl>   
+  </event>
+  <event xml:id="events_donelecture39" when="1392-12-07" type="Sentences">
+    <label>Lectio 39</label>
+    <desc>Plaoul reads lectio 39</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 52</bibl>   
+  </event>
+  <event xml:id="events_donelecture40" when="1392-12-09" type="Sentences">
+    <label>Lectio 40</label>
+    <desc>Plaoul reads lectio 40</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 53</bibl>   
+  </event>
+  <event xml:id="events_donelecture41" when="1392-12-10" type="Sentences">
+    <label>Lectio 41</label>
+    <desc>Plaoul reads lectio 41</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 54</bibl>   
+  </event>
+  <event xml:id="events_donelecture42" when="1392-12-11" type="Sentences">
+    <label>Lectio 42</label>
+    <desc>Plaoul reads lectio 42</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 55</bibl>   
+  </event>
+  <event xml:id="events_donelecture43" when="1392-12-12" type="Sentences">
+    <label>Lectio 43</label>
+    <desc>Plaoul reads lectio 43</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 56</bibl>   
+  </event>
+  
+  <event xml:id="events_donelecture44" when="1392-12-18" type="Sentences">
+    <label>Lectio 44</label>
+    <desc>Plaoul reads lectio 44</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 57</bibl>   
+  </event>
+  <event xml:id="events_donelecture45" when="1392-12-19" type="Sentences">
+    <label>Lectio 45</label>
+    <desc>Plaoul reads lectio 45</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 58</bibl></event>
+  
+  <event xml:id="events_donelecture46" when="1392-12-21" type="Sentences">
+    <label>Lectio 46</label>
+    <desc>Plaoul reads lectio 46</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440, n. 59</bibl>   
+  </event>
+  
+  <event xml:id="events_donelecture47" when="1392-11-21" type="Sentences">
+    <label>Lectio 47</label>
+    <desc>Plaoul reads lectio 47</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 440-441, n. 60</bibl>   
+  </event>
+  <event xml:id="events_donelecture48" when="1392-12-30" type="Sentences">
+    <label>Lectio 48</label>
+    <desc>Plaoul reads lectio 48</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 441, n. 61</bibl>   
+  </event>
+  <event xml:id="events_donelecture49" when="1392-12-31" type="Sentences">
+  <label>Lectio 49</label>
+  <desc>Plaoul reads lectio 49</desc>
+  <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+  <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 441-442, n. 62</bibl>   
+  </event>
+  <event xml:id="events_donelecture50" when="1393-01-04" type="Sentences">
+    <label>Lectio 50</label>
+    <desc>Plaoul reads lectio 50</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 63</bibl>   
+  </event>
+  <event xml:id="events_donelecture51" when="1393-01-07" type="Sentences">
+    <label>Lectio 51</label>
+    <desc>Plaoul reads lectio 51</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 64</bibl>   
+  </event>
+  <event xml:id="events_donelecture52" when="1393-01-08" type="Sentences">
+    <label>Lectio 52</label>
+    <desc>Plaoul reads lectio 52</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 65</bibl>   
+  </event>
+  <event xml:id="events_donelecture53" when="1393-01-09" type="Sentences">
+    <label>Lectio 53</label>
+    <desc>Plaoul reads lectio 53</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 66</bibl>   
+  </event>
+  <event xml:id="events_dTlecture54" when="1393-01-15" type="Sentences">
+    <label>Lectio 54</label>
+    <desc>Plaoul reads lectio 54</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 67</bibl>   
+  </event>
+  <event xml:id="events_dTlecture55" when="1393-01-16" type="Sentences">
+    <label>Lectio 55</label>
+    <desc>Plaoul reads lectio 55</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442, n. 68</bibl>   
+  </event>
+  <event xml:id="events_dTlecture56" when="1393-01-17" type="Sentences">
+    <label>Lectio 56</label>
+    <desc>Plaoul reads lectio 56</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 442-443, n. 69</bibl>   
+  </event>
+  <event xml:id="events_dTlecture57" when="1393-01-20" type="Sentences">
+    <label>Lectio 57</label>
+    <desc>Plaoul reads lectio 57</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 70</bibl>   
+  </event>
+  <event xml:id="events_dTlecture58" when="1393-01-21" type="Sentences">
+    <label>Lectio 58</label>
+    <desc>Plaoul reads lectio 58</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 71</bibl>   
+  </event>
+  
+  
+  <event xml:id="events_dTlecture59" when="1393-01-22" type="Sentences">
+    <label>Lectio 59</label>
+    <desc>Plaoul reads lectio 59</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 72</bibl>   
+  </event>
+  <event xml:id="events_dTlecture60" when="1393-01-24" type="Sentences">
+    <label>Lectio 60</label>
+    <desc>Plaoul reads lectio 60</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 73</bibl>   
+  </event>
+  <event xml:id="events_dTlecture61" when="1393-01-27" type="Sentences">
+    <label>Lectio 61</label>
+    <desc>Plaoul reads lectio 61</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 74</bibl>   
+  </event>
+  <event xml:id="events_dTlecture62" when="1393-01-28" type="Sentences">
+    <label>Lectio 62</label>
+    <desc>Plaoul reads lectio 62</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 75</bibl>   
+  </event>
+  <event xml:id="events_dTlecture63" when="1393-01-29" type="Sentences">
+    <label>Lectio 63</label>
+    <desc>Plaoul reads lectio 63</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 76</bibl>   
+  </event>
+  <event xml:id="events_dTlecture64" when="1393-02-01" type="Sentences">
+    <label>Lectio 64</label>
+    <desc>Plaoul reads lectio 64</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 77</bibl>   
+  </event>
+  <event xml:id="events_dTlecture65" when="1393-02-03" type="Sentences">
+    <label>Lectio 65</label>
+    <desc>Plaoul reads lectio 65</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 78</bibl>   
+  </event>
+  <event xml:id="events_dTlecture66" when="1393-02-04" type="Sentences">
+    <label>Lectio 66</label>
+    <desc>Plaoul reads lectio 66</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 79</bibl>   
+  </event>
+  <event xml:id="events_dTlecture67" when="1393-02-05" type="Sentences">
+    <label>Lectio 67</label>
+    <desc>Plaoul reads lectio 67</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443, n. 80</bibl>   
+  </event>
+  <event xml:id="events_dTlecture68" when="1393-02-08" type="Sentences">
+    <label>Lectio 68</label>
+    <desc>Plaoul reads lectio 68</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 443-444, n. 81</bibl>   
+  </event>
+  <event xml:id="events_dTlecture69" when="1393-02-10" type="Sentences">
+    <label>Lectio 69</label>
+    <desc>Plaoul reads lectio 69</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 444, n. 82</bibl>   
+  </event>
+  <event xml:id="events_dTlecture70" when="1393-02-12" type="Sentences">
+    <label>Lectio 70</label>
+    <desc>Plaoul reads lectio 70</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 444, n. 83</bibl>   
+  </event>
+  <event xml:id="events_dTlecture71" when="1393-02-13" type="Sentences">
+    <label>Lectio 71</label>
+    <desc>Plaoul reads lectio 71</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 444, n. 84</bibl>   
+  </event>
+  <event xml:id="events_dTlecture72" when="1393-02-18" type="Sentences">
+    <label>Lectio 72</label>
+    <desc>Plaoul reads lectio 72</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 444, n. 85</bibl>   
+  </event>
+  <event xml:id="events_dTlecture73" when="1393-02-20" type="Sentences">
+    <label>Lectio 73</label>
+    <desc>Plaoul reads lectio 73</desc>
+    <bibl type="manuscript">BnF ms lat 3074, f. ?</bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Glorieux1939">Glorieux, p. 444, n. 86</bibl>   
+  </event>
+  
+  end of reading sentences -->
+
+
+  <event xml:id="events_licMasterTheol" when="1393" type="Education">
+<label>Possibly Licensed in theology</label>
+<desc>Plaoul is possibly licensed in theology (ranked first)</desc>
+    <bibl xml:id="events_licMasterTheolA" type="manuscript">Bnf ms lat 5657-A, f. 11r</bibl>
+    <bibl xml:id="events_licMasterTheolC" type="secondary" corresp="bibliography.xml#Millet2009"><author>Millet</author>, <title>Pierre Plaoul</title>, p. 185 <note>Millet does not point to a primary source</note></bibl>
+    <bibl xml:id="events_licMasterTheolB" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>Plaoul, Petrus</title> p. 433<note>Sullivan's source is Bnf ms lat 5657-A, f. 11r</note></bibl>    
+  </event>
+  
+  <event xml:id="events_provSorb1393" when="1393" type="Benefices">
+    <label>Provisor of the Sorbonne</label>
+    <desc>Provisor of the Sorbonne</desc>
+    <bibl xml:id="events_provSorb1393A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl> 
+  </event>
+   
+  <event xml:id="events_canonSenlis1393" when="1393" type="Benefices" subtype="doubtful">
+<label>Canon of the cathedral chapter of Senlis</label>
+<desc>The <title>Gallia Christiana</title> states that Plaoul was canon in the cathedral chapter of Senlis in 1393. However, it lists no primary source and Millet notes that she can find no way to verify this.</desc>
+    <bibl xml:id="events_canonSenlis1393A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751"><title>Gallia Christiana</title> X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_canonSenlis1393B" type="secondary" corresp="bibliography.xml#Millet2009"><author>Millet</author>, <title>Pierre Plaoul</title>, p. 185n20</bibl>
+    <bibl xml:id="events_canonSenlis1393C" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>Petrus, Plaoul</title>, 436 <note>Sullivan states this as fact, without noting lack of verification in primary sources. His cited secondary sources are Gane and Des Graviers</note></bibl>
+  </event>
+  
+  <event xml:id="events_canonParis1394" when="1394" type="Benefices">
+<label>Canon of the cathedral chapter of Paris</label>
+<desc>Canon of the cathedral chapter of Paris (possibly earlier)</desc>
+    <bibl xml:id="events_canonParis1394C" type="manuscript" corresp="bibliography.xml"><title>Archives Nationales</title>, LL 108 A, p. 247</bibl>
+    <bibl xml:id="events_canonParis1394A" type="secondary" facs="#GCX_1431-1432_87-93ProvisorCannon" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_canonParis1394E" type="secondary">Des Graviers, <title>"Messeignerus"</title>, p. 219</bibl>
+    <bibl xml:id="events_canonParis1394B" type="secondary" corresp="bibliography.xml#Gane1999"><author>Gane</author>, <title>Le chapitre de Notre-Dame</title>, p. 368, n. 518</bibl>
+    <bibl xml:id="events_canonParis1394D" type="secondary" corresp="bibliography.xml#Millet2009"><author>Millet</author>, <title>Pierre Plaoul</title>, 185 and 185n20</bibl>
+    <bibl xml:id="events_canonParis1394F" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>Plaoul, Petrus</title>, p. 436 <note>Sullivan cites Gane and Des Graviers as his sources</note></bibl>
+</event>
+  
+  <event xml:id="events_licMasterTheol1394" when="1394-02-25" type="Education">
+    <label>Listed as Master of Theology</label>
+    <bibl xml:id="events_licMasterTheol1394A" type="primary" facs="#CUPIII_605_1679" corresp="bibliography.xml#Denifle1894">CUP III, p. 605, #1679 <ref target="http://books.google.com/books?id=MRMGIgTRBd8C&amp;pg=PA605#v=onepage&amp;q&amp;f=false">google link</ref></bibl>
+    <bibl xml:id="events_licMasterTheol1394B" type="secondary" corresp="bibliography.xml#Millet2009"><author>Millet</author>, <title>Pierre Plaoul</title>, p. 85 and later in a different context on p. 86 <note>Millet does not point to a primary source in either case, but she almost certainly has in mind the list from CUP III, p. 605, #1679</note></bibl>
+  </event>
+  
+  <event xml:id="events_attendMeetFeb" from="1394-02-25" to="1394-02-26" type="Political">
+<label>Attends University meeting to end schism</label>
+<desc>At meeting to discuss possible ways of ending the Schism</desc>
+    <bibl xml:id="events_attendMeetFebA" type="primary" facs="#CUPIII_605_1679" corresp="bibliography.xml#Denifle1894">CUP III, p. 605, #1679<note>Document 1679, titled "Congregationes Universitatis Paris, post extractionem schedularum" lists the attendees at a university meeting held to discuss ways of ending the schism.</note><ref target="http://books.google.com/books?id=MRMGIgTRBd8C&amp;pg=PA605#v=onepage&amp;q&amp;f=false">google link</ref></bibl>
+    <bibl xml:id="events_attendMeetFebD" type="secondary">Swanson, <title>Universities</title>, p. 83<note>Swanson discusses this event, and references the above document from the Chartularium, though he does not reference Plaoul's attendance there.</note></bibl>
+    <bibl xml:id="events_attendMeetFebB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, <title>Pierre Plaoul</title>, p. 186;</bibl>
+    <bibl xml:id="events_attendMeetFebC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, <title>Plaoul, Petrus</title> p. 435</bibl> 
+  </event>
+  
+  <event xml:id="events_withholdRotulus" notBefore="1394-09-16" type="Political" subtype="Uncertain">
+<label>Plaoul Calls for witholding of rotulus</label>
+<desc>Johannes Guignicourt and Pierre Plaoul call for the withheld rotulus. This date is suggested as the earliest possible since it is the date that Pope Clement VII died, and the need for a new rotulus would seem to arise with election of a new pope.</desc>
+    <bibl xml:id="events_withholdRotulusA" type="primary">Froissart, XV, pp. 129-130</bibl>
+    <bibl xml:id="events_withholdRotulusB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, <title>Pierre Plaoul</title> p. 195<note>Millet discusses this event here though she notes that there is an error in Froissart's dating.</note></bibl>
+    <bibl xml:id="events_withholdRotulusC" type="secondary" corresp="bibliography.xml#Sullivan2011">Swanson, <title>Plaoul, Petrus</title>p. 91<note>Swanson discusses the reluctance of Parisian masters to submit a rotolus, although he does not mention Plaoul by name.</note></bibl>
+  </event>
+  
+  <event xml:id="events_firstAssemFeb" when="1395-02-02" type="Political">
+    <label>Participates in First Clerical Assembly</label>
+    <desc>Took part in the First Clerical Assembly in favor of cession</desc>
+    <bibl xml:id="events_firstAssemFebA" type="primary" corresp="bibliography.xml#Bellaguet1840" facs="#RSDII_222"><editor>Bellaguet</editor> (<date>1840</date>), <title>Chronique du religieux de Saint-Denys</title>, II, 218-227 esp. 222 and 223<ref target="http://books.google.com/books?id=IfkUAAAAQAAJ&amp;dq=Chronique%20du%20religieux%20de%20Saint-Denys%20volume%202&amp;pg=PA222#v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+    <bibl xml:id="events_firstAssemFebB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 186n23</bibl>
+    <bibl xml:id="events_firstAssemFebC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 435</bibl>
+  </event>
+  
+  <event xml:id="events_sentBohHunJune" when="1396-06" type="Political" subtype="Uncertain">
+<label>Sent to Kings of Boehemia and Hungary</label>
+<desc>Sent to the kings of Bohemia and Hungary in order to ???</desc>
+    <bibl xml:id="events_sentBohHunJuneA" type="primary" corresp="bibliography.xml#Bellaguet1840" facs="#RSDII_416"><editor>Bellaguet</editor> (<date>1840</date>), <title>Chronique du religieux de Saint-Denys</title>, II, pp. 416-418, esp. 416</bibl>
+    <bibl xml:id="events_sentBohHunJuneB" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_80">Valois III, pp. 80-82, esp. 80</bibl>
+      <bibl xml:id="events_sentBohHunJuneC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 186</bibl>
+      <bibl xml:id="events_sentBohHunJuneD" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+  </event>
+  
+  <event xml:id="events_petitionsAug" when="1396-08-28" type="Political">
+<label>Petitions for audience at Second Clerical Council</label>
+<desc>Petitions for audience at Second Clerical Council</desc>
+    <bibl xml:id="events_petitionsAugA" type="manuscript">Vat, armar. 55, n. 46, f. 30a <note>this manuscript is described by Ehrle on p. 194 -- need to double check manuscript reference</note></bibl>
+    <bibl xml:id="events_petitionsAugB" type="primary" corresp="bibliography.xml#Erhle1892" facs="#EhrleVI_220">Ehrle, Neue materialen, 219<ref target="http://books.google.com/books?id=KylOAAAAYAAJ&amp;dq=Archiv%20f%C3%BCr%20Literatur-und%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kirchengeschichte%20des%20Mittelalters%20Tom%206&amp;pg=PA221#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_petitionsAugC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 186</bibl>
+  </event>
+  
+  <event xml:id="events_speaksAug" when="1396-08-29" type="Political" subtype="Uncertian">
+    <label>Speaks at the Second Clerical Council</label>
+    <desc>Plaoul speaks at the Second Clerical Council insisting on the need for withdrawal of obedience to the Avignon pope.</desc>
+    <bibl xml:id="events_speaksAugG">Allegaciones, ASV, Arm. 54, t. 24, fol. 252r <note>Elie de Lestrange provides a paraphrase of Plaoul's argument -- see Kaminsky, p. 164-165</note></bibl>
+    <bibl xml:id="events_speaksAugA" type="manuscript">Vat, armar. 55, n. 46, f. 30b <note>this manuscript is described by Ehrle on p. 194 -- need to double check manuscript reference</note></bibl>
+    <bibl xml:id="events_speaksAugB" type="primary" corresp="bibliography.xml#Erhle1892" facs="#EhrleVI_221">Ehrle, ALKG 6:221 <ref target="http://books.google.com/books?id=KylOAAAAYAAJ&amp;dq=Archiv%20f%C3%BCr%20Literatur-und%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kirchengeschichte%20des%20Mittelalters%20Tom%206&amp;pg=PA220#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_speaksAugD" type="secondary" corresp="Swanson1979">Swanson, Universities, p. 114<note>Swanson cites Ehrle, p. 221 as his primary source</note></bibl>
+    <bibl xml:id="events_speaksAugH" type="secondary" corresp="bibliography.xml#Kaminsky1984">Kaminsky, <title>Simon de Cramaud</title>, p. 164-165 <note>Kaminsky cites the Allegaciones of Elie de Lestrange as his primary source; he also points to Ehrle ALKG 6:222 "for a bare reference to their presentation as a speech." (Kaminsky 164, 59)</note></bibl>
+    <bibl xml:id="events_speaksAugE" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 186</bibl>
+    <bibl xml:id="events_speaksAugF" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 435</bibl>
+  </event>
+  
+  <event xml:id="events_orderedNov" when="1396-11-20" type="Political" subtype="Uncertain">
+    <label>Forced by University to defend [or oppose] subtraction</label>
+    <desc>Forced by university to defend [or oppose] the substraction of obedience before the royal council on pain of being deprived of his University Status. RSD seems to suggest that Plaoul was argued in opposition withdrawal of obedience, which is in consistent with much of his other activities. However, this would explain his reluctance to accept the task given to him. Plaoul was listed as having to argue in favor of the pope; Millet suggests that this is a scribal error, but it could also be an indication that the "debate" was being stacked.</desc>
+    <bibl xml:id="events_orderedNovA" type="primary" corresp="Denifle1937">Auctarium Chartularii Universitatis Parisiensis, I, c. 730</bibl>
+    <bibl xml:id="events_orderedNovB" type="primary" corresp="bibliography.xml#ValoisIII1901" facs="#ValoisIII_139_n1">Valois, III, 139, n. 1<ref>googleLink</ref><note>note 2 refers to RSD II, 526, where Plaoul as listed as someone arguing against subtraction. See event 1397-02-01</note></bibl>
+    <bibl xml:id="events_orderedNovC" type="secondary" corresp="bibliography.xml#Lusignan1999">Lusignan, Verite garde le roy, 184 and 201<note>cited by Sullivan</note></bibl>
+    <bibl xml:id="events_orderedNovD" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 186</bibl>
+    <bibl xml:id="events_orderedNovE" type="secondary" corresp="bibliography.xml#Sullivan2009">Sullivan, 435<note>This event is somewhat unclear in Sullivan's description. He only attaches it to the year 1396 but describes it before he describes Plaoul's speech in favor of substraction of Obedience at the Clergy Council in August 1396. But according to Valois, and through him, the Auctarium, suggest that this imposition was on Plaoul in November 20th, 1396. The royal council in question is most likely the royal council held in February of 1397 not noted by Sullivan.</note></bibl>
+  </event>
+  
+  <event xml:id="events_licMaTheology1397" when="1397" type="Education" subtype="Doubtful">
+<label>Plaoul possibly licensed in theology</label>
+<desc>Sullivan is the only who makes this suggestion based on the custom normally that a bachalarius formatus would be license five years after he read the sentences. 
+  However given the evidence that Plaoul was licensed in 1393 (<ref type="timelineCrossReference" target="events_licMasterTheol">see above</ref>) and appears in the Chartularium as master of theology in 1394 (<ref type="timelineCrossReference" target="#events_licMasterTheol1394">see above</ref>), it seems clear that this suggestion is false.</desc>
+    <bibl xml:id="events_licMaTheology1397A" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+  </event>
+  
+  <event xml:id="events_royalCouncilFeb" when="1397-02-01" type="Political">
+<label>Takes part in Royal Council Regarding Schism</label>
+    <desc>Plaoul takes part in a debate organized in the royal council regarding the schism. Plaoul was listed as having to argue in favor of the pope; Millet suggests that this is a scribal error, but it could also be an indication that the "debate" was being stacked.</desc>
+    <bibl xml:id="events_royalCouncilFebA" type="primary" corresp="bibliography.xml#Bellaguet1840" facs="#RSDII_526"><editor>Bellaguet</editor> (<date>1840</date>), <title>Chronique du religieux de Saint-Denys</title>, II, p. 526</bibl>
+    <bibl xml:id="events_royalCouncilFebB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, pp. 186-187</bibl>
+</event>
+  
+  <event xml:id="events_thirdAssembly" from="1398-05-01" to="1398-06-01" type="Political" subtype="Uncertain">
+    <label>Participates in Third Clerical Assembly</label>
+    <desc>Attended Third Clerical Assembly</desc>
+    <bibl xml:id="events_thirdAssemblyB" type="secondary" corresp="bibliography.xml#Guenee1991"><author>Guenee</author> (<date>1991</date>), <title>Between Church and State</title>, <date>1991</date>, p. 190</bibl>
+    <bibl xml:id="events_thirdAssemblyA" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 435</bibl>
+  </event>
+  
+  <event xml:id="events_speaksMay" when="1398-05-24" type="Political" subtype="Uncertain">
+<label>Plaoul Elected to Speak at Third Clerical Assembly</label>
+<desc>Plaoul is one of 12 people chosen to give a speach at the Third Clerical Assembly.</desc>
+<bibl xml:id="events_speaksMayA" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 187</bibl>
+  </event>
+  
+  <event xml:id="events_speaksJune" when="1398-06-07" type="Political" subtype="Uncertain">
+<label>Speaks on behalf of University</label>
+<desc>Pierre Plaoul gives closing speech at third clerical assembly on behalf of the University</desc>
+    <bibl xml:id="events_speaksJuneA" type="manuscript">BNF, lat. ms. 14644 BNF, f. 15a<note>mansucript transcribed by Ehrle VI, 281. Ms appears to be described on p. 272 [double check]</note></bibl>
+    <bibl xml:id="events_speaksJuneB" type="primary" corresp="bibliography.xml#Erhle1892" facs="#EhrleVI_281">Ehrle VI, 281<ref target="http://books.google.com/books?id=KylOAAAAYAAJ&amp;dq=Archiv%20f%C3%BCr%20Literatur-und%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kirchengeschichte%20des%20Mittelalters%20Tom%206&amp;pg=PA281#v=onepage&amp;q&amp;f=false">googleLink</ref><note>while the text says, June 5th, Ehrle indicates that the date was actually June 7th, the Friday after the feat of corpus christi. Ehrle does not tell us how he knows this.</note></bibl>
+    <bibl xml:id="events_speaksJuneC" type="primary" corresp="bibliography.xml#deChastenet1718" facs="#BdC_61"><author>Bourgeois de Chastenet</author>, <title>Nouvelle Histoire de Concile de Constance</title>, pp. 61-74 <ref target="http://books.google.com/books?id=auxGAAAAcAAJ&amp;dq=Chastenet&amp;pg=RA1-PA61#v=onepage&amp;q&amp;f=false">googleLink</ref><note>Plaoul's speech is recorded from pages 63-74</note></bibl>
+    <bibl xml:id="events_speaksJuneF" type="secondary" facs="#GCX_1431-1432_1398" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <!--<bibl xml:id="events_speaksJuneD">DB V, 835-843 <note>I don't know what this refers to but it was in the table of dates.</note></bibl>-->
+    <bibl xml:id="events_speaksJuneG" type="secondary" corresp="bibliography.xml#Kaminsky1984"><author>Kaminsky</author>, <title>Simon de Cramaud</title>, p. 216 and p. 221<note>On p. 216, note 29, Kaminsky provides helpful navigational descriptions of the text of Bourgeois de Chastenet. He write: "For Plaoul speech see BdeC: 64 ("mihi est injunctum, quod proponam pro totali"); the university's vote is on p. 76, and cf. p. 79)</note></bibl>
+    <bibl xml:id="events_speaksJuneE" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 187</bibl>
+    
+  </event>
+      
+  <event xml:id="events_joinEmbDec" when="1398-12-01" type="Political">
+<label>Prepares to join embassy to Avignon</label>
+    <desc>Plaoul prepares to join embassy to Avignon headed by Louis of Orleans. It is noteworthy that Plaoul seems to have gained some respect from the Duke of Orleans despite the fact that the Duke opposed Subtraction that Plaoul Supported</desc>
+    <bibl xml:id="events_joinEmbDecA" type="secondary" corresp="bibliography.xml#Valois1091" facs="#ValoisIII_208-209">Valois III, pp. 208-209 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA208#v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+    <bibl xml:id="events_joinEmbDecB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 187</bibl>
+  </event>
+  
+  <event xml:id="events_XmasGiftDec" when="1398-12-01" type="Political">
+    <label>Plaoul included in Christmas list of Duke of Orleans</label>
+    <desc>The Duke of Orelans included Plaoul in his Christmas list of 1398. A gift of cloth and furs was given</desc>
+    <bibl xml:id="events_XmasGiftDecA" type="secondary" corresp="bibliography.xml#Valois1091" facs="#ValoisIII_208_n2">Valois III, p. 208, n. 2 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA208#v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+  </event>
+  
+  <event xml:id="events_LiegeSent" when="1399" type="Political" subtype="Uncertain">
+<label>Sent to Liege</label>
+<desc>Sent to Liege to remove their obedience from the Roman pontif, Boniface IX.</desc>
+    <bibl xml:id="events_LiegeSentE" type="primary" corresp="bibliography.xml#Bellaguet1840"><editor>Bellaguet</editor> (<date>1840</date>), <title>Chronique du religieux de Saint-Denys</title>, II, p. 690</bibl>
+    <bibl xml:id="events_LiegeSentC" type="secondary" facs="#GCX_1431-1432_1399" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana, X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_LiegeSentA" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_283">Valois pp. 283-286, esp. 283 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA283%23v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+    <bibl xml:id="events_LiegeSentB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 187</bibl>
+    <bibl xml:id="events_LiegeSentD" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 434</bibl>
+</event>
+
+  <event xml:id="events_deniedBeneJan" when="1400-01-05" type="Benefices">
+<label>Denied vacant benefice</label>
+<desc>Plaoul is denied reception of vacant benefice through a proctor by university rector</desc>
+    <bibl xml:id="events_deniedBeneJanA" type="manuscript" corresp="bibliography.xml"><title>Archives Nationales</title>, LL 109a, p. 37</bibl>
+    <bibl xml:id="events_deniedBeneJanB" type="primary" facs="#CUPIV_42_1760" corresp="bibliography.xml#Denifle1897">, 42, #1760</bibl>
+    <bibl xml:id="events_deniedBeneJanD" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 188</bibl>
+    <bibl xml:id="events_deniedBeneJanC" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, p. 435</bibl>
+  </event>
+  
+  <event xml:id="events_compSept" when="1402-09-02" type="Political" subtype="Uncertain">
+    <label>Plaoul receives compensation from travel</label>
+    <desc>Plaoul receives 50 "ecus" by letter from the Duke of Burgundy for travel during his trip to Liege in 1399</desc>
+    <bibl xml:id="events_compSeptB" type="manuscript">Bibl. nat., collection de Bourgogne, ms. 65, fol. 73v</bibl>
+    <bibl xml:id="events_compSeptA" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_284_n2">Valois, III, p. 284, n. 2 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA284#v=onepage&amp;q&amp;f=false"/></bibl>
+    
+  </event>
+  <event xml:id="events_embassy1405" when="1405" type="Political" subtype="Uncertain">
+<label>Heads Embassy to Pope Innocent VII</label>
+<desc>Headed embassy to pope Innocent VII</desc>
+    <bibl xml:id="events_embassy1405A" type="manuscript">AUP I, p. 892</bibl>
+    <bibl xml:id="events_embassy1405B" type="primary" corresp="bibliography.xml#Bellaguet1841" facs="RSDIII_360"><editor>Bellaguet</editor> (<date>1841</date>), <title>Chronique du religieux de Saint-Denys</title>, III, p. 360</bibl>
+    <bibl xml:id="events_embassy1405C" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_424-425">Valois, <title>Schisme</title> III, pp. 424-425<ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA424%23v=onepage&amp;q&amp;f=false">google Link</ref><note>It's difficult to find Plaoul's name on either p. 424 or 425. What in Valois makes this connection?</note></bibl>
+    <bibl xml:id="events_embassy1405E" type="secondary" corresp="bibliography.xml#Meyjes1999"><author>Meyjes</author> (<date>1999</date>), <title>Jean Gerson Apostle of Unity</title>, p. 119 <note>Meyjes cites Valois III, p. 422, n. 5, pp. 423-6 as source for entire discussion</note></bibl>
+    <bibl xml:id="events_embassy1405D" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 188</bibl>
+    
+  </event>
+  
+  <event xml:id="events_booksJune" when="1405-06-21" type="Education">
+<label>Present at Paris return books and library key</label>
+<desc>Plaoul returns 30 books and the library key to the Library at the College of the Sorbonne.</desc>
+    <bibl xml:id="events_booksJuneA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 30r<note>This has been transcribed in Vielleard, p. 194-195</note></bibl>
+    <bibl xml:id="events_booksJuneB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, pp. 194-195<note>this is a transcription of ms. 3323, f. 30r</note></bibl>
+    <bibl xml:id="events_booksJuneC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 188</bibl>
+  </event>
+  
+  <event xml:id="events_booksJul" when="1405-07-25" type="Education">
+    <label>Returns library books, retains other and the key</label>
+    <desc>Returns all "cancelled" books, but keeps others as well as the library key</desc>
+    <bibl xml:id="events_booksJulA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 30r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_booksJulB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 30r</note></bibl>
+  </event>
+
+  <event xml:id="events_booksOct" when="1405-10-05" type="Education">
+<label>Returns Library Book and Key</label>
+<desc>Returns all books and a key; a key which was previously in the possession of Johannes de Atrio</desc>
+    <bibl xml:id="events_booksOctA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 30r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_booksOctB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 30r</note></bibl>
+    <bibl xml:id="events_booksOctC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 188</bibl>
+  </event>
+  
+  <event xml:id="events_booksApril" when="1406-04-01" type="Education">
+<label>Re-borrows books and keys</label>
+<desc>Present again in Paris to re-borrow books and key</desc>
+    <bibl xml:id="events_booksAprilA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 30r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_booksAprilB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 30r</note></bibl>
+    <bibl xml:id="events_booksAprilC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 188</bibl>
+  </event>
+  
+  <event xml:id="events_seeksCondemMay" when="1406-05-27" type="Political" subtype="Uncertain">
+<label>Seeks Condemnation of Letter from Univ of Toulouse</label>
+<desc>Plaoul along with Jean Petit emerge as the spokesmen for a policy of renewed subtraction from Benedict. Their first task was to speak before Parliament of Paris and ask (successfully) for the condemnation of an anti-subtractionist letter published by the University of Toulouse</desc>
+    <bibl xml:id="events_seeksCondemMayA" type="manuscript"/>
+    <bibl xml:id="events_seeksCondemMayB" type="primary" corresp="bibliography.xml#Bellaguet1841" facs="#RSDIII_376-377"><editor>Bellaguet</editor> (<date>1841</date>), <title>Chronique du religieux de Saint-Denys</title>, III, pp. 376-377 <ref target="http://books.google.com/books?id=u7tBAAAAcAAJ&amp;pg=PA374%23v=onepage&amp;q&amp;f=false"/></bibl>
+    <bibl xml:id="events_seeksCondemMayC" type="primary" corresp="bibliography.xml#Tuetey1885">Tuetey, Journal de Nicolas de Bay: Greffier du Parelement de Paris 1400-1417 (NdB) 1:157-159<ref target="http://books.google.com/books?id=JCsOAAAAYAAJ&amp;vq=Baye&amp;dq=Baye&amp;pg=PA157#v=onepage&amp;q&amp;f=false">googleLink</ref><note>The May 27th Assembly is recorded here, by Plaoul's name is not mentioned.</note></bibl>
+    <bibl xml:id="events_seeksCondemMayD" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_432-433_1">Valois, III, pp. 432-433 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA459%23v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+    <bibl xml:id="events_seeksCondemMayE" type="secondary" facs="#GCX_1431-1432_1406" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, p. 1432<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA129#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>The text notes that two orations given by Plaoul in 1406 can be found in the library of the college of St. Victor. The text indicates that these orations were given on behalf of the University of Paris at a meeting of important French dignitaries. The mention of two different orations probably refers to two different speeches, the first one from May and the second one from June.</note></bibl>
+    <bibl xml:id="events_seeksCondemMayF" type="secondary">Ouy Manuscrites, 2:314<note>Note sure what this is but it was included in the table of dates</note></bibl>
+  </event>
+  
+  <event xml:id="events_seeksSubtracJune" when="1406-06-07" type="Political" subtype="Uncertain">
+<label>Plaoul seeks support from Parliament for subtraction</label>
+<desc>Only a short while after asking Parliament to condemn the anti-subtractionist letter of the University of Toulouse, Plaoul, along with Jean Petit, goes before Parliament again to ask for support for the renewed policiy of subtraction </desc>
+    <bibl xml:id="events_seeksSubtracJuneA" type="primary" corresp="bibliography.xml#Bellaguet1841" facs="#RSDIII_377"><editor>Bellaguet</editor> (<date>1841</date>), <title>Chronique du religieux de Saint-Denys</title>, III, p. 376 <ref target="http://books.google.com/books?id=u7tBAAAAcAAJ&amp;pg=PA374%23v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_seeksSubtracJuneB" type="primary" corresp="bibliography.xml#Tuetey1885" facs="#NdBI_159">Tuetey, Journal de Nicolas de Bay: Greffier du Parelement de Paris 1400-1417 (NdB) I, 159<ref target="http://books.google.com/books?id=JCsOAAAAYAAJ&amp;vq=Baye&amp;dq=Baye&amp;pg=PA159#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_seeksSubtracJuneF" type="secondary" facs="#GCX_1431-1432_1406" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, p. 1432<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA129#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>The text notes that two orations given by Plaoul in 1406 can be found in the library of the college of St. Victor. The text indicates that these orations were given on behalf of the University of Paris at a meeting of important French dignitaries. The mention of two different orations probably refer to the two different speeches, the first one from May and the second one from June.</note></bibl>
+    <bibl xml:id="events_seeksSubtracJuneC" type="secondary" corresp="bibliography.xml#Valois1901" facs="#ValoisIII_432-433_2">Valois, III, pp. 432-433 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA459%23v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_seeksSubtracJuneD" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 189</bibl>
+</event>
+  <event xml:id="events_speaks4thAssDec" from="1406-12-15" to="1406-12-16" type="Political">
+<label>Speaks at Fourth Clerical Assembly</label>
+<desc>Plaoul is one of three spokesmen for the University's policy of subtraction: the other two speakers were Jean Petit and Simon de Cramaud. Plaoul argued that the Schism was a 'violent thing' and its solution required going beyond the 'order of law.'</desc>
+    <bibl xml:id="events_speaks4thAssDescG" type="primary" corresp="bibliography.xml#Bulaeus1670"><author>Bulaeus</author>, <title>Historia Universitatis Parisiensis</title>, <date>1670</date>, V, p. 133 <ref target="http://books.google.com/books?id=pHpEAAAAcAAJ&amp;pg=PA133#v=onepage"></ref></bibl>
+    <bibl xml:id="events_speaks4thAssDecA" type="primary" corresp="bibliography.xml#deChastenet1718" facs="#BdC_177"><author>Bourgeois de Chastenet</author>, <title>Nouvelle Histoire de Concile de Constance</title>, 177-189<ref target="http://books.google.com/books?id=auxGAAAAcAAJ&amp;pg=RA1-PA189%23v=onepage&amp;q&amp;f=false">googleLink</ref><note>It is from this speech that we learn that Plaoul was from Liege, see Millet, 180 </note></bibl>
+    <bibl xml:id="events_speaks4thAssDecF" type="secondary" corresp="bibliography.xml#Rashdall1895"><author>Rashdall</author>, <title>The Universities of Europe</title>, <date>1895</date>, p. 548, n. 4 <ref target="http://books.google.com/books?id=7YYRAAAAYAAJ&amp;pg=PA548#v=onepage&amp;q&amp;f=false">GoogleLink</ref> <note>Rashdall source is Bulaeus, V. p. 132</note></bibl>
+    <bibl xml:id="events_speaks4thAssDecG" type="secondary" corresp="bibliography.xml#Coville1932"><author>Coville</author> (<date>1932</date>), <title>Jean Petit</title>, p. 73 <note>It is currently to identify the source Coville is using</note></bibl>
+    <bibl xml:id="events_speaks4thAssDecD" type="secondary" corresp="bibliography.xml#Kaminsky1984"><author>Kaminsky</author>, <title>Simon de Cramaud</title>, 117n23, 165n63, 265-266 <note>In 117n23 and 165n63 citations, Kaminsky points to BdeC, p. 192f, but I have listed 177-189. There may be mistake here.</note></bibl>
+    <bibl xml:id="events_speaks4thAssDecE" type="secondary" corresp="Guenee1991"><author>Guenee</author> (<date>1991</date>), <title>Between Church and State</title>, <date>1991</date> p. 205<note>Guenee's source is Coville, Jean Petit, 73-80 (the reference appears to happen directly on p. 73</note></bibl>
+    <bibl xml:id="events_speaks4thAssDecB" type="secondary" corresp="bibliography.xml#Goddard2009">Goddard, "Myth", 17-18</bibl>
+    <bibl xml:id="events_speaks4thAssDecC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, 190</bibl>
+</event>
+  <event xml:id="events_returnBooksApril" when="1407-04-22" notAfter="1407-04-22" type="Education" subtype="Uncertain">
+    <label>Returns all library books with key</label>
+    <desc>Returns all library books with key [and John de Atrio "has those without the acquisition of law." Date is not precise, manuscript stats 1407 on the 22nd day but does not give month. We assume it cannot be after May 1407 since it was in main that he joined the embassy to Rome.</desc>
+    <bibl xml:id="events_returnBooksAprilA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 30r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_returnBooksAprilB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 30r</note></bibl>
+  </event>
+  
+  <event xml:id="events_embassyMayJul" from="1407-05-01" to="1407-07-01" type="Political">
+    <label>Participates in Embassy to Rome</label>
+    <desc>Part of important Embassy to Marseille (to see Benedict XIII) and then Rome (to see Gregory XII). Guenee describes the even this way: "plans were made to send an embasssy to Marseille, where Benedict XIII was staying, and then on to Rome to see Gregory XII, in the hope that this might facilitate the double abdication. This important embassy involved thirty-six individuals, an unusually large number" (Guenee, pp. 208-209)</desc>
+    <bibl xml:id="events_embassyMayJulF" type="manuscript" corresp="bibliography.xml"><title>Archives Nationales</title>, J. 516, no. 31</bibl>
+    <bibl xml:id="events_embassyMayJulA" type="primary" corresp="bibliography.xml#Bellaguet1841" facs="#RSDIII_514"><editor>Bellaguet</editor> (<date>1841</date>), <title>Chronique du religieux de Saint-Denys</title>, III, pp. 510-520, esp. p. 514<ref target="http://books.google.com/books?id=u7tBAAAAcAAJ&amp;pg=PA514#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_embassyMayJulB" type="primary" corresp="bibliography.xml#dArcq1857">Monstrelet, CEM, I, p. 146-151 <ref target="http://books.google.com/books?id=82i2H5njfB4C&amp;pg=PA146#v=onepage&amp;q&amp;f=false">googleLink</ref><note>The same embassy is described by Monstrelet, though--as noted by Valois--only a few ambassadors are named and Plaoul is not one of them.</note></bibl>
+    <bibl xml:id="events_embassyMayJulC" type="secondary" corresp="bibliography.xml#Valois1901" facs="ValoisIII_499_6">Valois III, 499, n. 6; <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA499#v=onepage&amp;q&amp;f=false">googleLink</ref><note>This text is referenced by Sullivan as p. 409, n. 6, but it is actually p. 499, n. 6</note></bibl>
+    <bibl xml:id="events_embassyMayJulD" type="secondary" corresp="bibliography.xml#Ornato1969">Ornato, Jean Muret, 177 n. 345</bibl>
+    <bibl xml:id="events_embassyMayJulG" type="secondary" corresp="bibliography.xml#Guenee1991"><author>Guenee</author>, <title>Between Church and State</title>, <date>1991</date>, p. 209 <note>Guenee cites RSD III, pp. 512-515 and Valois, La France, III, p. 499 as sources</note></bibl>
+    <bibl xml:id="events_embassyMayJulE" type="secondary" corresp="bibliography.xml#Sullivan2011">Sullivan, 436 <note>there is an error in Sullivan's citation to Valois. The note number 6 that he references is on p. 499 not p. 409</note></bibl>
+  </event>
+  
+  <event xml:id="events_embassyMay" when="1407-05-01" type="Political">
+    <label>Participates in embassy to Pope Benedict</label>
+    <desc>Plaoul is part of an embassy to Pope Benedict, where he does no serve as a spokesman and is forced to show elaborate respect to the Pontiff. This is undoubtedly an awkward moment for Plaoul who only months before argued forcefully for the subtraction of obedience to Pope Benedict.</desc>
+    <bibl xml:id="events_embassyMayB" type="secondary" facs="#GCX_1431-1432_1407Popes" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>This text suggests the year 1408.</note></bibl>
+    <bibl xml:id="events_embassyMayA" type="secondary" facs="#ValoisIII_510" corresp="bibliography.xml#Valois1901">Valois, III, p. 510 <ref target="http://books.google.com/books?id=jeFLAAAAMAAJ&amp;pg=PA510%23v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>Valois must have a primary source for this, but it is difficulty to identify.</note></bibl>
+    <bibl xml:id="events_embassyMayC" type="secondary">Boussuat, "une relation inedite", 99<note>not sure what this is, but it was included in table of dates, could it be a primary source</note></bibl>  
+  </event>
+  
+  <event xml:id="events_embassyJul" when="1407-07-01" type="Political">
+<label>On embassy to Rome, Plaoul Addresses Pope Gregory XII</label>
+<desc>The embassy to Rome moves on from the court of Benedict to the court of Pope Gregory XII. The goal of this meeting was to arrange a colloquy between the two rival pontiffs. Here, Plaoul resumed his usual role as spokesman for the University. He gave a sermon before the Pope in favor or the via cessionis. The theme of the sermon was "domine, dabis pacem nobis"</desc>
+    <bibl xml:id="events_embassyJulA" type="primary" corresp="bibliography.xml#Bellaguet1841" facs="#RSDIII_650"><editor>Bellaguet</editor> (<date>1841</date>), <title>Chronique du religieux de Saint-Denys</title>, III, pp. 650-654, esp. p. 650 <ref target="http://books.google.com/books?id=u7tBAAAAcAAJ&amp;pg=PA650%23v=onepage&amp;q&amp;f=false">google Link</ref></bibl>
+    <bibl xml:id="events_embassyJulC" type="secondary" facs="#GCX_1431-1432_1407Popes" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>This text suggests the year 1408</note></bibl>
+    <bibl xml:id="events_embassyJulB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 191</bibl>
+  </event>
+  
+  <event xml:id="events_italy" when="1408" type="Political">
+<label>Plaoul Present in Italy</label>
+    <desc>Pierre Plaoul was still in Italy with another University spokesman, Simon de Cramaud. During that time both masters were probably present at the defection of the majority of the Roman college of cardinals from Gregory in May 1408 and definitely served as facilitators and witnesses for the merger of the two colleges of cardinals in June of that year</desc>
+    <bibl xml:id="events_italyA" type="primary" facs="#MarteneVII_771-775" corresp="bibliography.xml#Martene1733">Martene, Amplissima Collectio, VII, cols. 771-775<ref target="http://books.google.com/books?id=eaM-AAAAcAAJ&amp;pg=RA2-PA77#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_italyB" type="secondary" corresp="bibliography.xml#Vincke1940">J. Vincke, Briefe zum Pisaner Konzil, n. 15</bibl>
+    <bibl xml:id="events_italyC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 192</bibl>
+  </event>
+  
+  <event xml:id="events_italyJune" when="1408-06-29" type="Political">
+      <label>Present at the Union of the two colleges of cardinals</label>
+      <desc>He was present at the union of the two colleges of cardinals; he was among the Frenchman excommunicated by Benedict XIII (cf. ?)</desc>
+      <bibl xml:id="events_italyJuneA" type="primary" corresp="bibliography.xml#Martene1733" facs="#MarteneVII_798-800">Martene, <title>Amplissima  Collectio</title>, VII, col. 798-800<ref target="http://books.google.com/books?id=eaM-AAAAcAAJ&amp;pg=RA1-PA82%23v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+      <bibl xml:id="events_italyJuneB" type="secondary" corresp="bibliography.xml#Valois1902" facs="#ValoisIV_44">Valois IV, 44</bibl>
+      <bibl xml:id="events_italyJuneD" type="secondary" corresp="bibliography.xml#Kaminsky1984"><author>Kaminsky</author>, <title>Simon de Cramaud</title>, p. 279 <note>Kaminsky cites Martene, VII, 798-803 as his source</note></bibl>
+      <bibl xml:id="events_italyJuneC" type="primary" corresp="bibliography.xml#Millet2009">Millet, p. 192</bibl>
+    </event>
+    
+
+  <event xml:id="events_returnParisAug" when="1408-08-01" type="Political">
+<label>Plaoul Returns to Paris and Rejoins Fifth Clerical Council</label>
+<desc>Plaoul (and Cramaud) have returned to Paris by this time and are therefore able to be present at the Fifth Assembly of the French Clergy. The focus of this assembly was on dealing with the aftermath of France's own declaration of neutrality with regard to both popes in May 1408, a move that laid the groundwork for the French support of the Council of Pisa.</desc>
+    <bibl xml:id="events_returnParisAugD" type="manuscript">Monstrelet, <title>La chronique d'Enguerrand de Monstrelete</title>, (possibly Bibliotheque imperiale n. 8345, and 8346) (see d'Arcq, p. xiv, for description of various manuscripts) </bibl>
+    <bibl xml:id="events_returnParisAugA" type="primary" facs="#CEMI_349" corresp="bibliography.xml#dArcq1857">d'Arcq (ed.), <title>La chronique d'Enguerrand de Monstrelet</title> I, p. 349 <ref target="http://books.google.com/books?id=82i2H5njfB4C&amp;pg=PA349%23v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>This document from the chronicles of Monstrelet indicates that Plaoul with Cramaud returned to Paris and were present at the 5th Clerical Council. It also states that Plaoul and Cremaud were previously in Italy as ambassadors of the King of France and the University of Paris</note></bibl>
+    <bibl xml:id="events_returnParisAugC" type="primary" corresp="bibliography.xml#Bulaeus160"><author>Bulaeus</author>, <date>1670</date>, <title>Historia Universitatis Parisiensis</title>.p. 189<note>Bulaeus appears to be relying on the chronicle of Monstrelet. He writes: Simon Cramaudus et Petrps Plaoul, eorum reditus Ecclesiae Gall. Praelatis tunc congregatis gratissimus acceptissimusque fuit, ut narrat Monstreletius." A quotation from Monstrelet then appears to follow</note><ref target="http://books.google.com/books?id=pHpEAAAAcAAJ&amp;vq=Plaoul&amp;pg=PA189#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_returnParisAugB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 192</bibl>    
+</event>
+  
+  <event xml:id="events_namedRep1408" when="1408" type="Political" subtype="Uncertain">
+    <label>Named as representative to the Council of Pisa</label>
+    <desc>Plaoul is named as a representative to the Council of Pisa</desc>
+    <bibl xml:id="events_namedRep1408A" type="manuscript">Turin, Archivio di Stato, Protocollo ducale, n. 2, f. 58r, l. 348 <note>This list is transcribed and edited by Millet, 1981</note></bibl>
+    <bibl xml:id="events_namedRep1408G" type="primary" corresp="bibliography.xml#Mansi1784_v27">Mansi, Amplissima Collectio, XXVII, col. 341 <note>This source was mentioned by Millet, 1981</note></bibl>
+    <bibl xml:id="events_namedRep1408F" type="primary" corresp="bibliography.xml#Mansi1784_v26">Mansi, Amplissima Collectio, XXVI, col. 1247 <note>This seems to be the same list seen in Bulaeus and in Millet, but it does not seem to correspond to the reference in Millet 1981 to Mansi XXVII 341.</note> </bibl>
+    <bibl xml:id="events_namedRep1408E" type="secondary" corresp="bibliography.xml#Bulaeus1670">Bulaeus, (1670), Historida Universitatis Parisiensis, <note>Bulaeus is quoting a letter which he attributes to the rector of the university but gives no source. The list of name closely approximates the list of names noted by Helene Millet. But it is not yet clear whether they are using the same source or whether Bulaeus is quoting from a document distinct from the Turin manuscript.</note> <ref target="http://books.google.com/books?id=pHpEAAAAcAAJ&amp;vq=Plaoul&amp;pg=PA192#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_namedRep1408B" type="secondary" corresp="bibliography.xml#Millet1981">Millet (1981), "Pères du concile", p. 752 <note>Millet's source is the Turin manuscript but she notes parallel references to Plaoul in Mansi, Sacrorum conciliorum nova et amplissima collectio XXVII, 1784, col. 331-356, col. 341 and ms Vat Lat. 4000, p. 101v</note></bibl>
+    <bibl xml:id="events_namedRep1408C" type="secondary">Jourdain, Index, p. 225</bibl>
+    <bibl xml:id="events_namedRep1408D" type="secondary">Sullivan, "Plaoul, Petrus", p. 436 <note>Sullivan cites Jourdain and Millet as sources</note></bibl>
+  </event>
+ 
+ <event xml:id="events_arrivesPisa" when="1409-04-13" type="Political" subtype="Uncertain">
+   <label>Arrives at Council of Pisa</label>
+   <desc>Arrives at Council of Pisa</desc>
+ </event>
+  
+  <event xml:id="events_preachesPisa" when="1409-05-29" type="Political">
+<label>Preaches before the Council of Pisa</label>
+<desc>This could be considered one of the pinnacle moments of Plaoul's career. Plaoul delivered a sermon at the 13th session of the council of Pisa in front of an audience of more than 100 theologians. It likely that the new Pontiff chosen by the council was pleased with what Plaoul had to say because in June of the same year this pope, Alexander V, appointed Plaoul Bishp of Senlis</desc>
+    <bibl xml:id="events_preachesPisaE" type="primary" corresp="bibliography.xml#Hardt1687"><author>Hermann von der Hardt</author>, <title>Res concilii oecumenici Constantiensis</title>, <date>1687</date>, II, col. 132 <ref target="http://books.google.com/books?id=Ftc-AAAAcAAJ&amp;pg=RA2-PA139#v=onepage&amp;q&amp;f=false">GoogleLink</ref> <note>This source is used by Figueiredo</note></bibl>
+    <bibl xml:id="events_preachesPisaA" type="primary" corresp="bibliography.xml#Mansi1784_v26">Mansi, Amplissima Collectio, XXVI, col. 1144 </bibl>
+    <bibl xml:id="events_preachesPisaB" type="primary" facs="#MarteneVII_1094" corresp="bibliogrpahy.xml#Martene1733"><author>Martene</author>, <title>Amplissio Collectio</title>, <date>1733</date> VII, col. 1094<ref target="http://books.google.com/books?id=eaM-AAAAcAAJ&amp;pg=RA3-PA84#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_preachesPisaD" type="secondary" facs="#GCX_1431-1432_1409Pisa" corresp="bibliography.xml#Sainte-Marthe1751"><title>Gallia Christiana</title> <date>1751</date>, X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_preachesPisaF" type="secondary" corresp="bibliography.xml#Figueiredo1847"><author>Figueiredo</author>, <title>Tentativa theologica</title>, <date>1847</date>, p. 158 <ref target="http://books.google.com/books?id=WRUQAAAAIAAJ&amp;pg=PA158#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note><ref target="#events_preachesPisaE">Cites Hardt as source</ref></note></bibl>
+    <bibl xml:id="events_preachesPisaC" type="secondary" corresp="bibliography.xml#Millet2009"><author>Millet</author>, <title>"Pierre Plaoul"</title>, <date>2009</date>, pp. 192-193</bibl>
+    
+</event>
+  <event xml:id="events_bishop" when="1409-10-02" type="Benefices">
+<label>Becomes Bishop of Senlis</label>
+<desc>Named Bishop of Senlis by Pope Alexander V, the new pope chosen by the Council of Pisa</desc>
+    <bibl xml:id="events_bishopA" type="secondary" facs="#GCX_1431-1432_1409" corresp="bibliography.xml#Sainte-Marthe1751"><title>Gallia Christiana</title>, <date>1751</date>, X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_bishopB" type="secondary" corresp="bibliography.xml#Eubel1913"><author>Eubel</author>, <title>Hierarchia catholica medii aevi</title>, I, p. 452 <note>there may be an older edition of this from 1898, wherein the same piece of information is found on p. 476</note></bibl>
+    <bibl xml:id="events_bishopC" type="secondary" corresp="bibliography.xml#Gane1999"><author>Gane</author>, <title>Le chapitre de Notre-Dame</title>, p. 368, n. 518</bibl>
+  </event>
+  
+  <event xml:id="events_letterAug" when="1410-05-04" type="Political">
+<label>Writes to University about Death of Alexander V</label>
+<desc>Plaoul writes the university informing of the death of Alex. V and the failure to sign rotulus</desc>
+    <bibl xml:id="events_letterAugB" type="primary" facs="#ChronDeLaBelgI_135-138">Chron. de Jean Brandon, ed Kervyn de Lettenhove in Chron, relatives a l'hist. de la Belgique (1870), I, p. 135 sq.<note>This is the letter referenced by Denifle in the Chartularium. It is perserved in the chronicles compiled by John Brandon.</note></bibl>
+    <bibl xml:id="events_letterAugA" type="primary" facs="#CUPIV_178_1881" corresp="bibliography.xml#Denifle1897">CUP IV, 178, #1881<note>Denifle notes a letter written to the university by Peter Plaoul. The letter is preserved and recorded by the Chronicler Jean Brandon and has been edited and published by Kervyn de Lettenhove (1870).</note></bibl>
+    
+  </event>
+  <event xml:id="events_speaksUniv" when="1410-11-13" type="Political">
+<label>Speaks before the English-German nation</label>
+<desc>He speaks before the English-German nation as part of a delegation of the Cardinal Adimari</desc>
+<bibl xml:id="events_speaksUnivA" type="primary">AUP II, col. 90</bibl>    
+<bibl xml:id="events_speaksUnivB" type="secondary" facs="#GCX_1431-1432_1410" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>this text states that Plaoul, with the Archbishop of Pisa, sent by John XXIII to speak at the University of Paris and that they were heard on November 13, 1410</note></bibl>   
+  </event>
+  
+  <event xml:id="events_entersSee" when="1410-12-16" type="Benefices">
+<label>Enters into his See at Senlis</label>
+<desc>He enters into his see at Senlis</desc>
+    <bibl xml:id="events_entersSeeA" type="primary" facs="#GCX_1431-1432_1410See" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref></bibl>
+    <bibl xml:id="events_entersSeeB" type="seconary" corresp="bibliography.xml#Millet2009">Millet, p. 194</bibl>
+  </event>
+  
+  <event xml:id="events_books1411" when="1411" type="Education" subtype="Uncertain">
+<label>Borrows books from College of Chollets</label>
+<desc>Borrows 18 volumes from the college of Chollets</desc>
+    <bibl xml:id="events_books1411A" type="primary">Registre de Pret ?</bibl>
+    <bibl xml:id="events_books1411B" type="secondary">Franklin, Ancien Biblioteques 1.375-376</bibl>
+    <bibl xml:id="events_books1411C" type="secondary">R-K, "Biblioteque" 34, 60</bibl>
+  </event>
+  
+  <event xml:id="events_AssemblyFeb" when="1412-02-23" type="Political" subtype="Uncertain">
+    <label>Present at University Assembly</label>
+    <desc>Present at an Assembly where the University of Paris revindicated its access to papal provision</desc>
+    <bibl xml:id="events_AssemblyFebA" type="primary" facs="#CUPIV_227_1943" corresp="bibliography.xml#Denifle1897">CUP IV, 226-232 esp. 227, #1943<ref target="http://books.google.com/books?id=Vl2AcADKfw4C&amp;pg=PA226%23v=onepage&amp;q&amp;f=false">GoogleLinks</ref></bibl>
+    <bibl xml:id="events_AssemblyFebB" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 195</bibl>
+  </event>
+  
+  <event xml:id="events_hasKeyApril" when="1412-04-30" type="Education" subtype="Uncertain">
+    <label>Has key with the consent of the Lord Provisor [?et aule prius habito?]</label>
+    <desc>Has key with the consent of the Lord Provisor [?et aule prius habito?]</desc>
+    <bibl xml:id="events_hasKeyAprilA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 47r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_hasKeyAprilB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 47r</note></bibl>
+    
+  </event>
+  
+  <event xml:id="events_reimsMay" when="1412-05-18" type="Sentences">
+    <label>Reims manuscript of Sentences copied by scribe</label>
+    <desc>the inscription on an inside flap of the codex reads: "Difficultates[?] theologicas[?] Philippi Padua[?] et Petri Plaoul Episcopi Silvanectensis Super fide catholica. / Datur [?] hic liber ab Aegidio de Aspivomoul - die May 18 anno domini 1412"</desc>
+    <bibl xml:id="events_reimsMayA" type="manuscript" facs="#Reims0v">Ms Reims 507</bibl>
+  </event>
+  
+  <event xml:id="events_sentAuxAug" when="1412-07-01" type="Political">
+<label>Sent to Auxerre</label>
+<desc>One of twelve representatives sent to Auxerre to discuss the peace of the kingdom</desc>
+    <bibl xml:id="events_sentAuxAugA" type="primary" facs="#CUPIV_241_1956" corresp="bibliography.xml#Denifle1897">CUP IV, 241, #1956 <ref target="http://books.google.com/books?id=Vl2AcADKfw4C&amp;pg=PA241%23v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl xml:id="events_sentAuxAugB" type="primary" facs="#RSDIV_440-441" corresp="Bellaguet1842"><editor>Bellaguet</editor> (<date>1842</date>), <title>Chronique du religieux de Saint-Denys</title>, IV, p. 440 <ref target="http://books.google.com/books?id=5rlBAAAAcAAJ&amp;pg=PA440%23v=onepage&amp;q&amp;f=false">googleLink</ref><note>This document contains both a Latin and French version, wherein Plaoul is identified as the Bishop of Senlis. The beginning of the document indicates that the King called many secret meetings to reconcile the conflict of many ducs and that finally at the end of July he assembled another meeting in Auxerre to which Plaoul was sent. [not clear to me where it say that this meeting was to take place in Auxerre</note></bibl>
+    <bibl xml:id="events_sentAuxAugC" type="secondary" corresp="bibliography.xml#Millet2009">Millet, p. 195</bibl>
+  </event>
+  
+  <event xml:id="events_protectorAug" when="1412-08-01" type="Political">
+    <label>University asks Plaoul to accept office of protector of the privileges of the University</label>
+    <desc>University asks Plaoul to accept office of protector of the privileges of the University. This date is uncertain. Denifle says anytime after Aug 1412 to 1420. The latter date, of course, is not possible since Plaoul died in 1415</desc>
+    <bibl xml:id="events_protectorAugA" type="primary" facs="#CUPIV_245-256_1958" corresp="bibliography.xml#Denifle1897">CUP IV, 245-246, #1958</bibl>
+    <bibl xml:id="events_protectorAugB" type="secondary">Tournier, p. 526.</bibl>
+  </event>
+  
+  <event xml:id="events_provisorSorb" from="1412" to="1415" type="Education" subtype="Uncertain">
+<label>Serves as provisor of the College de Sorbonne</label>
+<desc>Serves as provisor of the College de Sorbonne</desc>
+    <bibl xml:id="events_provisorSorbA" type="secondary">Glorieux, Aux Origines 1.180</bibl>
+    <note>could this be related 1412-04-30 and Plaoul receiving key with the consent of the provisor</note>
+  </event>
+  
+  <event xml:id="events_gifts" when="1415" type="Education">
+<label>Gives gifts to the Sorbonne</label>
+<desc>Left to the Sorbonne a Bible with concordances, Albert the Great's Commentary on the Sentences, earning himself commemorative portrait</desc>
+    <bibl xml:id="events_giftsA" type="manuscript">BnF 15253</bibl>
+    <bibl xml:id="events_giftsB" type="manuscript">BnF ms lat 16260</bibl>
+    <bibl xml:id="events_giftsC" type="primary">Vielliard, Registre de Pret, p. 668</bibl>
+    <bibl xml:id="events_giftsD" type="secondary">Deslisle, Cabinet 2.169</bibl>
+    <bibl xml:id="events_giftsE" type="secondary">Franklin, Ancien Biblioteques</bibl>
+</event>
+
+  <event xml:id="events_dies" when="1415-04-11" type="Life">          
+<label>Dies</label>          
+<desc>Peter Plaoul Dies</desc>
+    <bibl xml:id="events_diesE" type="primary" facs="#Reims213vb_obiit">ms. Reims f. 213vb<note>This epitaph added to the penultimate page of the Reims ms. after Plaoul's death reads "obiit ?dictum? magister petrus plaoul episcopus Silvanectem parum[?] die XI mensis aprilis anno domini MCCCCXV, anima eius in pace requiescat, amen." or Master Plaoul, Bishop of Senlis, on the 11th day of the month of april in the year of our Lord 1415. May his soul rest in peace, amen.</note></bibl>
+    <bibl xml:id="events_diesA" type="primary">H. Finke, <title>Acta concilii Constanciensis</title>, 4 vols., Munster, 1896-1928, t. 3, p. 216-217</bibl>
+    <bibl xml:id="events_diesF" type="primar">A. Longnon, <title>Obituaires de la province de Sens</title>, t. 1, 740</bibl>
+    <bibl xml:id="events_diesD" type="secondary" facs="#GCX_1431-1432_1415" corresp="bibliography.xml#Sainte-Marthe1751">Gallia Christiana X, 1431<ref target="http://books.google.com/books?id=RI9QAAAAcAAJ&amp;pg=PA128#v=onepage&amp;q&amp;f=false">GoogleLink</ref><note>This text suggest that Plaoul was buried next to Peter Lombard, Bishop of Paris</note></bibl>
+    <bibl xml:id="events_diesB" type="secondary">Eubel 1, p. 452</bibl> 
+    <bibl xml:id="events_diesC" type="secondary">Millet, "Pierre Plaoul," p. 195</bibl>
+  </event>
+  
+  <event xml:id="events_attrioReturnsKey" when="1415-04-14" type="Education" subtype="Uncertain">          
+    <label><name>Johannes de Attrio</name> returns the Late Plaoul's Library key</label>          
+    <desc><name>Johannes de Attrio</name> returns the Late Plaoul's Library key</desc>
+    <bibl xml:id="events_attrioReturnsKeyA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 47r<note>This has been transcribed in Vielleard, p. 195</note></bibl>
+    <bibl xml:id="events_attrioReturnsKeyB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, p. 195<note>this is a transcription of ms. 3323, f. 47r</note></bibl>
+    
+  </event>
+  
+  <event xml:id="events_LambertusRef" when="1423" type="Sentences">
+    <label>Plaoul referenced in the margins of the Sentences Commentary of Lambertus de Monte</label>
+    <desc>Plaoul repeated appears in the margins of the Sentences Commenatry of Lambertus de Monte written in 1423. Lambertus appears to be citing Plaoul from ms. E</desc>
+    <bibl xml:id="events_LambertusRefA" type="manuscript">Biblioteque Royale de Belgique, 760, 1715, C (or Bruxelles, KB 760), f. 8r, f. 12r, f. 25r, f. 26r, f. 71v  <note>Thanks to Mario Meliado for this intial list [could there be more??]</note></bibl>
+    <bibl xml:id="events_LambertusRefB" type="secondary">Mario Meliadò and Silvia Negri, "Neues zum Pariser Albertismus des frühen 15. Jahrhunderts. Der Magister Lambertus de Monte und die Handschrift Bruxelles, KB 760" Bulletin de philosophie médiévale 53/2011</bibl>
+  </event>
+  
+  <event xml:id="events_msGiftedNov" when="1428-11-21" type="Sentences">          
+    <label>MS VP is gifted to the Library at the University of Heidelberg</label>          
+    <desc><name>Henricus de Gouda</name> bequeaths to the University of Heidelberg several books, one of which is ms VP containing Plaoul's Commentary on the Sentences</desc>
+    <bibl xml:id="events_msGiftedNovA" type="primary">AU II, 72 <note>this is cited by Toepke, but not by Maier</note></bibl>
+    <bibl xml:id="events_msGiftedNovB" type="secondary" corresp="bibliography.xml#Toepke1884" facs="#ToepkeI_693_n2">Die matrikel der Universitat Heidelberg, 693, n. 855<ref target="http://books.google.com/books?id=5IodAQAAIAAJ&amp;dq=G.%20Toepke.%20Die%20Matrikel%20der%20Universit%C3%A0t%20Heidelberg%20von%201386%20bis%201662.&amp;pg=PA693#v=onepage&amp;q&amp;f=false">googleLink</ref></bibl>
+    <bibl type="secondary" corresp="bibliography.xml#Maier1958">Maier, Zu einigen Sentenzenkommentaren des XIV Jahrhundert, 405-409, esp. 406</bibl>
+  </event>
+  
+  <event xml:id="events_henricusCheckout" when="1464-10-09" type="Sentences" subtype="uncertain">
+    <label>Plaoul's Sentences checked out by <name>Henricus de Quesnayo</name></label>
+    <desc>Plaoul's Sentences checked out by <name>Henricus de Quesnayo</name>. Ms should read "conformes" on second folio and "et causa est" on penultimate folio</desc>
+    <bibl xml:id="events_henricusCheckoutA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 120v<note>This has been transcribed in Vielleard, p. 432</note></bibl>
+    <bibl xml:id="events_henricusCheckoutB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, doss. 113, a. 4, p. 432<note>this is a transcription of ms. 3323, f. 120v</note></bibl>
+    <bibl xml:id="events_henricusCheckoutC" type="secondary" corresp="bibliography.xml#Kaluza1995">Kaluza, "Les débuts de l'Albertisme tardif (Paris et Cologne)," p. 287</bibl>
+  </event>
+  
+  <event xml:id="events_henricusRenew" when="1466-12-28" type="Sentences" subtype="Uncertain">
+    <label>Plaoul's Sentences renewed <name>Henricus de Quesnayo</name></label>
+    <desc>Plaoul's Sentences renewed by <name>Henricus de Quesnayo</name></desc>
+    <bibl xml:id="events_henricusRenewA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 120v<note>This has been transcribed in Vielleard, p. 432</note></bibl>
+    <bibl xml:id="events_henricusRenewB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, doss. 113, a. 4, p. 432<note>this is a transcription of ms. 3323, f. 120v</note></bibl>
+    
+  </event>
+  
+  <event xml:id="events_CordierCheckout" when="1476-01-06" type="Sentences">
+    <label>Plaoul's Sentences checked out by <name>Johannes Cordier</name></label>
+    <desc>Plaoul's Sentences checked out by <name>Johannes Cordier</name>. Second folio reads "conformes nec" and penultimate folio reads "fuit ideo sub quacumque quantitate"</desc>
+    <bibl xml:id="events_CordierCheckoutA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 116v<note>This has been transcribed in Vielleard, p. 469</note></bibl>
+    <bibl xml:id="events_CordierCheckoutB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, doss. 127, a. 10, p. 469<note>this is a transcription of ms. 3323, f. 116v</note></bibl>
+    <bibl xml:id="events_CordierCheckoutC" type="secondary" corresp="bibliography.xml#Kaluza1995"><author>Kaluza</author> "Les débuts de l'Albertisme tardif (Paris et Cologne)," p. 284</bibl>
+  </event>
+  
+  <event xml:id="events_AudendickCheckout" when="1479" type="Sentences">
+    <label>Plaoul's Sentences checked out by <name>Cornelius Audendick</name></label>
+    <desc>Plaoul's Sentences checked out by <name>Cornelius Audendick</name>. Second folio reads "conformans" and penultimate folio reads "pulcherrima"</desc>
+    <bibl xml:id="events_AudendickCheckoutA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 125r<note>This has been transcribed in Vielleard, p. 484</note></bibl>
+    <bibl xml:id="events_AudendickCheckoutB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, doss. 135, a. 4, p. 484<note>this is a transcription of ms. 3323, f. 125r</note></bibl>
+  </event>
+  
+  <event xml:id="events_LalierCheckout" when="1481-06-09" type="Sentences">
+    <label>Plaoul's Sentences checked out by <name>Johannes Lalier</name></label>
+    <desc>Plaoul's Sentences checked out by <name>Johannes Lalier</name>. Second folio reads "conformes" and penultimate folio reads "et eam" or "et causa"</desc>
+    <bibl xml:id="events_LalierCheckoutA" type="manuscript">Paris, Bibliothèque Mazarine, ms. 3323, f. 122v<note>This has been transcribed in Vielleard, p. 483</note></bibl>
+    <bibl xml:id="events_LalierCheckoutB" type="primary" corresp="bibliography.xml#Vielliard2000">Vielliard, Le Registre de Prêt, doss. 134, a. 19, p. 483<note>this is a transcription of ms. 3323, f. 122v</note></bibl>
+    <bibl xml:id="events_LalierCheckoutC" type="secondary" corresp="bibliography.xml#Kaluza1995">Kaluza, Z., "Les débuts de l'Albertisme tardif (Paris et Cologne)," 288</bibl>
+  </event>
+
+</listEvent>
+    
+      
+    </body>
+  </text>
+</TEI>

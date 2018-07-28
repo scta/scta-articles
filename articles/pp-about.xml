@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>About Document</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body xml:lang="en">
+         <div type="aboutsection" xml:id="lettertoreader">
+            <head>About</head>
+            <p>Thanks for your interest in this site and this text. This site aims to be a stepping stone towards an eventual critical edition of the Sentences commentary of Peter Plaoul. As I have worked on this text, learning more and more about it, both about its length and complexity, it is clear that a supremely polished critical edition of the text is not a one person job. If it is ever to be completed it will require a team of interested people. But there is a dilemma here. How can people ever become interested in the text if they do not know about its existence or the topics contained within it?</p>
+            
+            <p>What I hope this site can be is a kind of "finding aid" for those who might be interested in the text. You will find that most of the texts are identified as working drafts that require permission to be viewed. This is partially because of the restriction on the use of images to non-public, research uses only. It is also because it is important to me that the reader understands that the transcriptions are in various stages of drafts. Some are considerably polished, others have only been provisionally and quickly typed out. However, these drafts allow for full text indexing that can provide, to those interested, a glimpse into the contents of the text (i.e. what key words are used and what authors or works are mentioned). If you would like to see the full text of any given section that is currently only available in draft view, you only need to email me at jcwitt [at] loyola [dot] edu.</p>
+               
+            
+         </div>
+         <div type="aboutsection" xml:id="reviews">
+            <head>Reviews and Mentions</head>
+               <p><ref target="http://www.colorado.edu/philosophy/provisionalia/#plaoul">Listed by Robert Pasnau in his Index Librorum Scholasticorum</ref></p>
+               <p><ref target="http://derepalaeographica.blogspot.com/2013/04/petrus-plaoul-editio-critica.html">A review by Ainoa Castro - <hi rend="italic">de re paleographica</hi> - April 28, 2013</ref></p>
+               <p ana="reviewExcerpt">"...El desarrollo de ediciones electrónicas está a la orden del día y, sin duda, el ejemplo que supone la presentada en este proyecto sirve de inspiración para todos...."</p>
+               <p><ref target="http://digitale-edition.de/">Listed and Recognized as "Digital Scholarly Edition" by Patrick Sahl - v. 3.0, November 15, 2012</ref></p>
+               <p><ref target="http://dhsidesign.blogspot.com/2012/06/design-demands-attention_07.html">A review by Bob Clapperton, University of Waterloo - June 7, 2012 </ref></p>
+               <p ana="reviewExcerpt">"...While [this] project is brilliant in conception, it is the design that sparked my DH awakening. Witt’s design meets all of Lev Manovich’s <ref target="http://www.technorhetoric.net/8.2/coverweb/sorapure/five.pdf">key features of new media design</ref>. The project is modular, with translation and original image easily connected and navigated. The edition is automated in the presentation of the image of the original manuscript. It is variable in the choice given to the user on which section, translation, or ancient edition is accessed. Finally, the ancient manuscript images are transcoded to make them more accessible and useful in the context of a digital critical edition...."</p>
+               <p><ref target="http://medievaltexts.utoronto.ca/2012/01/petrus-plaouls-commentary-on-the-sentences-letter-to-the-reader/">A mention by Andrew Dunning, University of Toronto - January 30th, 2012</ref></p>
+               <p><ref target="http://blog.miriammueller.net/post/7016590235/thoughts-on-digital-critical-editions">A review by Miriam Mueller - June 28th, 2011</ref></p>
+               <p ana="reviewExcerpt">"It really is an interesting project with a lot of potential, and I think that this type of work and other critical editions and textual criticism projects could benefit greatly from the linking half-text half-image capabilities of the web."</p>
+               <p><ref target="http://digitalhumanities.byu.edu/blog/projects/examples/#000207">A mention by Jess Hurlbut on the BYU digital humanities blog - June 24, 2011</ref></p>
+               <p>Do you know of other reviews, mentions, or listings? Please let me know at jcwitt [at] loyola [dot] edu</p>
+            
+            
+         </div>
+         <div type="aboutsection" xml:id="citation">
+            <head>Progressive Publication and Stable Citation Practices</head>
+            
+            <p>As noted above: this site attempts to make transcriptions of the text available as early as possible, even before the transcription is complete and polished.</p>
+               
+               <p>This means that the text itself can change overtime. Section divisions can change. Paragraphs may be joined or separated. Footnotes and cross references will be added. And transcriptions will be corrected and amended as errors are noticed.</p>
+               
+               <p>Despite the dynamic nature of the text, stable citations are still possible with the help of source control. As a text is prepared, published, corrected, and re-published, the various versions of the text are versioned and given a corresponding version number. When a user cites the text and provides the version or edition number of the text they are using, this ensures that future users will be able to find the version that was cited. When a user navigates to a particular "lectio", where previous version exists, a drop down menu will appear. Users can select the desired version from that list and view the version of the text that was cited.</p>
+               
+               <p>For example, if a users cites paragraph no. 5 from version 2011.2 and paragraph 5 becomes paragraph no. 6 in version 2012.12, the person looking for this citation can simply select version 2011.2 from the drop down list and see the text as it was when it was originally cited.</p>
+            
+            <p>Transcriptions of the text also include links and pointers to each of the manuscript witness folios on which they fall. Therefore, a user can also choose to cite the text according to its place within a given manuscript. We ask, however, that you would acknowledge that this website made your own citation and discovery possible.</p> 
+            
+            
+         </div>
+         <!--<div type="aboutsection" xml:id="peerReview">
+            <head>Peer Review</head>
+            <p>The goal of "progressive publication" is to make a useable text available as quickly as possible, while at the same time providing stable and permanent ways to cite the current version of text. Because the intention is to make the text available early and often, the first thing every peer-review editor needs to understand is that for any text, it is more than likely that many aspects of the edition remain incomplete and that many mistakes (trivial and significant) linger. It is therefore natural to ask "how do I evaluate" an incomplete and unfinished text"?</p>
+               
+               <p>The answer is that, for this project, we need to think about peer-review differently. The goal of a "peer-review report" is not, strictly speaking, to evaluate the text as a finished product. Rather the goal is to help users of the text understand at what level of completeness the current version of the text stands.</p>
+               
+         </div>-->
+         <div type="aboutsection" xml:id="support">
+            <head>How Can I Support This Project?</head>
+            <div type="content" style="line-height: 150%; padding: 5px 2.5%">
+               <p>You can support this project in number of ways.</p>
+               <p>First: use, comment, and cite the text. By commenting on this text, noting mistakes or suggesting changes, you help make this text better. By citing this text, you help establish the credibility and the reputation of text. In this way, the legitimacy of this form of publication will be able to recognized by non-specialists and administrators.</p>
+               <p>Second: you can share the text with others. If you find a paragraph or section of the text that you know other scholars will be interested in, please share the text with them. The researchers who know about the availability of this data, the faster scholarship of the late middle ages will advance.</p>
+               <p>Third: if you like the project, considering leaving a review (or blurb) to be published on the website for new visitors to see. Reviews and blurbs of this kind will help new users and non-specialists to understand the quality and benefit of this form of publication. In turn, new users will feel comfortable and encouraged to read and cite text in their own research. You can leave a review or blurb by <ref target="mailto:jcwitt@loyola.edu?subject=Review/Blurb of the Peter Plaoul Electronic Critical Edition">emailing Jeffrey C. Witt at jcwitt [at] loyola [dot] edu</ref></p>
+               
+            </div>
+         </div>
+         <div type="aboutsection" xml:id="acknowledgments">
+            <head>Acknowledgments</head>
+            <div type="content" style="line-height: 150%; padding: 5px 2.5%">
+               <p>Thanks are due to:</p>
+               <p>Stephen Brown for instruction in paleography and providing the financial assistance necessary to grant initial access to the Plaoul manuscripts</p>
+               <p>Special thanks to <ref target="http://cloudinary.com">Cloudinary.com</ref> for providing pro bono image hosting for rapid delivery and image transformation</p>
+               <p>Andy Alm for technical consultation</p>
+            
+            </div>
+         </div>
+         <div type="aboutsection" xml:id="datamanagmentplan">
+            <head>Technical Details, Data Management, and Sustainability Plan</head>
+            
+            <p>Editions and transcriptions for this project are being encoded in a TEI P5 customization schema, tailored to suit the needs of Sentences Commentary editions and transcriptions.</p>
+            
+            <p>The raw XML source transcriptions are archived and backed up in several places, including their development GIT repositories, the Loyola Notre Dame Library servers, and an independent backup service. The independence of these text from their presentation on this particular website is intentional. This conscious separation of the raw text from its presentational form allows for the possibility that these texts may one day be used in new projects and subsequent applications and editions.</p> 
+                  
+         </div>
+      </body>
+  </text>
+</TEI>
