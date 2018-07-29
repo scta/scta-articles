@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article>
+    <hash>head</hash>
+    <name>JohnMair-bibliography</name>
+    <isArticleOf>http://scta.info/resource/JohnMair</isArticleOf>
+    <type>bibliography</type>
+    <url>https://api.zotero.org/groups/555244/collections/RNQ8X8Q7/items?format=tei</url>
+    <title>Bibliography</title>
+  </article>
+</articles>
