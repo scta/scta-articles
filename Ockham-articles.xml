@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article>
+    <hash>head</hash>
+    <name>Ockham-bibliography</name>
+    <isArticleOf>http://scta.info/resource/Ockham</isArticleOf>
+    <type>bibliography</type>
+    <url>https://api.zotero.org/groups/555244/collections/R3APLNG8/items?format=tei</url>
+    <title>Bibliography</title>
+  </article>
+</articles>
