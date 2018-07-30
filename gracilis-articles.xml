@@ -20,7 +20,7 @@
     <hash>head</hash>
     <name>PetrusGracilis_ep</name>
     <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
-    <type>article</type>
+    <type>biography</type>
     <url>PetrusGracilis_ep.xml</url>
     <title>Editorial Principles</title>
   </article>
@@ -29,8 +29,8 @@
     <name>PetrusGracilis_msdesc</name>
     <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
     <isArticleOf>http://scta.info/resource/lon</isArticleOf>
-    <type>article</type>
-    <url>PetrusGracilis_msdesc.xml</url>
+    <type>biography</type>
+    <url>PetrusGracilis_msdesc_lon.xml</url>
     <title>Prose Manuscript Description of British Royal 10 A I</title>
   </article>
   <article>
@@ -38,7 +38,7 @@
     <name>PetrusGracilis_pg-b1q1_intro</name>
     <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
     <isArticleOf>http://scta.info/resource/lon</isArticleOf>
-    <type>article</type>
+    <type>biography</type>
     <url>PetrusGracilis_pg-b1q1_intro.xml</url>
     <title>On Question 1</title>
   </article>
