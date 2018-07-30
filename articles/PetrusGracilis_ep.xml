@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Editorial Principles</title>
+        <author>Jeffrey C. Witt</author>
+        <author>John T. Slotemaker</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Editorial Principles</title>
+          <date when="2018-07-30">July 30, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+        <date when="2018-07-30">July 30, 2018</date>  
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born Digital</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-article-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/article.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for an article.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-07-30" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div>
+        <head>Editorial Principles</head>
+        <p>
+          The new digital media affords us the ability make accessible every level of the 
+          editorial process (from manuscript facsimile, to diplomatic transcriptions, 
+          to normalized and critical transcriptions) and to provide seamless connections between 
+          these data sources a granular levels. 
+          For this reason the present edition aims to offer a normalized critical edition that offers 
+          the users a clear and readable texts. As such we have chosen to regularize late medieval orthography 
+          in number of places.
+        </p>
+        <p>
+          Throughout the edition we have expanded "e" to "ae/oe", regularized late-medieval spelling
+          (e.g. changing "sicud" to "sicut") and introduced modern paragraph breaks and modern punctuation 
+          in place of late of medieval  punctuation. 
+        </p>
+        <p>
+          The choice to privilege a normalized critical text is supported by the fact that, 
+          given the possibilities of new media, we are no longer confined to a binary of providing 
+          a modern text and the expense of discarding diplomatic nuance. This edition has been prepared in 
+          conjunctions with the coordinating efforts of the Scholastic Commentaries and Text Archive, 
+          such that every section, every paragraph, and every quotation can be linked 
+          to a diplomatic transcription or multiple diplomatic transcriptions, and further linked 
+          to digital facisimiles of the manuscript themselves. These diplomatic transcriptions are 
+          where medieval spelling and punctuation can be recorded to the level of detailed desired by the editor. 
+          In this way, we offer here a normalized edition, that can and will function as an access point 
+          to subsequent diplomatic transcriptions made available 
+          to those with an interest in this kind of text detail.
+        </p>
+        <p>
+          Given that there is only one extant manuscript of Gracilis' commentary, 
+          the critical apparatus aims primarily to identify where scribal corrections 
+          have been made and to record editorial emendations against the text present in the manuscript
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
