@@ -1,9 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../Documentation/PlaoulProjectODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Documentation/PlaoulProjectODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Adam Wodeham Bibliography</title>
+        <title>Plaoul Bibliography</title>
       </titleStmt>
       <publicationStmt>
         <p>unpublished</p>
@@ -15,1015 +17,1090 @@
   </teiHeader>
   <text xml:lang="en">
     <body>
-      <listBibl>
-        <head>Bibliography</head>
-        <biblStruct type="journalArticle" xml:id="Perler2005">
-          <analytic>
-            <title level="a">Emotions and Cognitions: Fourteenth-Century Discussions on the Passions
-              of the Soul</title>
-            <author><forename>Dominik</forename><surname>Perler</surname></author>
-          </analytic>
+      
+      <listBibl type="Primary" subtype="manuscript">
+          <head>Primary Manuscript Sources</head>
+        <biblStruct type="manuscript" xml:id="RegAvenVol250">
           <monogr>
-            <title level="m">Vivarium</title>
+            <title>Registra Avenionensia ms 250</title>
             <imprint>
-              <biblScope type="vol">43</biblScope>
-              <biblScope type="issue">2</biblScope>
-              <biblScope type="pp">250-274</biblScope>
-              <date>2005</date>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="Schabel2002">
-          <analytic>
-            <title level="a">Oxford Franciscans After Ockham: Walter Chatton and Adam
-              Wodeham</title>
-            <author><forename>Christopher</forename><surname>Schabel</surname></author>
-          </analytic>
+        <biblStruct type="manuscript" xml:id="RegAvenVol257">
           <monogr>
-            <title level="m">Mediaeval Commentaries on the Sentences of Peter Lombard</title>
-            <editor><forename>Gillian Rosemary</forename><surname>Evans</surname></editor>
+            <title>Registra Avenionensia vol 257</title>
             <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <biblScope type="pp">359-393</biblScope>
-              <publisher>Brill</publisher>
-              <date>2002</date>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Karger1995">
-          <analytic>
-            <title level="a">William of Ockham, Walter Chatton and Adam Wodeham on the Objects of
-              Knowledge and Belief</title>
-            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
-          </analytic>
+        <biblStruct type="manuscript" xml:id="RegAvenVol260">
           <monogr>
-            <title level="m">Vivarium</title>
+            <title>Registra Avenionensia vol. 260</title>
             <imprint>
-              <biblScope type="vol">33</biblScope>
-              <biblScope type="issue">2</biblScope>
-              <biblScope type="pp">171-196</biblScope>
-              <date>1995</date>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="Wood1990">
-          <analytic>
-            <title level="a">Calculating Grace: the Debate About Latitude of Forms According to Adam
-              De Wodeham</title>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
-          </analytic>
+        <biblStruct type="manuscript" xml:id="RegAvenVol291">
           <monogr>
-            <title level="m">Knowledge and the Sciences in Medieval Philosophy, 2. Proceedings of
-              the Eighth International Congress of Medieval Philosophy, Helsinki, 24-29 August
-              1987.</title>
-            <editor><forename>Simo</forename><surname>Knuuttila</surname></editor>
-            <editor><forename>Reijo</forename><surname>Työrinoja</surname></editor>
-            <editor><forename>Sten</forename><surname>Ebbesen</surname></editor>
+            <title>Registra Avenionensia ms 291</title>
             <imprint>
-              <pubPlace>Helsinki</pubPlace>
-              <biblScope type="pp">373-391</biblScope>
-              <publisher>Luther-Agricola Society</publisher>
-              <date>1990</date>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
             </imprint>
           </monogr>
-          <series><title level="s">Publications of Luther-Agricola Society</title><biblScope
-              type="vol">B19</biblScope></series>
-          <note>article explains three theories of qualitative change succession theory addition
-            theory admixture theory   She attempts to explain Wodeham's position on three questions:
-            1) Do forms undergo intension and remission? 2) How are qualities intensified? 3) Are
-            maximal degrees in the intensity of forms possible?   1) For Wodeham, an addition
-            theorists, it is not actually the form that is intensified, but the subject. new parts
-            are added the subject and combined with the old parts and new - more intense - form is
-            created. This differs from the succession theorists, who thinks that the old forms is
-            destroyed and replaced by a new more intense form, rather than being taken in as a part
-            of the new form. 2)</note>
         </biblStruct>
-        <biblStruct type="book" xml:id="Little1892">
+        <biblStruct type="manuscript" xml:id="RegSupVol70">
           <monogr>
-            <title level="m">The Grey Friars in Oxford</title>
-            <author><forename>A. G.</forename><surname>Little</surname></author>
+            <title>Registra Supplicationum, vol 70</title>
             <imprint>
-              <pubPlace>Oxford</pubPlace>
-              <publisher>Clarendon Press</publisher>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
+            </imprint>
+          </monogr>
+          <note>Plaoul's name mentioned on f. 56r</note>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="RegSupVol74">
+          <monogr>
+            <title>Registra Supplicationum, vol. 74</title>
+            <imprint>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
+            </imprint>
+          </monogr>
+          <note>Plaoul's name mentioned on f. 158r</note>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="RegSupVol75">
+          <monogr>
+            <title>Registra Supplicationum, vol. 75</title>
+            <imprint>
+              <pubPlace>Archivio Segreto Vaticano</pubPlace>
+            </imprint>
+          </monogr>
+          <note>Plaoul's name mentioned on f. 89v</note>
+        </biblStruct>
+        
+        <biblStruct type="manuscript" xml:id="BnFMsLat5757-A">
+          <monogr>
+            <title>BnF ms Lat 5657-A</title>
+            <imprint>
+              <pubPlace>Paris, Bibliothèque Nationale de France</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="manuscript" xml:id="MazarineMs3323">
+          <monogr>
+            <title>Diarium Bibliothecae Sorbonae, Mazarine, ms. 3323</title>
+            <imprint>
+              <pubPlace>Paris, Bibliothèque Mazarine</pubPlace>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        
+      </listBibl>
+      <listBibl type="Primary" subtype="printed">
+          <head>Primary Printed Sources</head>
+        <biblStruct type="book" xml:id="dArcq1857">
+          <monogr>
+            <title>La chronique d'Enguerran de Monstrelet: en deux livres, avec pièces
+              justificatives</title>
+            <author>
+              <forename>Enguerrand de</forename>
+              <surname>Monstrelet</surname>
+            </author>
+            <editor>
+              <forename>Douët</forename>
+              <surname>d'Arcq</surname>
+            </editor>
+            <imprint>
+              <biblScope type="vol">1</biblScope>
+              <publisher>Renouard</publisher>
+              <date>1857</date>
+            </imprint>
+          </monogr>
+          <note>This is an edition, edited by Douët d'Arcq and published in 1857. And earlier
+            edition (1826) edited by Buchon also appears to exist.</note>
+          <note type="googleUrl">http://books.google.com/books?id=82i2H5njfB4C</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Martène1733">
+          <monogr>
+            <title>Veterum scriptorum et monumentorum historicorum, dogmaticorum, moralium,
+              amplissima collectio</title>
+            <author>
+              <forename>Edmond</forename>
+              <surname>Martène</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <biblScope type="vol">7</biblScope>
+              <date>1733</date>
+            </imprint>
+          </monogr>
+          <note type="googleUrl">http://books.google.com/books?id=eaM-AAAAcAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Toepke1884">
+          <monogr>
+            <title>Die matrikel der Universitat Heidelberg</title>
+            <author>
+              <name>Toepke</name>
+            </author>
+            <imprint>
+              <biblScope type="vol">I</biblScope>
+              <date>1884</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Ehrle1892a">
+          <analytic>
+            <title>Ein Bericht über das bisher unbekannte zweite Pariser Concil vom August
+              1396</title>
+            <author>
+              <forename>Franz</forename>
+              <surname>Ehrle</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Archiv für Literatur-und Kirchengeschichte des Mittelalters</title>
+            <imprint>
+              <pubPlace>Freiburg im Breisgau</pubPlace>
+              <biblScope type="pp">193-224</biblScope>
+              <publisher>Weidmannsche Buchhandlung</publisher>
               <date>1892</date>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="Reina1986a">
-          <analytic>
-            <title level="a">Un abbozzo di polemica sulla psicologia animale: Gregorio da Rimini
-              contro Adamo Wodeham</title>
-            <author><forename>Maria Elena</forename><surname>Reina</surname></author>
-          </analytic>
+        <biblStruct type="book" xml:id="Bellaguet1840">
           <monogr>
-            <title level="m">L'Homme et son univers au Moyen Age. Actes du septième congrès
-              international de philosophie médiévale (30 août - 4 septembre 1982)</title>
-            <editor><forename>Christian</forename><surname>Wenin</surname></editor>
+            <title>Chronique du religieux de Saint-Denys: contenant lé règne de Charles VI., de 1380
+              à 1422</title>
+            <editor>
+              <forename>Louis</forename>
+              <surname>Bellaguet</surname>
+            </editor>
             <imprint>
-              <pubPlace>Louvain-La-Neuve</pubPlace>
               <biblScope type="vol">2</biblScope>
-              <biblScope type="pp">598-609</biblScope>
-              <publisher>Éditions de l'Institut supérieur de philosophie</publisher>
-              <date>1986</date>
+              <publisher>Crapelet</publisher>
+              <date>1840</date>
             </imprint>
           </monogr>
-          <series><title level="s">Philosophes Médiévaux</title><biblScope type="vol"
-              >26-27</biblScope></series>
+          <note>As the subtitle makes clear, this is the second volume in a collection of documents on the history of France. Volume two covers the reign of Charles the VI, from 1380-1422</note>
+          <note type="googleUrl">http://books.google.com/books?id=prtBAAAAcAAJ</note>
         </biblStruct>
-        <biblStruct type="book" xml:id="Schabel2000">
+        <biblStruct type="book" xml:id="Denifle1894">
           <monogr>
-            <title level="m">Theology at Paris, 1316-1345: Peter Auriol and the problem of divine
-              foreknowledge and future contingents</title>
-            <author><forename>Christopher</forename><surname>Schabel</surname></author>
+            <title>Chartularium Universitatis parisiensis</title>
+            <author>
+              <forename>Henricus</forename>
+              <surname>Denifle</surname>
+            </author>
+            <author>
+              <forename>Aemilio</forename>
+              <surname>Chatelain</surname>
+            </author>
             <imprint>
-              <pubPlace>Aldershot</pubPlace>
-              <publisher>Ashgate</publisher>
+              <biblScope type="vol">3</biblScope>
+              <publisher>ex typis fratrum Delalain</publisher>
+              <date>1894</date>
+            </imprint>
+          </monogr>
+          <note>This is the third volume of a collection of records pertaining to the history of the
+            university of Paris</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bellaguet1842">
+          <monogr>
+            <title>Chronique du religieux de Saint-Denys: contenant lé règne de Charles VI., de 1380
+              à 1422</title>
+            <author>
+              <forename>Louis</forename>
+              <surname>Bellaguet</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">4</biblScope>
+              <publisher>Crapelet</publisher>
+              <date>1842</date>
+            </imprint>
+          </monogr>
+          <note type="googleUrl">http://books.google.com/books?id=5rlBAAAAcAAJ</note>
+          <note>As the subtitle makes clear, this is the fourth volume in a collection of documents on the history of France. Volume four covers the reign of Charles the VI, from 1380-1422</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bellaguet1841">
+          <monogr>
+            <title>Chronique du religieux de Saint-Denys: contenant lé règne de Charles VI., de 1380
+              à 1422</title>
+            <author>
+              <forename>Louis</forename>
+              <surname>Bellaguet</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">3</biblScope>
+              <publisher>Crapelet</publisher>
+              <date>1841</date>
+            </imprint>
+          </monogr>
+          <note>As the subtitle makes clear, this is the third volume in a collection of documents on the history of France. Volume three covers the reign of Charles the VI, from 1380-1422</note>
+          <note type="googleUrl">http://books.google.com/books?id=u7tBAAAAcAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Vielliard2000">
+          <monogr>
+            <title>Le Registre de prêt de la bibliothèque du Collège de Sorbonne (1402-1536) =
+              Diarium Bibliothecae Sorbonae : Paris, Bibliothèque Mazarine, ms. 3323</title>
+            <editor>
+              <forename>Jeanne</forename>
+              <surname>Vielliard</surname>
+            </editor>
+            <editor>
+              <forename>Marie-Henriett</forename>
+              <surname>Jullien de Pommerol</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>CNRS</publisher>
               <date>2000</date>
             </imprint>
           </monogr>
-          <idno type="ISBN">9780754602040</idno>
+          <note>This text is an edition of the circulation registry for the Library at the Sorbonne
+            from the years 1402-1536</note>
+          <note>Plaoul is mentioned on pp. 32, 46, 47n7, 48, 50 194-195, 432 (Entry 133, n. 4 and n. 13), 469 (Entry 127, n. 10), 483 (Entry 134, n. 19), 484 (Entry 135, n. 4), 568, 620, 667-668 <!-- need an entry in secondary sources which give this little entry as another bio of Plaoul - bio dated to 2000 --></note>
+          <idno type="ISBN">9782271056023</idno>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Spade1988">
-          <analytic>
-            <title level="a">Anselm and the background to Adam Wodeham's theory of abstract and
-              concrete terms</title>
-            <author><forename>Paul V.</forename><surname>Spade</surname></author>
-          </analytic>
+        <biblStruct type="book" xml:id="Lettenhove1870">
           <monogr>
-            <title level="m">Rivista di Storia della Filiosofia</title>
+            <title>Chroniques relatives à l'histoire de la Belgique....: (Textes latins). Chronique
+              des religieux des Dunes, Jean Brandon, Gilles de Roye, Adrien de But</title>
+            <author>
+              <forename>Joseph Bruno Marie Constantin Kervyn de</forename>
+              <surname>Lettenhove</surname>
+            </author>
             <imprint>
-              <biblScope type="vol">2</biblScope>
-              <biblScope type="pp">261-271</biblScope>
-              <date>1988</date>
+              <biblScope type="vol">1</biblScope>
+              <date>1870</date>
             </imprint>
           </monogr>
-          <note>especially important for understanding Wodeham's distinction 6</note>
+
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Wood1982">
-          <analytic>
-            <title level="a">Adam Wodeham on Sensory Illusions with an Edition of Lectura Secunda,
-              Prologus, Quaestio 3</title>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
-          </analytic>
+        <biblStruct type="book" xml:id="Denifle1897">
           <monogr>
-            <title level="m">Traditio</title>
+            <title>Chartularium Universitatis parisiensis</title>
+            <author>
+              <forename>Henricus</forename>
+              <surname>Denifle</surname>
+            </author>
+            <author>
+              <forename>Aemilio</forename>
+              <surname>Chatelain</surname>
+            </author>
             <imprint>
-              <biblScope type="vol">38</biblScope>
-              <biblScope type="pp">213–252</biblScope>
-              <date>1982</date>
+              <pubPlace>Paris</pubPlace>
+              <biblScope type="vol">4</biblScope>
+              <publisher>ex typis fratrum Delalain</publisher>
+              <date>1897</date>
             </imprint>
           </monogr>
+
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Murdoch1966">
+        <biblStruct type="book" xml:id="Denifle1892">
+          <monogr>
+            <title>Archiv für Literatur- und Kirchengeschichte des Mittelalters</title>
+            <editor>
+              <forename>Henricus</forename>
+              <surname>Denifle</surname>
+            </editor>
+            <editor>
+              <forename>Franz</forename>
+              <surname>Ehrle</surname>
+            </editor>
+            <imprint>
+              <publisher>Weidmannsche Buchhandlung</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+
+        </biblStruct>
+        <biblStruct type="book" xml:id="Finke1896">
+          <monogr>
+            <title>Acta Concilii Constanciensis: 3. Die drei Päpste und das Konzil; Schriften zur
+              Papstwahl</title>
+            <author>
+              <forename>H.</forename>
+              <surname>Finke</surname>
+            </author>
+            <imprint>
+              <pubPlace>Munster</pubPlace>
+              <biblScope type="vol">3</biblScope>
+              <date>1896</date>
+            </imprint>
+          </monogr>
+          <idno type="ISBN">9783921484081</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Baye1885">
+          <monogr>
+            <title>Journal de Nicolas de Baye</title>
+            <author>
+              <forename>Nicolas de</forename>
+              <surname>Baye</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">I</biblScope>
+              <publisher>Librairie Renouard, V e. H. Laurens, successeur</publisher>
+              <date>1885</date>
+            </imprint>
+          </monogr>
+
+        </biblStruct>
+        <biblStruct type="book" xml:id="Chastenet1718">
+          <monogr>
+            <title>Nouvelle Histoire du Concile de Constance</title>
+            <author>
+              <forename>Louis Bourgeois du</forename>
+              <surname>Chastenet</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <date>1718</date>
+            </imprint>
+          </monogr>
+          <note type="googleUrl">http://books.google.com/books?id=uEtBAAAAcAAJ</note>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Ehrle1892b">
           <analytic>
-            <title level="a">Two Questions of the Continuum: Walter Chatton, OFM and Adam Wodeham,
-              OFM</title>
-            <author><forename>John E.</forename><surname>Murdoch</surname></author>
-            <author><forename>E.</forename><surname>Synan</surname></author>
+            <title>Neue Materialien zur Geschichte Petrus von Luna (Benedicts XIII)</title>
+            <author>
+              <forename>Franz</forename>
+              <surname>Ehrle</surname>
+            </author>
           </analytic>
           <monogr>
-            <title level="m">Franciscan Studies</title>
+            <title>Archiv für Literatur- und Kirchengeschichte des Mittelalters</title>
+            <editor>
+              <forename>Franz</forename>
+              <surname>Ehrle</surname>
+            </editor>
+            <editor>
+              <forename>Henricus</forename>
+              <surname>Denifle</surname>
+            </editor>
+            <imprint>
+              <biblScope type="pp">139-308</biblScope>
+              <publisher>Weidmannsche Buchhandlung</publisher>
+              <date>1892</date>
+            </imprint>
+          </monogr>
+
+        </biblStruct>
+        <biblStruct type="book" xml:id="Mansi1784_v26">
+          <monogr>
+            <title>Sacrorum conciliorum nova et amplissima collectio</title>
+            <author>
+              <forename>Gian Domenico</forename>
+              <surname>Mansi</surname>
+            </author>
             <imprint>
               <biblScope type="vol">26</biblScope>
-              <biblScope type="pp">212-288</biblScope>
-              <date>1966</date>
+              <date>1784</date>
             </imprint>
           </monogr>
+          <note>This is volume 26 of a very large work on Church Councils. Volume 26 covers the years 1344 to 1409.</note>
+          <note>Plaoul is named frequently; cf col. 875, 895, 1124 (regarding 13th session of
+            council of Pisa), <ref target="PlaoulTimeLineTEI.xml#events_namedRep1408">1247</ref> </note>
+          <note type="googleUrl">http://books.google.com/books?id=4HGCSvEmhxYC</note>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Wood1991">
+        <biblStruct type="book" xml:id="Mansi1784_v27">
+          <monogr>
+            <title level="m">Sacrorum Conciliorum Nova, Et Amplissima Collectio: Ab anno MCCCCIX
+              usque ad annum MCCCCXVIII.</title>
+            <author><forename>Giovanni Domenico</forename><surname>Mansi</surname></author>
+            <imprint>
+              <biblScope type="vol">27</biblScope>
+              <publisher>Zatta</publisher>
+              <date>1784</date>
+            </imprint>
+          </monogr>
+          <note>This is volume 27 of a very large work on Church Councils. Volume 27 covers the years 1409 to 1418.</note>
+          <note>Millet (1981) cites this as a source that Plaoul attended the Council of Pisa.</note>
+          <note>pdf avialable here: <ref target="http://www.documentacatholicaomnia.eu/04z/z_1692-1769__Mansi_JD__Sacrorum_Conciliorum_Nova_Amplissima_Collectio_Vol_027__LT.pdf.html">http://www.documentacatholicaomnia.eu/04z/z_1692-1769__Mansi_JD__Sacrorum_Conciliorum_Nova_Amplissima_Collectio_Vol_027__LT.pdf.html</ref></note>
+          <note>Plaoul is mentioned in column <ref target="PlaoulTimeLineTEI.xml#events_namedRep1408">341</ref></note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bulaeus1670">
+          <monogr>
+            <title level="m">Historia Universitatis Parisiensis Ipsius Fundationem, Nationes,
+              Facultates, Magistratus, Decreta, Censuras &amp; Ludicia in negotiis fidei,
+              Privilegia, Comitia, Legationes, Reformationes</title>
+            <author><forename>Caesar Egassius</forename><surname>Bulaeus</surname></author>
+            <imprint>
+              <publisher>Franciscus Noel</publisher>
+              <date>1670</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul is mentioned on p. 133, 141, 189, 191, 192</note>
+          <note type="googleUrl">http://books.google.com/books?id=pHpEAAAAcAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Hardt1697">
+          <monogr>
+            <title level="m">Res concilii oecumenici Constantiensis: de universali ecclesiasticae
+              disciplinae reformatione</title>
+            <author><forename>Hermann von der</forename><surname>Hardt</surname></author>
+            <imprint>
+              <biblScope type="vol">2</biblScope>
+              <date>1697</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul is mentioned in Hardt's synopsis of the 13th session of the Council of Pisa, in column 132. This is menteioned by Figueiredo, "tentativa theologica"</note>
+          <note type="googleUrl">http://books.google.com/books?id=Ftc-AAAAcAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Froissart1872">
+          <monogr>
+            <title level="m">Oeuvres de Froissart: Chroniques. 1397-1400</title>
+            <author><forename>Jean</forename><surname>Froissart</surname></author>
+            <imprint>
+              <publisher>Devaux</publisher>
+              <date>1872</date>
+            </imprint>
+          </monogr>
+          <note type="googleUrl">http://books.google.com/books?id=ZnIWQQAACAAJ</note>
+        </biblStruct>
+      </listBibl>
+      <listBibl type="Secondary">
+          <head>Secondary Sources</head>
+        <biblStruct type="book" xml:id="Salembier1907">
+          <monogr>
+            <title>The Great Schism of the West</title>
+            <author>
+              <forename>Louis</forename>
+              <surname>Salembier</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Kegan Paul, Trench, Trübner &amp; Co.</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+          <note>At least 10 references to Plaoul here regarding his role in the Politics of the
+            schism</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Ornato1969">
+          <monogr>
+            <title>Jean Muret et ses amis: Nicolas de Clamanges et Jean de Montreuil</title>
+            <author>
+              <forename>Ezio</forename>
+              <surname>Ornato</surname>
+            </author>
+            <imprint>
+              <publisher>Librairie Droz</publisher>
+              <date>1969</date>
+            </imprint>
+          </monogr>
+          <idno type="ISBN">9782600033596</idno>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Goddard2009">
           <analytic>
-            <title level="a">The Wodeham Edition: Adam Wodeham's Lectura Secunda</title>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
+            <title>The Myth of Parisian Scholar's Opposition to the System of Papal Provisions
+              (1378-1418)</title>
+            <author>
+              <forename>Eric D.</forename>
+              <surname>Goddard</surname>
+            </author>
           </analytic>
           <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">51</biblScope>
-              <biblScope type="pp">103-115</biblScope>
-              <date>1991</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Brower-Toland2007">
-          <analytic>
-            <title level="a">Fact vs. Things: Adam Wodeham and the Later Medieval Debate about
-              Objects of Judgment</title>
-            <author><forename>Susan</forename><surname>Brower-Toland</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Review of Metaphysics</title>
-            <imprint>
-              <biblScope type="vol">60</biblScope>
-              <biblScope type="issue">3</biblScope>
-              <biblScope type="pp">597-642</biblScope>
-              <date>2007</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Gal1977">
-          <analytic>
-            <title level="a">Adam of Wodeham's Question on the 'Complexe Significabile' as the
-              Immediate Object of Scientific Knowledge</title>
-            <author><forename>Gedeon</forename><surname>Gal</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">37</biblScope>
-              <biblScope type="pp">66-102</biblScope>
-              <date>1977</date>
-              <note type="url"
-                >http://search.ebscohost.com/login.aspx?direct=true&amp;db=phl&amp;AN=PHL1080617&amp;site=ehost-live</note>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Nuchelmans1980">
-          <analytic>
-            <title level="a">Adam Wodeham on the meaning of declarative sentences</title>
-            <author><forename>Gabriel</forename><surname>Nuchelmans</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Historiographia Linguistica</title>
-            <imprint>
-              <biblScope type="vol">7</biblScope>
-              <biblScope type="pp">177-186</biblScope>
-              <date>1980</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Lenz2001">
-          <analytic>
-            <title level="a">Adam de Wodeham und die Entdeckung des Sachverhalts</title>
-            <author><forename>Martin</forename><surname>Lenz</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Umbrüche: Historische Wendepunkte der Philosophie von der Antike bis
-              Antike bis zur Gegenwart. Festschrift für Kurt Flasch zu seinem 70. Geburtstag</title>
-            <editor><forename>Klaus</forename><surname>Kahnert</surname></editor>
-            <editor><forename>Burkhard</forename><surname>Mojsisch</surname></editor>
-            <imprint>
-              <pubPlace>Amsterdam</pubPlace>
-              <biblScope type="pp">99-116</biblScope>
-              <date>2001</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Zupko1994">
-          <analytic>
-            <title level="a">How It Played in the rue de Fouarre: The Reception of Adam Wodeham's
-              Theory of the Complexe Significabile in the Arts Faculty at Paris in the
-              Mid-Fourteenth Century</title>
-            <author><forename>Jack</forename><surname>Zupko</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">54</biblScope>
-              <biblScope type="pp">211-225</biblScope>
-              <date>1994</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Courtenay2008">
-          <monogr>
-            <title level="m">Ockham and Ockhamism: studies in the dissemination and impact of his
-              thought</title>
-            <author><forename>William J.</forename><surname>Courtenay</surname></author>
-            <imprint>
-              <biblScope type="vol">99</biblScope>
-              <publisher>Brill Academic Pub</publisher>
-              <date>2008</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="Lagerlund2011">
-          <monogr>
-            <title level="m">Adam Wodeham</title>
-            <editor><forename>Henrik</forename><surname>Lagerlund</surname></editor>
-            <author><forename>Stephen</forename><surname>Lahey</surname></author>
-            <imprint>
-              <pubPlace>Dordrecht</pubPlace>
-              <biblScope type="pp">20-24</biblScope>
-              <publisher>Springer Netherlands</publisher>
-              <date>2011</date>
-              <note type="accessed">2011-04-10 12:16:22</note>
-              <note type="url">http://www.springerlink.com/content/gl262470n5ql3n27/</note>
-            </imprint>
-          </monogr>
-          <idno type="ISBN">978-1-4020-9728-7</idno>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Tachau1995a">
-          <monogr>
-            <title level="m">Vision and Certitude in the Age of Ockham</title>
-            <author><forename>Katherine</forename><surname>Tachau</surname></author>
-            <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <publisher>Brill</publisher>
-              <date>1995</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Karger2001">
-          <analytic>
-            <title level="a">Adam Wodeham on the Intentionality of Cognitions</title>
-            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Ancient and medieval theories of intentionality</title>
-            <editor><forename>Dominik</forename><surname>Perler</surname></editor>
-            <imprint>
-              <biblScope type="pp">283-300</biblScope>
-              <publisher>Brill Academic Publishers</publisher>
-              <date>2001</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Kennedy1990">
-          <analytic>
-            <title level="a">Early Fourteenth-Century Franciscans and Divine Absolute Power</title>
-            <author><forename>Leonard A.</forename><surname>Kennedy</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">50</biblScope>
-              <biblScope type="pp">197-233</biblScope>
-              <date>1990</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Courtenay1975">
-          <analytic>
-            <title level="a">Ockhamism among the Augustinians: the case of Adam Wodeham</title>
-            <author><forename>William J.</forename><surname>Courtenay</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Cassiciacum</title>
-            <imprint>
-              <biblScope type="vol">30</biblScope>
-              <biblScope type="pp">267-275</biblScope>
-              <date>1975</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Little1934">
-          <monogr>
-            <title level="m">Oxford theology and theologians</title>
-            <author><forename>A. G.</forename><surname>Little</surname></author>
-            <author><forename>F.</forename><surname>Pelster</surname></author>
+            <title/>
+            <editor>
+              <forename>Mordechai</forename>
+              <surname>Feingold</surname>
+            </editor>
             <imprint>
               <pubPlace>Oxford</pubPlace>
-              <date>1934</date>
+              <biblScope type="vol">24/1&amp;2</biblScope>
+              <biblScope type="pp">1-35</biblScope>
+              <publisher>Oxford University Press</publisher>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title>History of Universities</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Glorieux1939">
+          <analytic>
+            <title>L'année universitaire 1392–1393 à la Sorbonne à travers les notes d'un
+              étudiant</title>
+            <author>
+              <forename>P.</forename>
+              <surname>Glorieux</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Revue des sciences religieuses</title>
+            <imprint>
+              <biblScope type="vol">19</biblScope>
+              <biblScope type="pp">429-482</biblScope>
+              <date>1939</date>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="Wood2003">
+        <biblStruct type="book" xml:id="Valois1901">
           <monogr>
-            <title level="m">Adam of Wodeham</title>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
-            <editor><forename>Jorge J. E.</forename><surname>Gracia</surname></editor>
-            <editor><forename>Timothy B.</forename><surname>Noone</surname></editor>
+            <title>La France et le grand schisme d'Occident</title>
+            <author>
+              <forename>Noël</forename>
+              <surname>Valois</surname>
+            </author>
             <imprint>
-              <pubPlace>Oxford</pubPlace>
-              <biblScope type="pp">77-85</biblScope>
-              <publisher>Blackwell Publishers</publisher>
-              <date>2003</date>
+              <biblScope type="vol">3</biblScope>
+              <publisher>A. Picard et fils</publisher>
+              <date>1901</date>
+
             </imprint>
           </monogr>
-          <series><title level="s">Blackwell Companions to Philosophy</title><biblScope type="vol"
-              >24</biblScope></series>
+          <note>The authoritative history of the great schism. Contain information relevant to the
+            political life of Peter Plaoul</note>
+          <note type="googleUrl">http://books.google.com/books?id=jeFLAAAAMAAJ</note>
         </biblStruct>
-        <biblStruct type="book" xml:id="Courtenay1978">
+        <biblStruct type="book" xml:id="Swanson2002">
           <monogr>
-            <title level="m">Adam Wodeham: an introduction to his life and writings</title>
-            <author><forename>William J.</forename><surname>Courtenay</surname></author>
+            <title>Universities, academics and the Great Schism</title>
+            <author>
+              <forename>R. N</forename>
+              <surname>Swanson</surname>
+            </author>
             <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <publisher>Brill</publisher>
-              <date>1978</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Gelber1974">
-          <monogr>
-            <title level="m">Logic and the Trinity: a clash of values in scholastic thought,
-              1300-1335</title>
-            <author><forename>Hester Goodenough</forename><surname>Gelber</surname></author>
-            <imprint>
-              <pubPlace>University of Wisconsin</pubPlace>
-              <publisher>Ph.D. Dissertation</publisher>
-              <date>1974</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Perler2002">
-          <monogr>
-            <title level="m">Theorien der Intentionalität im Mittelalter</title>
-            <author><forename>Dominik</forename><surname>Perler</surname></author>
-            <imprint>
-              <pubPlace>Frankfurt-am-Main</pubPlace>
-              <publisher>Klostermann</publisher>
+              <pubPlace>Cambridge</pubPlace>
+              <biblScope type="vol">12</biblScope>
+              <publisher>Cambridge Univ Pr</publisher>
               <date>2002</date>
             </imprint>
           </monogr>
+          <idno type="ISBN">0521522269</idno>
         </biblStruct>
-        <biblStruct type="bookSection" xml:id="Biard2004">
+        <biblStruct type="journalArticle" xml:id="Maier1958">
           <analytic>
-            <title level="a">Les controverses sur l'objet du savoir et les "complexe significabilia"
-              à Paris au XIVe siècle</title>
-            <author><forename>Joël</forename><surname>Biard</surname></author>
+            <title>Zu einigen Sentenzenkommentaren des XIV Jahrunderts</title>
+            <author>
+              <forename>A.</forename>
+              <surname>Maier</surname>
+            </author>
           </analytic>
           <monogr>
-            <title level="m">Quia inter doctores est magna dissensio. Les débats de philosophie
-              naturelle à Paris au XIVe siècle</title>
-            <editor><forename>Stefano</forename><surname>Caroti</surname></editor>
-            <editor><forename>Jean</forename><surname>Celeyrett</surname></editor>
+            <title>Archivum franciscanum historicum</title>
             <imprint>
-              <pubPlace>Firenze</pubPlace>
-              <biblScope type="pp">1-31</biblScope>
-              <publisher>Olschki</publisher>
-              <date>2004</date>
+              <biblScope type="vol">51</biblScope>
+              <biblScope type="pp">405-409</biblScope>
+              <date>1958</date>
             </imprint>
           </monogr>
-          <series><title level="s">Biblioteca di Nuncius -- Studi e Testi</title></series>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="White1993">
+        <biblStruct type="bookSection" xml:id="Kaluza1995">
           <analytic>
-            <title level="a">William of Ockham and Adam Wodeham</title>
-            <author><forename>Graham</forename><surname>White</surname></author>
+            <title>Les débuts de l'Albertisme tardif (Paris et Cologne)</title>
+            <author>
+              <forename>Zenon</forename>
+              <surname>Kaluza</surname>
+            </author>
           </analytic>
           <monogr>
-            <title level="m">Heythrop Journal</title>
+            <title>Albertus Magnus und der Albertismus</title>
+            <editor>
+              <forename>Maarten</forename>
+              <surname>Hoenen</surname>
+            </editor>
+            <editor>
+              <forename>Alain</forename>
+              <surname>de Libera</surname>
+            </editor>
             <imprint>
-              <biblScope type="vol">34</biblScope>
-              <biblScope type="issue">3</biblScope>
-              <biblScope type="pp">296-301</biblScope>
-              <date>1993</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Sylla1973">
-          <analytic>
-            <title level="a">Medieval Concepts of the Latitude of Forms: The Oxford
-              Calculators</title>
-            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Archives d'histoire doctrinale et littéraire du moyen âge</title>
-            <imprint>
-              <biblScope type="vol">40</biblScope>
-              <biblScope type="pp">223–283</biblScope>
-              <date>1973</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Knuuttila2004a">
-          <monogr>
-            <title level="m">Emotions in Ancient and Medieval Philosophy</title>
-            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
-            <imprint>
-              <pubPlace>Oxford</pubPlace>
-              <publisher>Oxford Univeristy Press</publisher>
-              <date>2004</date>
-            </imprint>
-          </monogr>
-          <note>see pages 275-286 for information on Wodeham</note>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Grassi1982">
-          <analytic>
-            <title level="a">Il problema della conoscenza di Dio nel commento alle Sentenze di Adam
-              Wodeham (Prologo e q. 1)</title>
-            <author><forename>Onorato</forename><surname>Grassi</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Medioevo</title>
-            <imprint>
-              <biblScope type="vol">8</biblScope>
-              <biblScope type="pp">43-136</biblScope>
-              <date>1982</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Sylla1998a">
-          <analytic>
-            <title level="a">God and the Continuum in the Later Middle Ages: the Relations of
-              Philosophy to Theology, Logic, and Mathematics</title>
-            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Was ist Philosophie im Mittelalter? Akten des X. Internationalen
-              Kongresses für mittelalterliche Philosophie der Société Internationale pour l'Etude de
-              la Philosophie Médiévale, 25. bis 30. August 1997 in Erfurt.</title>
-            <editor><forename>Jan A.</forename><surname>Aertsen</surname></editor>
-            <editor><forename>Andreas</forename><surname>Speer</surname></editor>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <biblScope type="pp">791-797</biblScope>
-              <publisher>De Gruyter</publisher>
-              <date>1998</date>
-            </imprint>
-          </monogr>
-          <series><title level="s">Miscellanea Medievalia</title><biblScope type="vol"
-              >26</biblScope></series>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Knuuttila2004b">
-          <analytic>
-            <title level="a">Wodeham Cognitive Theory of the Passions</title>
-            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Medieval Theories on Assertive and Non-Assertive Language: Acts of the
-              14th European Symposium on Medieval Logic and Semantics, Rome, June 11-15,
-              2002</title>
-            <editor><forename>Alfonso</forename><surname>Maierú</surname></editor>
-            <editor><forename>Luisa</forename><surname>Valente</surname></editor>
-            <imprint>
-              <pubPlace>Firenze</pubPlace>
-              <biblScope type="pp">207-218</biblScope>
-              <publisher>Olschki</publisher>
-              <date>2004</date>
-            </imprint>
-          </monogr>
-          <series><title level="s">Lessico Intellectuale Europeo</title><biblScope type="vol"
-              >97</biblScope></series>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Bottin1982">
-          <monogr>
-            <title level="m">La scienza degli occamisti</title>
-            <author><forename>F.</forename><surname>Bottin</surname></author>
-            <imprint>
-              <pubPlace>Rimini</pubPlace>
-              <date>1982</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Bermon2007">
-          <monogr>
-            <title level="m">L'assentiment et son objet chez Gregoire de Rimini</title>
-            <author><forename>Pascale</forename><surname>Bermon</surname></author>
-            <imprint>
-              <pubPlace>Paris</pubPlace>
-              <publisher>Vrin</publisher>
-              <date>2007</date>
-            </imprint>
-          </monogr>
-          <note>Only sections of book contained in Scan and Hard Copy</note>
-          <idno type="ISBN">9782711618934</idno>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Adams1981">
-          <analytic>
-            <title level="a">Is to will it as bad as to do it? The Fourteenth Century Debate</title>
-            <author><forename>Marilyn McCord</forename><surname>Adams</surname></author>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">41</biblScope>
-              <biblScope type="pp">5–60</biblScope>
-              <date>1981</date>
-            </imprint>
-          </monogr>
-          <note>Includes text text transcription from Book IV of the Ordinatio</note>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Karger2004">
-          <analytic>
-            <title level="a">Ockham and Wodeham on Divine Deception as a skeptical
-              hypothesis</title>
-            <author><forename>Elizabeth</forename><surname>Karger</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Vivarium</title>
-            <imprint>
-              <biblScope type="vol">42</biblScope>
-              <biblScope type="issue">2</biblScope>
-              <biblScope type="pp">225–236</biblScope>
-              <date>2004</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Zupko1993">
-          <analytic>
-            <title level="a">Nominalism Meets Indivisibilism</title>
-            <author><forename>Jack</forename><surname>Zupko</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Medieval Philosophy and Theology</title>
-            <imprint>
-              <biblScope type="vol">3</biblScope>
-              <biblScope type="pp">158-185</biblScope>
-              <date>1993</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Wood1989">
-          <analytic>
-            <title level="a">Epistemology and omnipotence: Ockham in Fourteenth-Century
-              Philosophical Perspective</title>
-            <author><forename>Rega</forename><surname>Wood</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Popes, Teachers and Canon Law in the Middle Ages</title>
-            <editor><forename>S.</forename><surname>Chodorow</surname></editor>
-            <editor><forename>J.</forename><surname>Sweeney</surname></editor>
-            <imprint>
-              <pubPlace>Ithaca</pubPlace>
-              <biblScope type="pp">19-89?</biblScope>
-              <publisher>Cornell University Press</publisher>
-              <date>1989</date>
-            </imprint>
-          </monogr>
-          <note>includes sections on: Scotus, Peter Aureol, Godfrey of Fontaines, Ockham, John
-            Reading, Walter Chatton, Adam Wodeham, John Mirecourt,</note>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Perler2006">
-          <analytic>
-            <title level="a">Intentionality and Action. Medieval Discussion on the Cognitive
-              Capacities of Animals</title>
-            <author><forename>Dominik</forename><surname>Perler</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Intellect and Imagination in Medieval Philosophy: Actes du XIe congrès
-              international de philosophie médiévale de la Société Internationale pour l'Etude de la
-              Philosophie Médiévale (S.I.E.P.M.), Porto, du 26 au 31 août 2002</title>
-            <editor><forename>Maria Cândida</forename><surname>Pacheco</surname></editor>
-            <editor><forename>José F.</forename><surname>Meirinhos</surname></editor>
-            <imprint>
-              <pubPlace>Turnhout</pubPlace>
-              <biblScope type="vol">1</biblScope>
-              <biblScope type="pp">73-98</biblScope>
-              <publisher>Brepols</publisher>
-              <date>2006</date>
-            </imprint>
-          </monogr>
-          <series><title level="s">Société Internationale pour l'Etude de la Philosophie Médiévale:
-              Rencontres de Philosophie Médiévale</title><biblScope type="vol"
-            >11</biblScope></series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Keele2003">
-          <analytic>
-            <title level="a">The So-Called 'Res' Theory of Walter Chatton</title>
-            <author><forename>Rondo</forename><surname>Keele</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">61</biblScope>
-              <biblScope type="pp">37-53</biblScope>
-              <date>2003</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Kretzmann1984">
-          <analytic>
-            <title level="a">Adam Wodeham's anti-Aristotelian anti-atomism</title>
-            <author><forename>Norman</forename><surname>Kretzmann</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">History of Philosophy Quarterly</title>
-            <imprint>
-              <biblScope type="vol">4</biblScope>
-              <biblScope type="pp">381-398</biblScope>
-              <date>1984</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Friedman1997">
-          <monogr>
-            <title level="m">In Principio Erat Verbum: The Incorporation of Philosophical Psychology
-              into Trinitarian Theology, 1250-1325</title>
-            <author><forename>Russell L.</forename><surname>Friedman</surname></author>
-            <imprint>
-              <pubPlace>University of Iowa</pubPlace>
-              <publisher>Ph.D. Dissertation</publisher>
-              <date>1997</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Beckmann1998">
-          <analytic>
-            <title level="a">Ockham, Ockhamismus, und Nominalismus: Spuren der Wirkungsgeschichte
-              des Venerabilis Inceptors</title>
-            <author><forename>Jan P.</forename><surname>Beckmann</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Franciscan Studies</title>
-            <imprint>
-              <biblScope type="vol">56</biblScope>
-              <biblScope type="pp">77-95</biblScope>
-              <date>1998</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Weidemann1991">
-          <analytic>
-            <title level="a">Sache, Satz und Sachverhalt: Zur Diskussion über das Objekt des Wissens
-              im Spätmittelalter</title>
-            <author><forename>Hermann</forename><surname>Weidemann</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Vivarium</title>
-            <imprint>
-              <biblScope type="vol">29</biblScope>
-              <biblScope type="pp">129-146</biblScope>
-              <date>1991</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Kitanov2003">
-          <analytic>
-            <title level="a">Displeasure in Heaven, Pleasure in Hell: Four Franciscan Masters on the
-              Relationship Between Love and Pleasure, and Hatred and Displeasure</title>
-            <author><forename>Severin Valentinov</forename><surname>Kitanov</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Traditio</title>
-            <imprint>
-              <biblScope type="vol">58</biblScope>
-              <biblScope type="pp">284-340</biblScope>
-              <date>2003</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Genest2003">
-          <analytic>
-            <title level="a">Aux origines d'une casuistique. La révélation des futurs contingents
-              d'après la lecture de Richard FitzRalph sur les Sentences (II)</title>
-            <author><forename>Jean-François</forename><surname>Genest</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Archives d'histoire doctrinale et littéraire du moyen âge</title>
-            <imprint>
-              <biblScope type="vol">70</biblScope>
-              <biblScope type="pp">317-346</biblScope>
-              <date>2003</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Perler2008">
-          <analytic>
-            <title level="a">Seeing and Judging: Ockham and Wodeham on Sensory Cognition</title>
-            <author><forename>Dominik</forename><surname>Perler</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Theories of Perception in Medieval and Early Modern Philosophy</title>
-            <editor><forename>Simo</forename><surname>Knuuttila</surname></editor>
-            <editor><forename>Pekka</forename><surname>Kärkkäinen</surname></editor>
-            <imprint>
-              <biblScope type="pp">151–169</biblScope>
-              <publisher>Springer</publisher>
-              <date>2008</date>
-            </imprint>
-          </monogr>
-          <note>Notes/Abstract of Text Excellent account of how and why Ockham and Wodeham disagree
-            about  a 'real' distinction between the intellective and the sensitive soul. Ockham --
-            sees 3 distinct steps resulting in judgment (see p. 163), a) sensitive intuition, b) the
-            formation of a mental term (intuitive intellective apprehension), c) finally
-            intellective judgment. Wodeham does not see the need for the step B -- but thinks the
-            sensitive intuition is "in some sense an act of the intellect" (see Perler p. 164) and
-            therefore can provide the kind of apprehension necessary for judgment. As a consequence,
-            Perler claims that Wodeham shows himself to be rejecting any notion of "Pre-conceptual
-            cognition". "According to him [Wodeham], ever sensory cognition is conceptualized."
-            (Perler, p. 264) According to Perler, Wodeham's critique of Ockham on this point raises
-            the following question: "Should we assume that there is, as it were, a gap between
-            sensory and intellectual acts so that we need a special act to fill this gap, an act
-            that conceptualizes the pre-conceptual content of a sensory act? Or should we accept the
-            claim that sensory and intellectual acts are tightly linked to each other in a single
-            soul so that no gap needs to be filled" (p. 164)" The article then goes on to explain,
-            how Ockham deals with instances that look like deceptive sense experiences -- he points
-            out that, for Ockham, the sense do not really error here -- but actually the intellect.
-            He also discuss Ockham as employing a "reliabilist strategy" rather than
-            "foundationalist strategy" to adjudicate between false and true appearances. But he
-            doesn't return to Wodeham and discuss any differences that might follow from Wodeham's
-            critique of Ockham's separate intellectual apprehension (see above). (see p. 167-168)
-            Includes by noting how Ockham differs from Descartes who wants to "lead the intellect
-            away from the senses" (p. 168) For Ockham, the senses are not the problem and actually
-            provide reliable information. Rather it is only by understanding the "normal behavior"
-            of the senses that we can distinguish NON-NORMAL situations/behavior and thereby be
-            alert to deception when our intellect performs its subsequent apprehension and
-            judgment.</note>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Knuuttila1997">
-          <analytic>
-            <title level="a">Positio impossibilis in Medieval Discussions of the Trinity</title>
-            <author><forename>Simo</forename><surname>Knuuttila</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Vestigia, Imagines, Verba: Semiotics and Logic in Medieval Theological
-              Texts (XIIth-XIVth Century). Acts of the XIth Symposium on Medieval Logic and
-              Semantics, San Marino, 24-28 May 1994</title>
-            <editor><forename>Costantino</forename><surname>Marmo</surname></editor>
-            <imprint>
-              <pubPlace>Trunhout</pubPlace>
-              <publisher>Brepols</publisher>
-              <date>1997</date>
-            </imprint>
-          </monogr>
-          <series><title level="s">Semiotic and Cognitive Studies</title><biblScope type="vol"
-              >4</biblScope></series>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Adams1993">
-          <analytic>
-            <title level="a">Review: Lectura Secunda of Adam Wodeham</title>
-            <author><forename>Marilyn McCord</forename><surname>Adams</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">The Philosophical Review</title>
-            <imprint>
-              <biblScope type="vol">102</biblScope>
-              <biblScope type="issue">4</biblScope>
-              <biblScope type="pp">588-594</biblScope>
-              <date>1993</date>
-              <note type="accessed">2011-06-09 18:19:08</note>
-              <note type="url">http://www.jstor.org/stable/2185687</note>
-            </imprint>
-          </monogr>
-          <idno type="ISSN">0031-8108</idno>
-          <idno type="DOI">10.2307/2185687</idno>
-        </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="Beckmann1993">
-          <monogr>
-            <title level="m">Adam Wodeham</title>
-            <author><forename>Jan P.</forename><surname>Beckmann</surname></author>
-            <imprint>
-              <pubPlace>Freiburg</pubPlace>
-              <biblScope type="vol">1</biblScope>
-              <date>1993</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Bakker1999">
-          <monogr>
-            <title level="m">La raison et le miracle. Les doctrines eucharistiques (c. 1250-c.
-              1400). Contributions à l'étude des rapports entre philosophie et théologie</title>
-            <author><forename>Paul</forename><surname>Bakker</surname></author>
-            <imprint>
-              <pubPlace>Nijmegen</pubPlace>
-              <biblScope type="vol">2</biblScope>
-              <publisher>Ph.D. Dissertation</publisher>
-              <date>1999</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Grassi1986">
-          <monogr>
-            <title level="m">Intuizione e significato: Adam Wodeham ed il problema della conoscenza
-              nel XIV secolo</title>
-            <author><forename>Onorato</forename><surname>Grassi</surname></author>
-            <imprint>
-              <pubPlace>Milan</pubPlace>
-              <publisher>Editoriale Jaca</publisher>
-              <date>1986</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Sylla1998b">
-          <analytic>
-            <title level="a">God, Indivisibles, and Logic in the Later Middle Ages: Adam Wodeham's
-              Response to Henry of Harclay</title>
-            <author><forename>Edith Dudley</forename><surname>Sylla</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Medieval Philosophy and Theology</title>
-            <imprint>
-              <biblScope type="vol">7</biblScope>
-              <biblScope type="issue">1</biblScope>
-              <biblScope type="pp">69-87</biblScope>
-              <date>1998</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Lagerlund2004">
-          <analytic>
-            <title level="a">John Buridan and the Problems of Dualism in the Early Fourteenth
-              Century</title>
-            <author><forename>Henrik</forename><surname>Lagerlund</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Journal of the History of Philosophy</title>
-            <imprint>
-              <biblScope type="vol">42</biblScope>
-              <biblScope type="issue">4</biblScope>
-              <biblScope type="pp">369-387</biblScope>
-              <date>2004</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Tachau1980">
-          <analytic>
-            <title level="a">Adam Wodeham On First and Second Intentions</title>
-            <author><forename>Katherine</forename><surname>Tachau</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m">Cahiers de l'Institut du Moyen-Age grec et latin (Kobenhavns
-              Universitet)</title>
-            <imprint>
-              <biblScope type="vol">35</biblScope>
-              <biblScope type="pp">29-55</biblScope>
-              <date>1980</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="Tachau1987">
-          <analytic>
-            <title level="a">Wodeham, Crathorn, and Holcot: The Development of the complexe
-              significabile</title>
-            <author><forename>Katherine</forename><surname>Tachau</surname></author>
-          </analytic>
-          <monogr>
-            <title level="m"/>
-            <editor><forename>L. M</forename><surname>de Riijk</surname></editor>
-            <editor><forename>H. A. G</forename><surname>Braakhuis</surname></editor>
-            <imprint>
-              <pubPlace>Nijmegen</pubPlace>
-              <biblScope type="pp">161-187</biblScope>
-              <date>1987</date>
-            </imprint>
-          </monogr>
-          <series><title level="s">Logos and Pragma: Essays on the Philosophy of Language in Honor
-              of Professor Gabriel Nuchelmans</title></series>
-        </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="Courtenay2004">
-          <monogr>
-            <title level="m">Wodeham, Adam (c. 1295-1358)</title>
-            <author><forename>William J.</forename><surname>Courtenay</surname></author>
-            <imprint>
-              <pubPlace>Oxford</pubPlace>
-              <publisher>Oxford Univeristy Press</publisher>
-              <date>2004</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Gelber1983">
-          <monogr>
-            <title level="m">Exploring the Boundaries of Reason: Three Questions on the Nature of
-              God by Robert Holcot OP</title>
-            <author><forename>Hester Goodenough</forename><surname>Gelber</surname></author>
-            <imprint>
-              <pubPlace>Toronto</pubPlace>
-              <publisher>Pontifical Institute of Mediaeval Studies</publisher>
-              <date>1983</date>
-            </imprint>
-          </monogr>
-          <note>Includes important re-datings of Wodeham's biography, which is why it should be
-            included in the Adam Wodeham Bibliography</note>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Kitanov2006">
-          <monogr>
-            <title level="m">Beatific Enjoyment in Scholastic Theology and Philosophy:
-              1240-1335</title>
-            <author><forename>Severin Valentinov</forename><surname>Kitanov</surname></author>
-            <imprint>
-              <pubPlace>University of Helsinki</pubPlace>
-              <publisher>Ph.D. Dissertation</publisher>
-              <date>2006</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="book" xml:id="Tachau1995b">
-          <monogr>
-            <title level="m">Robert Holcot, Seeing the Future Clearly: Questions on Future
-              Contingents</title>
-            <editor><forename>Katherine</forename><surname>Tachau</surname></editor>
-            <editor><forename>Paul</forename><surname>Streveller</surname></editor>
-            <author><forename>Robert</forename><surname>Holcot</surname></author>
-            <imprint>
-              <pubPlace>Toronto</pubPlace>
-              <publisher>Pontifical Institute of Mediaeval Studies</publisher>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope type="pp">207-295</biblScope>
+              <publisher>Brill</publisher>
               <date>1995</date>
             </imprint>
           </monogr>
-          <series><title level="s">Studies and Texts</title><biblScope type="vol"
-            >119</biblScope></series>
+          <note>Discusses Plaoul on p. 219, perhaps elsewhere</note>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Reina1986b">
+        <biblStruct type="journalArticle" xml:id="Hobbins2003">
           <analytic>
-            <title level="a">Cognizione intuitive ed esperienza interior in Adamo Wodeham</title>
-            <author><forename>Maria Elena</forename><surname>Reina</surname></author>
+            <title>The Schoolman as Public Intellectual: Jean Gerson and the Late Medieval
+              Tract</title>
+            <author>
+              <forename>Daniel</forename>
+              <surname>Hobbins</surname>
+            </author>
           </analytic>
           <monogr>
-            <title level="m">Rivista di Storia della Filiosofia</title>
+            <title>The American Historical Review</title>
             <imprint>
-              <biblScope type="vol">41</biblScope>
-              <biblScope type="pp">19-42, 211-244</biblScope>
-              <date>1986</date>
+              <biblScope type="vol">108</biblScope>
+              <biblScope type="issue">5</biblScope>
+              <biblScope type="pp">1308-1337</biblScope>
+              <date>2003</date>
+              <note type="accessed">2011-04-26 13:29:59</note>
+              <note type="url">http://www.jstor.org/stable/10.1086/529968</note>
+            </imprint>
+          </monogr>
+          <note>Hobbins discusses Peter Plaoul's commentary in this paper. However, this paper
+            precedes his book and much of the material is re-used in his book. My impression is that
+            he gets most of his information from Glorieux - not from the extant manuscripts.</note>
+          <idno type="ISSN">0002-8762</idno>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Witt">
+          <analytic>
+            <title>Peter Plaoul and Intuitive Knowledge</title>
+            <author>
+              <forename>Jeffrey</forename>
+              <surname>Witt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Acts of the Nijmegen SIEPM Colloquium 2009</title>
+            <editor>
+              <forename>Russell</forename>
+              <surname>Friedman</surname>
+            </editor>
+            <editor>
+              <forename>Monica</forename>
+              <surname>Calma</surname>
+            </editor>
+            <editor>
+              <forename>Paul</forename>
+              <surname>Bakker</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Nigmegen</pubPlace>
+              <publisher>Brepols</publisher>
+              <date>forthcoming</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title>Rencontres de Philosophie Medievale</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Guenee1991">
+          <monogr>
+            <title>Between church and state: the lives of four French prelates in the late Middle
+              Ages</title>
+            <author>
+              <forename>B.</forename>
+              <surname>Guenée</surname>
+            </author>
+            <editor role="translator">
+              <forename>Arthur</forename>
+              <surname>Goldhammer</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Chicago</pubPlace>
+              <publisher>University of Chicago Press</publisher>
+              <date>1991</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul is mentioned on pp. 156 (regarding the Blanchard affair), 165, <ref
+              target="PlaoulTimeLineTEI.xml#events_thirdAssembly">190 (speech at Third French
+              Assembly)</ref>, 193, 202-3, <ref
+              target="PlaoulTimeLineTEI.xml#events_speaks4thAssDec">205 (speech at Fourth French
+              Assembly)</ref>, 207, p. <ref target="PlaoulTimeLineTEI.xml#events_embassyMayJul">209
+              (on 1407 embassy)</ref>, 211 (on 1407 embassy), p. 223 (at the council of Pisa), and
+            240 (as bishop of Senlis)</note>
+          <idno type="ISBN">0226310329</idno>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Sullivan2011">
+          <analytic>
+            <title>Pierre Plaoul</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Sullivan</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Parisian Licentiates in Theology, AD 1373-1500. A Biographical Register. Volume
+              II: The Secular Clergy</title>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope type="vol">II</biblScope>
+              <biblScope type="pp">433-437</biblScope>
+              <publisher>Brill</publisher>
+              <date>2011</date>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="book" xml:id="Magnus1891">
+        <biblStruct type="book" xml:id="Hobbins2009">
           <monogr>
-            <title level="m">B. Alberti Magni Opera omnia</title>
-            <author><forename>Saint Albertus</forename><surname>(Magnus)</surname></author>
-            <author><forename>Auguste</forename><surname>Borgnet</surname></author>
-            <author><forename>Jacques</forename><surname>Quétif</surname></author>
-            <author><forename>Êmile</forename><surname>Borgnet</surname></author>
+            <title>Authorship and Publicity Before Print: Jean Gerson and the Transformation of Late
+              Medieval Learning</title>
+            <author>
+              <forename>Daniel</forename>
+              <surname>Hobbins</surname>
+            </author>
             <imprint>
-              <biblScope type="vol">10</biblScope>
-              <publisher>Apud Ludovicum Vivès</publisher>
-              <date>1891</date>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>University of Pennsylvania Press</publisher>
+              <date>2009</date>
             </imprint>
           </monogr>
-          <note>Includes his commentary on the Book of Causis or Liber de Causis  </note>
+          <note>Contains info about Peter Plaoul</note>
+          <idno type="ISBN">081224155X</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Bernstein1978">
+          <monogr>
+            <title>Pierre d'Ailly and the Blanchard affair: University and chancellor of Paris at
+              the beginning of the Great Schism</title>
+            <author>
+              <forename>A. E</forename>
+              <surname>Bernstein</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <publisher>Brill Academic Pub</publisher>
+              <date>1978</date>
+            </imprint>
+          </monogr>
+          <note>This book describes the events of the so called Blanchard affair that took place at
+            Paris in the 1380s. Peter Plaoul, who worked as sub-chancellor under Blanchard is
+            discussed to the degree that he was involved in the affair. </note>
+          <note>Plaoul is mentioned on pp. <ref target="PlaoulTimeLineTEI.xml#events_summoned"
+              >72</ref>, <ref target="PlaoulTimeLineTEI.xml#events_MAlistedJuly">75</ref>, <ref
+              target="PlaoulTimeLineTEI.xml#events_excluded">a second time on 75</ref>, 83, 85, 87,
+              <ref target="PlaoulTimeLineTEI.xml#events_summonedAug">88</ref>, <ref
+              target="PlaoulTimeLineTEI.xml#events_artsLicense">91</ref>, 119n12, 183</note>
+          <idno type="ISBN">9004057129</idno>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Millet2009">
+          <analytic>
+            <title>Pierre Plaoul (1353-1415): une grande figure de l'université de Paris éclipsée
+              par Gerson</title>
+            <author>
+              <forename>Hélène</forename>
+              <surname>Millet</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Itineraires du Savoir de l'Italie a la Scandinavie (Xe-XVI siecle): Etudes
+              offertes a Elisabeth Mornet</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <biblScope type="pp">179-200</biblScope>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+          <note>This article length biography is the most extensive account of Plaoul's life that we
+            have to date.</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Gorochov1997">
+          <monogr>
+            <title>Le collège de Navarre de sa fondation (1305) au début du XVe siècle (1418):
+              histoire de l'institution, de sa vie intellectuelle et de son recrutement.</title>
+            <author>
+              <forename>Nathalie</forename>
+              <surname>Gorochov</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Honoré Champion</publisher>
+              <date>1997</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title>Etudes d'histoire médiévale</title>
+            <biblScope type="vol">1</biblScope>
+          </series>
+          <note>Plaoul's name is menteiond on pp. 411, 469, <ref
+              target="PlaoulTimeLineTEI.xml#events_envoyToAvignon">538</ref>, 539, <ref
+              target="PlaoulTimeLineTEI.xml#events_patronOfSansonnet">699</ref>. He is name also
+            appears in a quotation on p. 532 in a quotation attributed to Froissart,
+              <title>Chroniques</title> IV, p. 36</note>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Meliado2011">
+          <analytic>
+            <title>Neues zum Pariser Albertismus des Fruhen 15. Jahrhunderts. Der Magister Lambertus
+              de Monte und die Handschrift Brussel, Koninklijke Bibliotheek, ms. 760</title>
+            <author>
+              <forename>Mario</forename>
+              <surname>Meliado</surname>
+            </author>
+            <author>
+              <forename>Silvia</forename>
+              <surname>Negri</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title>Bulletin de Philosophie Médiévale</title>
+            <imprint>
+              <biblScope type="vol">53</biblScope>
+              <biblScope type="pp">349-384</biblScope>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <note>This article mentions Plaoul and the Plaoul Edition.</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Vincke1940">
+          <monogr>
+            <title>Briefe zum Pisaner Konzil</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Vincke</surname>
+            </author>
+            <imprint>
+              <pubPlace>Bonn</pubPlace>
+              <date>1940</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title>Beiträge zur Kirchen-und Rechtsgeschichte</title>
+            <biblScope type="vol">1</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Valois1902">
+          <monogr>
+            <title>La France et le grand schisme d'Occident</title>
+            <author>
+              <forename>Noël</forename>
+              <surname>Valois</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">4</biblScope>
+              <publisher>A. Picard et fils</publisher>
+              <date>1902</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Sainte-Marthe1751">
+          <monogr>
+            <title>Gallia Christiana: In Provincias Ecclesiasticas Distributa, Qua Series Et
+              Historia Archiepiscoporum, Episcoporum Et Abbatum Franciae Vicinarumque Ditionum ab
+              origine Ecclesiarum ab nostra tempora deducitur, &amp; probatur ex authenticis
+              Instrumentis ad calcem appositis. De provincia Remensi, ejusque suffraganeis
+              Ambianensi, Silvanectensi &amp; Boloniensi ecclesiis, ubi instrumenta omnia ad calcem
+              colliguntur : [nebst:] Instrumenta ad tomum 9 ... quae pertinent ad ecclesiam
+              Remensem</title>
+            <author>
+              <forename>Denis ¬de</forename>
+              <surname>Sainte-Marthe</surname>
+            </author>
+            <author>
+              <forename>Barthélemy</forename>
+              <surname>Hauréau</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">10</biblScope>
+              <publisher>Typographia Regia</publisher>
+              <date>1751</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Kaminsky1984">
+          <monogr>
+            <title>Simon De Cramaud and the Great Schism</title>
+            <author>
+              <forename>Howard</forename>
+              <surname>Kaminsky</surname>
+            </author>
+            <imprint>
+              <publisher>Rutgers Univ Pr</publisher>
+              <date>1984</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul is mentioned on p. 117n, 164f, 216, 221, 265f, 279</note>
+          <idno type="ISBN">0813509491</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Haller1903">
+          <monogr>
+            <title>Papsttum und Kirchenreform: Vier Kapitel zur Geschichte des ausgehenden
+              Mittelalters</title>
+            <author>
+              <forename>Johannes</forename>
+              <surname>Haller</surname>
+            </author>
+            <imprint>
+              <biblScope type="vol">1</biblScope>
+              <publisher>Weidmann</publisher>
+              <date>1903</date>
+
+            </imprint>
+          </monogr>
+          <note>Kaminsky (1983), p. 49n66 notes that Haller discusses Plaoul alongside d'Ailly and
+            Guillaume Filastre as examples of prelates and professors guilty of opportunism.</note>
+          <note type="googleUrl">http://books.google.com/books?id=3n5hAAAAMAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Meyjes1999">
+          <monogr>
+            <title level="m">Jean Gerson, Apostle of Unity: His Church Politics and
+              Ecclesiology</title>
+            <author>
+              <forename>Guillaume H. M. Posthumus</forename>
+              <surname>Meyjes</surname>
+            </author>
+            <editor role="translator">
+              <forename>J. C.</forename>
+              <surname>Grayson</surname>
+            </editor>
+            <imprint>
+              <publisher>Brill</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul discussed on p. 56, 65-67, <ref target="PlaoulTimeLineTEI.xml#events_embassy1405">119 (here Plaoul is mentioned as part of envoy
+            sent to Rome to urge Innocent to resign)</ref>, p. 123, p. 126-127, 132.</note>
+          <idno type="ISBN">9789004112964</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Rashdall1895">
+          <monogr>
+            <title level="m">The Universities of Europe in the Middle Ages: Salerno. Bologna.
+              Paris</title>
+            <author><forename>Hastings</forename><surname>Rashdall</surname></author>
+            <imprint>
+              <publisher>Clarendon Press</publisher>
+              <date>1895</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul Discussed on p. 548n4 and p. 551. On p. 548, Plaoul's name comes up as a
+            member of a "Left-wing" contingent of "Parisian Reformers" who are more radical than the
+            more moderate positions of d'Ailly, Clemangis, and Gerson. Note 4 then states, "Peter
+            Plaoul, for instance, in 1406 contended 'Dioeesim Romanam non aliter esse Dioecesim quam
+            Parisiensem et eum qui Episcopatum obtinet Romanum, toti ecclesiae presidere.' and that
+            the King could summon Councils 'in negotiis etima fidei.' (Bulaeus, V, p. 132).
+            Sentiment seems similar to the sentiment reported in Lenfant and in the 1838 description
+            of the same speech. p. 551, cites Plaoul as an example of clerics involved in scandal to
+            prove the following judgment: "The conciliar movement was at bottom a merely clerical
+            movement, the outcome of no deep convictions supported by non widely-spread religious
+            fervour, entirely withouth root in popular sympathy. Nor were even its leaders (with the
+            exception of Gerson and a very few others) actuated by any passionate zeal for those
+            objects for which the most part at best respectable ecclesiastical politicians and
+            pamphleteers, who had little or non regard for the spiritual destitution of the people.
+            D'Ailly for instance hld more than fourteen benefices, and Peter Plaoul was accused of
+            scandalous corruption in the University Examinations." (The citation for Plaoul's
+            corruptions is Chartularium T. III, n. 1511)</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="PowerOfPopes1838">
+          <monogr>
+            <title level="m">The power of the Popes: or, an historical essay on their temporal
+              dominion, the abuse of their spiritual authority, and the wars they have declared
+              against sovereigns; containing very extraordinary documents of the Roman Court before
+              published</title>
+            <imprint>
+              <biblScope type="vol">1-2</biblScope>
+              <publisher>Tims</publisher>
+              <date>1838</date>
+            </imprint>
+          </monogr>
+          <note>Texts seems to be a translation. Author could be Richard T. P. Pope Translator
+            unclear --  Probably someone with the initials R.T.H.</note>
+          <note>Peter Plaoul is mentioned as Canon of Notre Dame and quoted on p. 173. Difficult to
+            understand where the authority is quoting from, but it is generally anti-papal in
+            nature, asserting that the Kings of France have the right to put "away schismatics and
+            heretics" "The people can err" said he [Plaoul], "can sin: the church is so full of
+            charity, that she cannot err; she cannot go astray, nor commit sin" Closest
+            citation/indication of source comes on p. 163 and suggests that the text is from Paris
+            council in 1406 ... "Six theologians were directed to lay open the griefs of the nation
+            against pope Benedict, and six others to plead for him." Presumably, Plaoul was one of
+            the six in the former group. (Index calls this section from 163-179, "Extracts from the
+            Discussions of the National Council of France in 1406" Text then seems to report the
+            arguments of each side. First, Pierre-aux Boeuf, who spoke against the Pontiff. Second,
+            John Petit Third Simon de Cramaud, against the pope[?] Fourth William Fillastre, FOR the
+            pope Fifth Archbishop of Tours, for the pope Sixth, Peter d'Ailly, for the pope[??]
+            Seventh, Peter Regis or Le Roi, against the pope (p. 171) Eighth, Peter Plaoul, against
+            the pope (p. 173) Ninth, William Fillastre, is permitted to speak a second time (p. 174)
+            Tenth, Simon Cramaud, speaks a second time (p. 175) Six conclusions of university listed
+            (p. 177-178) (?source?) A couple of possible citations are mentioned on p. 180
+            "Extracted from the Parliamentary Registers"</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Lenfant1730">
+          <monogr>
+            <title level="m">The History of the Council of Constance</title>
+            <author><forename>Jacques</forename><surname>Lenfant</surname></author>
+            <imprint>
+              <biblScope type="vol">1</biblScope>
+              <publisher>A. Bettesworth, C. Rivington, J. Batley, T. Cox ... [and 6
+                others]</publisher>
+              <date>1730</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul mentioned on p. 176 in reference to his speech at the council of Pisa.
+            Reference is made to Plaoul's argument that "the Church represented by the General
+            Council is above the Pope" Sources state in the margin as: "In 1409 Act. Conc. Pasan. Ap
+            Ruber, Hist-Cene T. II, p. 93. V, d. Hardt T. II, p. 132 Maim Trait. Hist. of the Church
+            of Rome, p. 184, 185, Hist. of the Council of Pisa, Part I., p. 276"</note>
+          <note>This is a translation work published in 1730. Presumably there is a French version
+            of this published prior to 1730.</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Figueiredo1847">
+          <monogr>
+            <title level="m">Tentativa theologica: Episcopal rights and ultramontane
+              usurpations</title>
+            <author><forename>António Pereira de</forename><surname>Figueiredo</surname></author>
+            <imprint>
+              <publisher>J. Masters</publisher>
+              <date>1847</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul's Speech at Pisa, in the 13th session, is mentioned on p. 158. His speech
+            generally seems to be cited as an example of the defense of the authority of the council
+            over the pope. Cites Hardt, tomb. II, p. 29 See this book - discussion seems to be
+            review of Langensteins "Consilium Pacis de unione Ecclesiae -- I can't find any mention
+            of Plaoul on p. 29 But Plaoul is mentioned in Hardt's Synopsis of the 13th session, in
+            column 132</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Eubel1913">
+          <monogr>
+            <title level="m">Hierarchia catholica medii aevi: sive Summorum pontificum, S.R.E.
+              cardinalium, ecclesiarum antistitum series ab anno 1198 usque ad annum [1605] perducta
+              e documentis tabularii praesertim Vaticani collecta, digesta</title>
+            <author><forename>Konrad</forename><surname>Eubel</surname></author>
+            <author><forename>Patrick</forename><surname>Gauchat</surname></author>
+            <author><forename>Remigius</forename><surname>Ritzler</surname></author>
+            <author><forename>Pirmin</forename><surname>Sefrin</surname></author>
+            <imprint>
+              <biblScope type="vol">I</biblScope>
+              <publisher>Monasterii, sumptibus et typis librariae Regensbergianae</publisher>
+              <date>1913</date>
+            </imprint>
+          </monogr>
+          <note type="googleUrl">http://books.google.com/books?id=KW0zAQAAMAAJ</note>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Gane1999">
+          <monogr>
+            <title level="m">Le Chapitre de Notre-Dame de Paris au XIVe siècle: étude sociale d'un
+              groupe canonial</title>
+            <author><forename>Robert</forename><surname>Gane</surname></author>
+            <imprint>
+              <publisher>Université de Saint-Etienne</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul mentioned on at least pp. 129, 210, 211, 368, 416</note>
+          <idno type="ISBN">9782862721569</idno>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="Millet1981">
+          <analytic>
+            <title level="a">Les pères du Concile de Pise (1409) : édition d'une nouvelle
+              liste</title>
+            <author><forename>Hélène</forename><surname>Millet</surname></author>
+          </analytic>
+          <monogr>
+            <title level="m">Mélanges de l'Ecole française de Rome. Moyen-Age, Temps
+              modernes</title>
+            <imprint>
+              <biblScope type="vol">93</biblScope>
+              <biblScope type="issue">2</biblScope>
+              <biblScope type="pp">713-790</biblScope>
+              <date>1981</date>
+              <note type="url"
+                >http://www.persee.fr/web/revues/home/prescript/article/mefr_0223-5110_1981_num_93_2_2623</note>
+            </imprint>
+          </monogr>
+          <idno type="ISSN">0223-5110</idno>
+          <idno type="DOI">10.3406/mefr.1981.2623</idno>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Coville1932">
+          <monogr>
+            <title level="m">Jean Petit: la question du tyrannicide au commencement du XVe
+              siècle</title>
+            <author>
+              <forename>Alfred</forename>
+              <surname>Coville</surname></author>
+            <imprint>
+              <publisher>impr. Bosc frères, H. et L. Riou, 42, quai Gailleton</publisher>
+              <date>1932</date>
+            </imprint>
+          </monogr>
+          <note>Plaoul is mentioned on 5, 44, 49 50, 57, 72, p. 73, 598.</note>
+          <note>There is a 1978 reprint of this book that is more search able on google books than
+            the 1932 version: http://books.google.com/books?id=ng5igVSW2RgC</note>
+          <note type="googleUrl">http://books.google.com/books?id=BETSAAAAMAAJ</note>
         </biblStruct>
       </listBibl>
     </body>
