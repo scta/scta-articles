@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <articles>
   <article>
-    <hash>head</hash>
     <name>holcot-bibliography</name>
     <isArticleOf>http://scta.info/resource/Holcot</isArticleOf>
     <type>bibliography</type>
-    <url>https://api.zotero.org/groups/555244/collections/3RPDXHYE/items?format=tei</url>
     <title>Holcot Bibliography</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>https://api.zotero.org/groups/555244/collections/3RPDXHYE/items?format=tei</url>
+      </transcription>
+    </transcriptions>
   </article>
 </articles>

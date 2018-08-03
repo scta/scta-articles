@@ -2,54 +2,99 @@
 <articles>
   <!-- Plaoul related articles -->
   <article>
-    <hash>head</hash>
     <name>pp-about</name>
     <isArticleOf>http://scta.info/resource/plaoulcommentary</isArticleOf>
     <isArticleOf>http://scta.info/resource/plaoulreportatio</isArticleOf>
     <isArticleOf>http://scta.info/resource/plaoulreportatioA</isArticleOf>
     <type>about</type>
-    <url>pp-about.xml</url>
     <title>About the Sentences Commentaries</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>pp-about.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>pp-timeline</name>
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>timeline</type>
-    <url>PlaoulTimeLineTEI.xml</url>
     <title>Timeline</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <description></description>
+        <url>PlaoulTimeLineTEI.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>pp-manuscripts</name>
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>manuscriptlist</type>
-    <url>PlaoulTexts.xml</url>
     <title>Manuscripts List</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <description></description>
+        <url>PlaoulTexts.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
+    <hash>dynamic</hash>
     <name>pp-biography</name>
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>biography</type>
-    <url>PlaoulBiograpy.xml</url>
     <title>Biography</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <description></description>
+        <url>PlaoulBiograpy.xml</url>
+      </transcription>
+      <transcription d="true">
+        <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
+        <version n="1.0.0">Version 1</version>
+        <description></description>
+        <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>pp-bibliography</name>
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <type>bibliography</type>
-    <url>bibliography.xml</url>
     <title>Bibliography</title>
-  </article>
-  <article>
-    <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
-    <name>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</name>
-    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
-    <type>bibliography</type>
-    <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
-    <title>Bibliography (Old)</title>
-    <hasSuccessor>http://scta.info/resource/pp-bibliography</hasSuccessor>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <description></description>
+        <url>bibliography.xml</url>
+      </transcription>
+      <transcription reviewed="true">
+        <hash>test2</hash>
+        <version n="1.0.0">Version 2</version>
+        <description></description>
+        <url>https://gateway.ipfs.io/ipfs/test2</url>
+      </transcription>
+      <transcription>
+        <hash>test3</hash>
+        <version n="1.0.0">Version 3</version>
+        <description></description>
+        <url>https://gateway.ipfs.io/ipfs/test3</url>
+      </transcription>
+      <transcription>
+        <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
+        <version n="1.0.0">Version 1</version>
+        <description></description>
+        <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
+      </transcription>
+    </transcriptions>
   </article>
 </articles>

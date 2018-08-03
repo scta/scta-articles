@@ -1,45 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <articles>
   <article>
-    <hash>head</hash>
     <name>gracilis-bibliography</name>
     <isArticleOf>http://scta.info/resource/PetrusGracilis</isArticleOf>
     <type>bibliography</type>
-    <url>https://api.zotero.org/groups/555244/collections/GE4AB4QB/items?format=tei</url>
     <title>Gracilis Bibliography</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>https://api.zotero.org/groups/555244/collections/GE4AB4QB/items?format=tei</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>PetrusGracilis_Bio</name>
     <isArticleOf>http://scta.info/resource/PetrusGracilis</isArticleOf>
     <type>biography</type>
-    <url>PetrusGracilis_Bio.xml</url>
     <title>Biography</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>PetrusGracilis_Bio.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>PetrusGracilis_ep</name>
     <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
     <type>biography</type>
-    <url>PetrusGracilis_ep.xml</url>
+    <url></url>
     <title>Editorial Principles</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>PetrusGracilis_ep.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>PetrusGracilis_msdesc</name>
     <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
     <isArticleOf>http://scta.info/resource/lon</isArticleOf>
     <type>biography</type>
-    <url>PetrusGracilis_msdesc_lon.xml</url>
     <title>Prose Manuscript Description of British Royal 10 A I</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>PetrusGracilis_msdesc_lon.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
   <article>
-    <hash>head</hash>
     <name>PetrusGracilis_pg-b1q1_intro</name>
-    <isArticleOf>http://scta.info/resource/graciliscommentary</isArticleOf>
-    <isArticleOf>http://scta.info/resource/lon</isArticleOf>
+    <isArticleOf>http://scta.info/resource/pg-b1q1</isArticleOf>
     <type>biography</type>
-    <url>PetrusGracilis_pg-b1q1_intro.xml</url>
     <title>On Question 1</title>
+    <transcriptions>
+      <transcription versionDefault="true">
+        <hash>head</hash>
+        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <url>PetrusGracilis_pg-b1q1_intro.xml</url>
+      </transcription>
+    </transcriptions>
   </article>
 </articles>
