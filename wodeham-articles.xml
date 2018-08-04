@@ -1,56 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<articles>
+<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<list type="articles">
   <!-- Wodeham related articles -->
-  <article>
+  <manifestation manifestationDefault="true">
     <name>aw-about</name>
-    <isArticleOf>http://scta.info/resource/wodehamordinatio</isArticleOf>
-    <type>about</type>
     <title>About the Wodeham Ordinatio Edition</title>
+    <type>about</type>
+    <isArticleOf>http://scta.info/resource/wodehamordinatio</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>aw-about.xml</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>aw-about.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-  <article>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>aw-manuscripts</name>
-    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
-    <type>manuscriptlist</type>
     <title>List of Wodeham Manuscripts</title>
+    <type>manuscriptlist</type>
+    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>aw-manuscripts.xml</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>aw-manuscripts.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-  <article>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>aw-biography</name>
-    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
-    <type>biography</type>
     <title>Wodeham Biography</title>
-    <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>aw-biography.xml</url>
-      </transcription>
-    </transcriptions>
-  </article>
-  <article>
-    <name>aw-bibliography</name>
+    <type>biography</type>
     <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
-    <type>bibliography</type>
-    <title>Wodeham Bibliography</title>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>https://api.zotero.org/groups/555244/collections/P7EEKAK7/items?format=tei</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>aw-biography.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-</articles>
+  </manifestation>
+  <manifestation manifestationDefault="true">
+    <name>aw-bibliography</name>
+    <title>Wodeham Bibliography</title>
+    <type>bibliography</type>
+    <isArticleOf>http://scta.info/resource/Wodeham</isArticleOf>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>https://api.zotero.org/groups/555244/collections/P7EEKAK7/items?format=tei</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+</list>

@@ -1,88 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<articles>
+<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<list type="articles">
   <!-- Plaoul related articles -->
-  <article>
+  <manifestation manifestationDefault="true">
     <name>pp-about</name>
+    <title>About the Sentences Commentaries</title>
+    <type>about</type>
     <isArticleOf>http://scta.info/resource/plaoulcommentary</isArticleOf>
     <isArticleOf>http://scta.info/resource/plaoulreportatio</isArticleOf>
     <isArticleOf>http://scta.info/resource/plaoulreportatioA</isArticleOf>
-    <type>about</type>
-    <title>About the Sentences Commentaries</title>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>pp-about.xml</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>pp-about.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-  <article>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>pp-timeline</name>
-    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
-    <type>timeline</type>
     <title>Timeline</title>
+    <type>timeline</type>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <description></description>
-        <url>PlaoulTimeLineTEI.xml</url>
+      <transcription transcriptionDefault="true"> 
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>PlaoulTimeLineTEI.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-  <article>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>pp-manuscripts</name>
-    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
-    <type>manuscriptlist</type>
     <title>Manuscripts List</title>
+    <type>manuscriptlist</type>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <description></description>
-        <url>PlaoulTexts.xml</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>PlaoulTexts.xml</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-  <article>
-    <hash>dynamic</hash>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>pp-biography</name>
-    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
-    <type>biography</type>
     <title>Biography</title>
-    <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <description></description>
-        <url>PlaoulBiography.xml</url>
-      </transcription>
-      <transcription d="true">
-        <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
-        <version n="1.0.0">Version 1</version>
-        <description></description>
-        <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
-      </transcription>
-    </transcriptions>
-  </article>
-  <article>
-    <name>pp-bibliography</name>
+    <type>biography</type>
     <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
-    <type>bibliography</type>
-    <title>Bibliography</title>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <description></description>
-        <url>bibliography.xml</url>
-      </transcription>
-      <transcription>
-        <hash>QmcGNfCrNXV2BpAQSHL2Pjt95CFVTV5kDqd9FUTmdkTqhJ</hash>
-        <version n="1.0.0">Version 1</version>
-        <description></description>
-        <url>https://gateway.ipfs.io/ipfs/QmcGNfCrNXV2BpAQSHL2Pjt95CFVTV5kDqd9FUTmdkTqhJ</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>PlaoulBiography.xml</url>
+        </version>
+        <version>
+          <hash>QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</hash>
+          <versionNo n="1.0.0">Version 1</versionNo>
+          <url>https://gateway.ipfs.io/ipfs/QmZnAJsUF9JAZeaMACtqAzegMk5kvLqM7SLtXwZB3L7AjE</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-</articles>
+  </manifestation>
+  <manifestation manifestationDefault="true">
+    <name>pp-bibliography</name>
+    <title>Bibliography</title>
+    <type>bibliography</type>
+    <isArticleOf>http://scta.info/resource/peter-plaoul</isArticleOf>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>bibliography.xml</url>
+        </version>
+        <version>
+          <hash>QmcGNfCrNXV2BpAQSHL2Pjt95CFVTV5kDqd9FUTmdkTqhJ</hash>
+          <versionNo n="1.0.0">Version 1</versionNo>
+          <url>https://gateway.ipfs.io/ipfs/QmcGNfCrNXV2BpAQSHL2Pjt95CFVTV5kDqd9FUTmdkTqhJ</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+</list>

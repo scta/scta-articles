@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<articles>
-  <article>
+<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<list type="articles">
+  <manifestation manifestationDefault="true">
     <name>JohnMair-bibliography</name>
-    <isArticleOf>http://scta.info/resource/JohnMair</isArticleOf>
-    <type>bibliography</type>
     <title>Bibliography</title>
+    <type>bibliography</type>
+    <isArticleOf>http://scta.info/resource/JohnMair</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
-        <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
-        <url>https://api.zotero.org/groups/555244/collections/RNQ8X8Q7/items?format=tei</url>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>https://api.zotero.org/groups/555244/collections/RNQ8X8Q7/items?format=tei</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-</articles>
+  </manifestation>
+</list>

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<articles>
-  <article>
+<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<list type="articles">
+  <manifestation manifestationDefault="true">
     <name>gilesOfRome-bibliography</name>
-    <isArticleOf>http://scta.info/resource/GilesOfRome</isArticleOf>
-    <type>bibliography</type>
     <title>Bibliography</title>
+    <type>bibliography</type>
+    <isArticleOf>http://scta.info/resource/GilesOfRome</isArticleOf>
     <transcriptions>
-      <transcription versionDefault="true">
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
         <hash>head</hash>
-        <version n="1.0.0-dev">Version 1.0.0-dev</version>
+        <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
         <url>https://api.zotero.org/groups/555244/collections/FWCCAYC2/items?format=tei</url>
+        </version>
       </transcription>
     </transcriptions>
-  </article>
-</articles>
+  </manifestation>
+</list>
