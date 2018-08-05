@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>William of Hedon's <title>Tractatus de anima</title></title>
+        <author>Michael Stenskjær Christensen</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>William of Hedon's Tractatus de anima</title>
+          <date when="2018-08-05">August 05, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+        <date when="2018-08-05">August 05, 2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-article-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/article.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for an article.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-08-05" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div>
+        <head>William of Hedon's <title>Tractatus de anima</title></head>
+        <p xml:id="da-3-HedonsDeAnima-muq2zu">
+          William of Hedon is the author of <title>Tractatus de anima</title>,
+          an independent and original psychological treatise from the last part
+          of the 13th century. The identity of the author has not been
+          established for certain, but the text is most likely written in an
+          English theological context at the beginning of the second half of the
+          13th century. This is a an edition of distinction 3, chapter 6 of that
+          text, where we find an interesting and highly unique discussion on
+          intellectual self-knowledge.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-k8errm">
+          The text is titled <title>Tractatus de anima</title>, and although it
+          has previously been labelled a commentary on Aristotle's <title>De
+          anima</title>, it is actually an independent treatise in the tradition
+          of Dominicus Gundisalvi, John Blund, William of Auvergne and John of
+          la Rochelle. But unlike these authors, William of Hedon most likely
+          wrote his text in the second part of the 13th century, at a time when
+          the discipline of commenting on Aristotle's <title>De anima</title>
+          well established. In this respect it resembles Peter of Spain's
+          <title>Scientia de anima</title>, which is either a bit earlier than
+          or contemporary with Hedon's treatise. But where Peter of Spain's
+          treatise handles the confrontation between the classical tenets of
+          orthodox faith with the still stronger presence of Aristotelian
+          material by mostly keeping Aristotle out of the discussion, William of
+          Hedon engages very actively with the Aristotelian tradition. William's
+          approach to Aristotle is pragmatic: when he can use him to establish a
+          point, he does so happily, but he feels no obligations of allegiance
+          to the Philosopher when he presents his own view on the soul.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-d5lt0o">
+          Hedon gives an independent presentation of the soul, but the text
+          still, as is fairly customary in the genre, partially mirrors the
+          structure of Aristotle's text (skipping the historical part of book
+          I). It is split into three <title>distinctiones</title>, the first is
+          concerned with the science of the soul in general and the definition
+          of the soul and its relation to the body, the second book is concerned
+          with sense perception, and the third focuses on intellect and the free
+          will. The third <title>distinctio</title> a chapter that discusses the
+          self-knowledge of the intellect, explicitly addressing the question,
+          in the title, how it is possible for the same thing to also be a sign
+          of itself.<note>Dist. 3, cap. 6: <quote>Utrum intellectus seipsum
+          intelligat et qualiter idem contingat esse signum sui et quid contra
+          hoc et ad hoc dici conveniat.</quote></note> Already this title hints
+          at the unusual content of the text, and, as we get into the text,
+          several interesting irregularities surface. In the preceding section
+          (dist. 3, cap. 5, ad fin.) he has argued that in some cases the
+          intellect, the intellection, and the object of intellection are the
+          same. However, we also presents the philosophical arguments known from
+          commentaries on Aristotle's <title>De anima</title> the subject,
+          mostly in order to ultimately refute them.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-2axp7g">
+          The standard position at this time in the faculty of arts is that the
+          intellect is only able to know itself once it has been actualized by
+          an external species, so William presents five arguments against the
+          possibility of immediate intellectual self-knowledge. Some of the
+          arguments are commonly known from the commentaries of the arts
+          faculty, and thus yield interesting suggestions for how that standard
+          view could be countered. But the most interesting arguments are two
+          that we do not recognize from the Aristotelian commentaries, and they
+          handle the epistemological problem of self-knowledge from a logical
+          perspective. In the first of those, the liar paradox is used to
+          support the statement that if a part cannot establish knowledge of the
+          whole, neither can the intellect establish knowledge of itself. The
+          part-whole relationship is compared to the self-reference in the liar
+          paradox pointing out that both seem to result in an infinite regress.
+          The second semantic argument is based on Aristotle's distinction of
+          words as signs of passions of the soul.<note>Aristotle, <title>De
+          int.</title> 1.16a3--8</note> argues that, while the intellect is a
+          substantial power of the soul, the term `intellect' that is the object
+          of self-knowledge is a passion or similitude of the intellect itself,
+          and hence an accident of the soul. This means that the subject and
+          object of intellection are two distinct things, rendering immediate
+          self-knowledge impossible.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-lcmxfq">
+          William considers the question of self-knowledge relatively
+          non-controversial. To him it seems obvious that no one would doubt
+          that the intellect knows itself, and that it does so without any
+          dependence on external species. But at some point the liar paradox is
+          what has really caught his attention. After having resolved the other
+          initial arguments, he goes into an extended discussion of that
+          problem, which makes up about half the length of the whole chapter.
+          The discussion is mostly done with reference to the Aristotelian
+          logic, where William shows a deep familiarity with the <term>logica
+          nova</term> he draws on <title>Topica</title> <title>Sophistici
+          Elenchi</title> as well as <title>Categoriae</title> and <title>De
+          interpretatione</title>, but theological authorities also get a place
+          in the discussion.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-idvhql">
+          The use of the liar paradox in the context of psychological
+          epistemology is in itself interesting, as William apparently has
+          noticed the alignment of the problem of self-reference within the two
+          domains. But it is also a testament to the role and weight of the
+          logical education within the 13th century universities, when, in the
+          composition of a theologically orientated treatise, an author can
+          delve into an extended discussion of a logical paradox, that although
+          it is well known in the <term>insolubilia</term>-genre, is usually
+          confined to collections of <term>sophismata</term>. Finally, it is
+          also a unique witness to this strategy of argumentation, as I know of
+          no other text, neither earlier nor later, where the liar paradox is
+          suggested as an argument against the possibility of immediate
+          intellectual self-knowledge.
+        </p>
+        <p xml:id="da-3-HedonsDeAnima-s16h6k">
+          To my knowledge no parts of the text have ever been published. This
+          edition of the chapter on self-knowledge will thus in itself present a
+          real contribution to our knowledge of a text that is virtually
+          unknown. It not only makes available arguments revealing a unique
+          blend of logic and epistemology from the last half of the 13th
+          century, but will cast some light on the writing process and editorial
+          practice of an original, but virtually unknown, author of that period.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
