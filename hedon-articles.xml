@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-1.rng"?>
 <list type="articles">
   <manifestation manifestationDefault="true">
-    <name>da-3-about-da-3-d3c6.xml</name>
+    <name>da-3-about-da-3-d3c6</name>
     <title>
-      The edition of William of Hedons <title>Tractatus de anima</title>,
+      The edition of William of Hedons <!--<title>-->Tractatus de anima<!--</title>-->,
       distinctio 3, chapter 6
     </title>
     <type>biography</type>      <!-- That can't be right... -->
@@ -20,7 +20,7 @@
     </transcriptions>
   </manifestation>
   <manifestation manifestationDefault="true">
-    <name>da-3-HedonsDeAnima.xml</name>
+    <name>da-3-HedonsDeAnima</name>
     <title>William of Hedon's Tractatus de anima</title>
     <type>biography</type>      <!-- That can't be right... -->
     <isArticleOf>http://scta.info/resource/GuillelmusHedonensis</isArticleOf>
