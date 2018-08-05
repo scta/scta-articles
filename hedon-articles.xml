@@ -2,6 +2,39 @@
 <?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
 <list type="articles">
   <manifestation manifestationDefault="true">
+    <name>da-3-about-da-3-d3c6.xml</name>
+    <title>
+      The edition of William of Hedons <title>Tractatus de anima</title>,
+      distinctio 3, chapter 6
+    </title>
+    <type>biography</type>      <!-- That can't be right... -->
+    <isArticleOf>http://scta.info/resource/GuillelmusHedonensis</isArticleOf>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="0.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>da-3-about-da-3-d3c6.xml</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+  <manifestation manifestationDefault="true">
+    <name>da-3-HedonsDeAnima.xml</name>
+    <title>William of Hedon's Tractatus de anima</title>
+    <type>biography</type>      <!-- That can't be right... -->
+    <isArticleOf>http://scta.info/resource/GuillelmusHedonensis</isArticleOf>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+          <hash>head</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>da-3-HedonBibliography.xml</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+  <manifestation manifestationDefault="true">
     <name>hedon-bibliography</name>
     <title>Hedon Bibliography</title>
     <type>bibliography</type>

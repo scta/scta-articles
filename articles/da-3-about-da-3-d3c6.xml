@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          The edition of William of Hedons <title>Tractatus de anima</title>,
+          distinctio 3, chapter 6
+        </title>
+        <author>Michael Stenskjær Christensen</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>
+            The edition of William of Hedons <title>Tractatus de anima</title>,
+            distinctio 3, chapter 6
+          </title>
+          <date when="2018-08-05">August 05, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+        <date when="2018-08-05">August 05, 2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-article-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/article.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for an article.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-08-05" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div>
+        <head>
+          The edition of William of Hedons <title>Tractatus de anima</title>,
+          distinctio 3, chapter 6
+        </head>
+        <p xml:id="da3-about-da-3-d3c6-grb9fa">
+          There are two witnesses to the text, Cambridge, Gonville & Caius,
+          342/538 from the last half of the 13th century (siglum C), and Oxford
+          Corpus Christi 107 from the late 13th or early 14th century (siglum
+          O), both are English and only contain the text of Hedon. The edition
+          is based on digital colour photographs of relatively high quality
+          taken by myself.
+        </p>
+        <p xml:id="da3-about-da-3-d3c6-rfw06q">
+          It has been suggested that the Cambridge manuscript is an autograph
+          witness by Hedon himself.<note>Montague Rhodes James. <titl>A
+          descriptive catalogue of the manuscripts in the library of Gonville
+          and Caius College</titl>. 2 vols. Cambridge: Cambridge University
+          Press, 1907–1908, p. 386</note> This has not been proven definitively,
+          but it is not unlikely. If that is accepted, we can track the
+          development of the text and the editorial process of William through
+          numerous additions and deletions, often of several columns or whole
+          folios. Based on collations with the Oxford witness we can identify at
+          least three stages of editing, while I suspect that a fourth stage
+          (preceding the three that the collations reveal) can also be
+          identified.
+        </p>
+        <p xml:id="da3-about-da-3-d3c6-ht3qjj">
+          I have imposed my own classicising orthography, and my own
+          paragraphing and punctuation. Section headings and the structural
+          numbers are meta-text added by me. Both scribes make abundant use of
+          abbreviations, the expansion of which I generally do not indicate.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
