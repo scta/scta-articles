@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-1.rng"?>
 <list type="articles">
   <!-- Plaoul related articles -->
   <manifestation manifestationDefault="true">
