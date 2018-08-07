@@ -48,36 +48,42 @@
       <div>
         <head>Editorial Principles</head>
         <p>
-          The new digital media affords us the ability make accessible every level of the 
+          The new digital media affords us the ability to make accessible every level of the 
           editorial process (from manuscript facsimile, to diplomatic transcriptions, 
           to normalized and critical transcriptions) and to provide seamless connections between 
-          these data sources a granular levels. 
-          For this reason the present edition aims to offer a normalized critical edition that offers 
-          the users a clear and readable texts. As such we have chosen to regularize late medieval orthography 
-          in number of places.
+          these data sources at granular levels. 
+          For this reason the present edition aims to offer a normalized critical edition that prioritizes
+          creating a clean and readable text for the reader.
+          As such we have chosen to regularize late medieval orthography.
         </p>
         <p>
           Throughout the edition we have expanded "e" to "ae/oe", regularized late-medieval spelling
           (e.g. changing "sicud" to "sicut") and introduced modern paragraph breaks and modern punctuation 
-          in place of late of medieval  punctuation. 
+          in place of late of medieval punctuation. 
         </p>
         <p>
           The choice to privilege a normalized critical text is supported by the fact that, 
-          given the possibilities of new media, we are no longer confined to a binary of providing 
-          a modern text and the expense of discarding diplomatic nuance. This edition has been prepared in 
-          conjunctions with the coordinating efforts of the Scholastic Commentaries and Text Archive, 
-          such that every section, every paragraph, and every quotation can be linked 
+          given the possibilities of new media, we are no longer forced to choose between 
+          providing a modern normalized text and a diplomatic edition 
+          that records the variances and complications of late medieval writing practices. 
+          This edition has been prepared in conjunction with the coordinating efforts of 
+          the <hi rend="italic">Scholastic Commentaries and Text Archive</hi>, 
+          such that every section, paragraph, and quotation can be linked 
           to a diplomatic transcription or multiple diplomatic transcriptions, and further linked 
-          to digital facisimiles of the manuscript themselves. These diplomatic transcriptions are 
-          where medieval spelling and punctuation can be recorded to the level of detailed desired by the editor. 
-          In this way, we offer here a normalized edition, that can and will function as an access point 
+          to digital facsimiles of the manuscripts themselves. 
+          These diplomatic transcriptions are 
+          where medieval spelling and punctuation can be recorded 
+          at various levels of detail according to the discretion of the editor.
+          For this reason, we offer here a normalized edition 
+          that can and will function as an access point 
           to subsequent diplomatic transcriptions made available 
-          to those with an interest in this kind of text detail.
+          to those with an interest in this kind of textual detail.
         </p>
         <p>
           Given that there is only one extant manuscript of Gracilis' commentary, 
-          the critical apparatus aims primarily to identify where scribal corrections 
-          have been made and to record editorial emendations against the text present in the manuscript
+          the critical apparatus aims primarily to 
+          record editorial emendations against the text present in the manuscript
+          as well as to identify significant scribal corrections.
         </p>
       </div>
     </body>
