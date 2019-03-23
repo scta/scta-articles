@@ -28,7 +28,7 @@
           <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
           <url>PetrusGracilis_Bio.xml</url>
         </version>
-        <version>
+        <version reviewed="true">
           <hash>QmPiFh2Y9jM1KXZ57g8B9kjWH3C5xG9tQd5jQCuqZT6iG3</hash>
           <versionNo n="1.0.0">Version 1</versionNo>
           <url>https://gateway.scta.info/ipfs/QmPiFh2Y9jM1KXZ57g8B9kjWH3C5xG9tQd5jQCuqZT6iG3</url>
@@ -48,7 +48,7 @@
           <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
           <url>PetrusGracilis_ep.xml</url>
         </version>
-        <version>
+        <version reviewed="true">
           <hash>QmUocFTou1BTwKs8n9bobydtx5DR315b7eM2FVUo8968hD</hash>
           <versionNo n="1.0.0">Version 1</versionNo>
           <url>https://gateway.scta.info/ipfs/QmUocFTou1BTwKs8n9bobydtx5DR315b7eM2FVUo8968hD</url>
@@ -69,7 +69,7 @@
           <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
           <url>PetrusGracilis_msdesc_lon.xml</url>
         </version>
-        <version>
+        <version reviewed="true">
           <hash>QmSHFu1TqcSPUJCSHm2SABfWdRbHzLi8HM6XutZT6X9YwH</hash>
           <versionNo n="1.0.0">Version 1</versionNo>
           <url>https://gateway.scta.info/ipfs/QmSHFu1TqcSPUJCSHm2SABfWdRbHzLi8HM6XutZT6X9YwH</url>
@@ -89,7 +89,7 @@
           <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
           <url>PetrusGracilis_pg-b1q1_intro.xml</url>
         </version>
-        <version>
+        <version reviewed="true">
           <hash>QmNYoEby8c359BNaBEwepFbhJHLdEUWMqm5q6hKK3Qyh61</hash>
           <versionNo n="1.0.0">Version 1</versionNo>
           <url>https://gateway.scta.info/ipfs/QmNYoEby8c359BNaBEwepFbhJHLdEUWMqm5q6hKK3Qyh61</url>
