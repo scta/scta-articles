@@ -2,7 +2,7 @@
 <?xml-model href="https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-1.rng"?>
 <list type="articles">
   <!-- Plaoul related articles -->
-  <manifestation manifestationDefault="true">
+  <!--<manifestation manifestationDefault="true">
     <name>pp-about</name>
     <title>About the Sentences Commentaries</title>
     <type>about</type>
@@ -18,7 +18,7 @@
         </version>
       </transcription>
     </transcriptions>
-  </manifestation>
+  </manifestation>-->
   <manifestation manifestationDefault="true">
     <name>pp-timeline</name>
     <title>Timeline</title>
@@ -49,7 +49,7 @@
       </transcription>
     </transcriptions>
   </manifestation>
-  <manifestation manifestationDefault="true">
+  <!--<manifestation manifestationDefault="true">
     <name>pp-biography</name>
     <title>Biography</title>
     <type>biography</type>
@@ -68,7 +68,7 @@
         </version>
       </transcription>
     </transcriptions>
-  </manifestation>
+  </manifestation>-->
   <manifestation manifestationDefault="true">
     <name>pp-bibliography</name>
     <title>Bibliography</title>
