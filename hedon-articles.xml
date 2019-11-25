@@ -16,13 +16,12 @@
           <versionNo n="0.0.0-dev">Version 1.0.0-dev</versionNo>
           <url>da-3-about-da-3-d3c6.xml</url>
         </version>
+        <version reviewed="true">
+          <hash>Qmc1r6ToeRoeBkmjUeWYCYdjnu2BrpWZGZq8NQM7EBzmiS</hash>
+          <versionNo n="1.0.0">Version 1</versionNo>
+          <url>https://gateway.scta.info/ipfs/Qmc1r6ToeRoeBkmjUeWYCYdjnu2BrpWZGZq8NQM7EBzmiS</url>
+        </version>
       </transcription>
-      <version reviewed="true">
-        <hash>QmfCKcMNhkNtghsGFJXvpvY59ktQq5oA3CyeWYiEV6oR96</hash>
-        <versionNo n="1.0.0">Version 1</versionNo>
-        <url>https://gateway.scta.info/ipfs/QmfCKcMNhkNtghsGFJXvpvY59ktQq5oA3CyeWYiEV6oR96</url>
-      </version>
-      
     </transcriptions>
   </manifestation>
   <manifestation manifestationDefault="true">
@@ -38,9 +37,9 @@
           <url>da-3-HedonsDeAnima.xml</url>
         </version>
         <version reviewed="true">
-          <hash>QmX8rAGcu2dAvGbrFnD3bKdmAWvVKbAHXL63ZHj8JTtpY8</hash>
+          <hash>Qmb21ByTAzWrax6XaLSzZHs7t3dfNfKrGpUmRNrwt3s642</hash>
           <versionNo n="1.0.0">Version 1</versionNo>
-          <url>https://gateway.scta.info/ipfs/QmX8rAGcu2dAvGbrFnD3bKdmAWvVKbAHXL63ZHj8JTtpY8</url>
+          <url>https://gateway.scta.info/ipfs/Qmb21ByTAzWrax6XaLSzZHs7t3dfNfKrGpUmRNrwt3s642</url>
         </version>
       </transcription>
     </transcriptions>
