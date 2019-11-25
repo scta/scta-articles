@@ -11,7 +11,7 @@
         <version versionDefault="true">
         <hash>head</hash>
         <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
-        <url>https://api.zotero.org/groups/555244/collections/GE4AB4QB/items?format=tei</url>
+        <url>https://api.zotero.org/groups/555244/collections/GE4AB4QB/items/top?format=tei</url>
         </version>
       </transcription>
     </transcriptions>
