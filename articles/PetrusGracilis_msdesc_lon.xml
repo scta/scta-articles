@@ -3,13 +3,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Prose Manuscript Description of British Royal 10 A I</title>
+        <title>Manuscript Description</title>
         <author>Jeffrey C. Witt</author>
         <author>John T. Slotemaker</author>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Prose Manuscript Description of British Royal 10 A I</title>
+          <title>Prose Manuscript Description</title>
           <date when="2018-07-30">July 30, 2018</date>
         </edition>
       </editionStmt>
@@ -46,7 +46,8 @@
     </front>
     <body>
       <div>
-        <head>Prose Manuscript Description of British Royal 10 A I</head>
+        <head>Manuscript Description</head>
+        <!-- Prose Manuscript Description of British Royal 10 A I -->
         <p>
           Peter Gracilis's commentary on the <title>Sentences</title> is found in a single manuscript witness: London, British Library, Royal ms. 10 A I (siglum L). Codex L contains 238 folios on paper and vellum (for the outer gatherings). It measures 22 cm. x 15 cm. The explicit states that the text was recorded by Johannis Fabri and was completed in 1415. The leaves comprise a single column of text with 38-40 lines in an early fifteenth-century bookhand/Gothic cursive. There are 14 gatherings of 16 leaves (catchwords clearly marked) and a final gathering of 14 leaves. The catchwords are found in the lower-right-hand margin of the corresponding verso leaf and are followed by a note: <hi rend="italic">primus codex</hi> (16v), <hi rend="italic">secundus codex</hi> (32v), <hi rend="italic">codex tertius</hi> (48v), etc.
         <note>

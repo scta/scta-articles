@@ -16,20 +16,23 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+          <p>Published under a
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
         </availability>
-        <date when="2018-07-30">July 30, 2018</date>  
+        <date when="2018-07-30">July 30, 2018</date>
       </publicationStmt>
       <sourceDesc>
         <p>Born Digital</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-article-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/article.rng"/>
+      <schemaRef n="lbp-article-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/article.rng"/>
       <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
-          guidelines for an article.
-        </p>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for an article. </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
@@ -47,43 +50,77 @@
     <body>
       <div>
         <head>Editorial Principles</head>
+       <!-- <p>
+          The new digital media affords us the ability to make accessible every level of the
+          editorial process (from manuscript facsimile, to diplomatic transcriptions, to normalized
+          and critical transcriptions) and to provide seamless connections between these data
+          sources at granular levels. For this reason the present edition aims to offer a normalized
+          critical edition that prioritizes creating a clean and readable text for the reader. As
+          such we have chosen to regularize late medieval orthography. 
+        </p>-->
         <p>
-          The new digital media affords us the ability to make accessible every level of the 
-          editorial process (from manuscript facsimile, to diplomatic transcriptions, 
-          to normalized and critical transcriptions) and to provide seamless connections between 
-          these data sources at granular levels. 
-          For this reason the present edition aims to offer a normalized critical edition that prioritizes
-          creating a clean and readable text for the reader.
-          As such we have chosen to regularize late medieval orthography.
+          Throughout the edition we have expanded "e" to "ae/oe", regularized late-medieval
+          spelling (e.g. changing "sicud" to "sicut") and introduced modern paragraph breaks and
+          modern punctuation in place of late of medieval punctuation.
         </p>
         <p>
-          Throughout the edition we have expanded "e" to "ae/oe", regularized late-medieval spelling
-          (e.g. changing "sicud" to "sicut") and introduced modern paragraph breaks and modern punctuation 
-          in place of late of medieval punctuation. 
+          The choice to privilege a normalized critical text is supported by the fact that, given
+          the possibilities of new media, we are no longer forced to choose between providing a
+          modern normalized text and a diplomatic edition that records the variances and
+          complications of late medieval writing practices. This edition has been prepared in
+          conjunction with the coordinating efforts of the <hi rend="italic">Scholastic Commentaries
+            and Text Archive</hi> (<ref target="https://scta.info">https://scta.info</ref>), 
+          such that every section, paragraph, and quotation can be linked
+          to a diplomatic transcription or multiple diplomatic transcriptions, and further linked to
+          digital facsimiles of the manuscripts themselves. These diplomatic transcriptions are
+          where medieval spelling and punctuation can be recorded at various levels of detail
+          according to the discretion of the editor. For this reason, we offer here a normalized
+          edition that can and will function as an access point to subsequent diplomatic
+          transcriptions made available to those with an interest in this kind of textual detail.
         </p>
         <p>
-          The choice to privilege a normalized critical text is supported by the fact that, 
-          given the possibilities of new media, we are no longer forced to choose between 
-          providing a modern normalized text and a diplomatic edition 
-          that records the variances and complications of late medieval writing practices. 
-          This edition has been prepared in conjunction with the coordinating efforts of 
-          the <hi rend="italic">Scholastic Commentaries and Text Archive</hi>, 
-          such that every section, paragraph, and quotation can be linked 
-          to a diplomatic transcription or multiple diplomatic transcriptions, and further linked 
-          to digital facsimiles of the manuscripts themselves. 
-          These diplomatic transcriptions are 
-          where medieval spelling and punctuation can be recorded 
-          at various levels of detail according to the discretion of the editor.
-          For this reason, we offer here a normalized edition 
-          that can and will function as an access point 
-          to subsequent diplomatic transcriptions made available 
-          to those with an interest in this kind of textual detail.
+          Given that there is only one extant manuscript of Gracilis's commentary, the critical
+          apparatus aims primarily to record editorial emendations against the text present in the
+          manuscript as well as to identify significant scribal corrections. 
+          The encoding of the critical apparatus follows the guidelines of the SCTA, 
+          which includes a detailed classification schema of variant types. 
+          For a detailed description of these variant types see the schema documentation 
+          <ref target="https://community.scta.info/pages/lombardpress-schema-critical.html">
+            https://community.scta.info/pages/lombardpress-schema-critical.html
+          </ref>.
+          As much as possible, these variation types have been rendered according 
+          to traditional critical apparatus conventions. 
+          We hope that these rendered descriptions are clear but we offer here a quick summary 
+          of the most common descriptions found in this rendering. 
         </p>
         <p>
-          Given that there is only one extant manuscript of Gracilis's commentary, 
-          the critical apparatus aims primarily to 
-          record editorial emendations against the text present in the manuscript
-          as well as to identify significant scribal corrections.
+          The abbreviation <hi rend="italic">om.</hi> corresponds to a variation type
+          <mentioned>variation-absent</mentioned> and indicates that the lemma in the main 
+          text is missing from the manuscript witness. 
+          The abbreviation <hi rend="italic">in textu.</hi> corresponds 
+          to variation type <mentioned>variation-present</mentioned> and indicates that a word or phrase 
+          is present in the manuscript, but the editors chose to exclude this from the main text.
+          The abbreviation <hi rend="italic">add.</hi>
+          corresponds to <mentioned>correction-addition</mentioned> indicating that the lemma in the main text 
+          is present in the manuscript but has been as added as kind of correction.
+          Finally, <hi rend="italic">add. sed. del</hi>
+          corresponds to <mentioned>correction-deletion</mentioned> and indicates that a word was added in the witness
+          but subsequently deleted.
+        </p>
+        <p>
+          Nota bene: Peter Gracilis’s commentary on the Sentences borrows heavily from the
+          commentary of John of Basel, the first volumes of which were recently published as:
+          Iohannis de Basilea OESA. Lectura super quattuor libros Sententiarum. Tomus I, super
+          primum librum, principium primum, quaest. 1–3. Ed. Venício Marcolino, cooperantibus Monica
+          Brînzei, Carolin Oser-Grote (Würzburg, Augustinus bei echter, 2016); Lectura super
+          quattuor libros Sententiarum. Tomus II, super primum librum, quaest. 4–35. Ed. Venício
+          Marcolino, cooperantibus Monica Brînzei, Carolin Oser-Grote (Würzburg, Augustinus bei
+          echter, 2017); and Lectura super quattuor libros Sententiarum. Tomus III, super secundum
+          librum. Ed. Venício Marcolino, cooperantibus Monica Brînzei, Carolin Oser-Grote (Würzburg,
+          Augustinus bei echter, 2018). The sources Gracilis references and quotes are often the
+          same as those of Basel, with slight modifications. As such, we have benefited greatly
+          from the editorial work of Venício Marcolino, Monica Brînzei, and Carolin Oser-Grote. We
+          have, of course, checked the references for accuracy.
         </p>
       </div>
     </body>
