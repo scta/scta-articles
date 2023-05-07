@@ -8,9 +8,9 @@
         <author>John T. Slotemaker</author>
       </titleStmt>
       <editionStmt>
-        <edition n="0.0.0-dev">
+        <edition n="1.0.0">
           <title>Editorial Principles</title>
-          <date when="2018-07-30">July 30, 2018</date>
+          <date when="2023-04-06">April 06, 2023</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -37,6 +37,9 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
+        <change when="2023-04-06" status="peer-reviewed" n="1.0.0">
+          <p>Peer Reviewed</p>
+        </change>
         <change when="2018-07-30" status="draft" n="0.0.0">
           <p>File Started for the first time.</p>
         </change>
@@ -44,9 +47,6 @@
     </revisionDesc>
   </teiHeader>
   <text xml:lang="en">
-    <front>
-      <div xml:id="starts-on"/>
-    </front>
     <body>
       <div>
         <head>Editorial Principles</head>
