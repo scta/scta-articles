@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/jcwitt/Projects/scta/tdf-schema/src/tdf-1-alt.rng"?>
+<list type="articles">
+  <manifestation manifestationDefault="true">
+    <name>lascasas-bibliography</name>
+    <title>Las Casa Bibliography</title>
+    <type>bibliography</type>
+    <isArticleOf>http://scta.info/resource/per-bdlcbd </isArticleOf>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <version versionDefault="true">
+        <hash>head</hash>
+        <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+        <url>https://api.zotero.org/groups/555244/collections/2F8X5VR9/items/top?format=tei</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+</list>
