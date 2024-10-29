@@ -5,7 +5,7 @@
     <name>lascasas-bibliography</name>
     <title>Las Casa Bibliography</title>
     <type>bibliography</type>
-    <isArticleOf>http://scta.info/resource/per-bdlcbd </isArticleOf>
+    <isArticleOf>http://scta.info/resource/per-bdlcbd</isArticleOf>
     <transcriptions>
       <transcription transcriptionDefault="true">
         <version versionDefault="true">
